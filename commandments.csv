@@ -399,6 +399,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 17;1PE 4:13;positive;;;;Peter;direct;;;;;;
 17;PSA 5:12-13;positive;;;;David;indirect;;;;;;
 17;PSA 119:16;positive;;;;David;indirect;;;;;;
+17;SNG 1:4;positive;;;;Solomon;indirect;;;;;;
 17;LUK 1:46-47;positive;;;;Mary;indirect;;;;;;
 17;LUK 10:17-20;both;;;;Jesus;indirect;;;;;;
 17;ROM 12:12;positive;;;;Paul;indirect;;;;;;
@@ -506,6 +507,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 22;1TH 5:22;positive;;;;Paul;direct;;;;;;
 22;1PE 2:12;positive;;;;Peter;direct;;;;;;
 22;DEU 13:6-10;both;;;;Moses;indirect;;;;;;
+22;SNG 2:15;both;;;;Solomon;indirect;;;;;;
 22;HEB 12:1;positive;;;;Paul?;indirect;;;;;;
 22;JAS 1:14-15;negative;;;;James;indirect;;;;;;
 22;MRK 9:43-48;both;;;;Jesus;duplicate;;;;;;
@@ -527,6 +529,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 23;MAT 5:27-32;both;;;;Jesus;primary;;;;;;
 23;HEB 13:4;both;;;;Paul?;direct;;;;;;
 23;1PE 4:1-2;both;;;;Peter;direct;;;;;;
+23;SNG 2:7;negative;;;;Solomon;indirect;;;;;;
+23;SNG 3:5;negative;;;;Solomon;indirect;;;;;;
 23;MAL 2:14-16;both;;;;Malachi;indirect;;;;;;
 23;MAT 19:6;negative;;;;Jesus;indirect;;;;;;
 23;MAT 19:9;negative;;;;Jesus;indirect;;;;;;
@@ -1522,7 +1526,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 73;JHN 4:13-24;both;;;;Jesus;indirect;;;;;;
 73;JHN 1:32-33;positive;;;;John the baptist;example;;;;;;
 73;ROM 6:1-8:39;both;;;;Paul;study;;;;;;
-74;;;;;;;;Second Commandment;We are called to glorify the Name of God in Christ Jesus!;;;You can turn your troubles into trust when you choose worship over worry.;Rosette Mugidde Wamambe
+74;;;;;;;;Second Commandment;We are called to glorify the Name of God in Christ Jesus!;;;God is most glorified in us, when we are most satisfied in Him;John Piper
 74;JHN 17:9-10;positive;;;;Jesus;primary;;;;;;
 74;PSA 72:18-19;positive;;;;David;direct;;;;;;
 74;PSA 90:16-17;positive;;;;Moses;direct;;;;;;
