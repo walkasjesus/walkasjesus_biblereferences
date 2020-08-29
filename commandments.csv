@@ -92,6 +92,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 3;PSA 17:5;positive;;;;David;example;;;;;;
 3;LUK 9:57-62;positive;;;;Jesus;example;;;;;;
 3;LUK 18:28-30;positive;;;;Peter;example;;;;;;
+3;1CO 11:1;positive;;;;Paul;example;;;;;;
 3;JHN 10:1-16;positive;;;;Jesus;study;;;;;;
 3;DEU 28:9;positive;610;CCA6;To imitate His good and upright ways;Moses;otlaw;;;;;;
 4;;;;;;;;Seventh Commandment;Therefore bear fruits worthy of repentance;He cuts off every branch in me that bears no fruit;;;
@@ -154,8 +155,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 6;2TH 3:1;positive;;;;Paul;indirect;;;;;;
 6;LUK 10:2;positive;;;;Jesus;duplicate;;;;;;
 6;EPH 6:19;positive;;;;Paul;example;;;;;;
-7;;;;;;;;Fourth Commandment;Take a day off in the week;The sabbath was made for man, and not man for the sabbath;;;
+7;;;;;;;;Fourth Commandment;Remember the sabbath day, to keep it holy;The sabbath was made for man, and not man for the sabbath;;;
 7;MRK 2:23-28;positive;;;;Jesus;primary;;;;;;
+7;EXO 31:16-17;positive;;;;Moses;direct;;;;;;
 7;ROM 14:5-7;positive;;;;Paul;direct;;;;;;
 7;COL 2:16-17;positive;;;;Paul;direct;;;;;;
 7;MAT 12:1-8;positive;;;;Jesus;duplicate;;;;;;
@@ -235,6 +237,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 10;ISA 66:10;positive;;;;HEERE;indirect;;;;;;
 10;ISA 66:13;positive;;;;HEERE;indirect;;;;;;
 10;LUK 6:22;positive;;;;Jesus;indirect;;;;;;
+10;HEB 4:15-16;positive;;;;Unknown;indirect;;;;;;
 10;LUK 6:21;positive;;;;Jesus;duplicate;;;;;;
 10;2KI 22:19-20;positive;;;;HEERE;example;;;;;;
 10;JON 3:4-8;positive;;;;People in Nineveh;example;;;;;;
@@ -264,6 +267,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;JHN 6:27;both;;;;Jesus;direct;;;;;;
 12;ROM 3:25;positive;;;;Paul;direct;;;;;;
 12;2CO 5:21;positive;;;;Paul;direct;;;;;;
+12;1JN 3:7;positive;;;;John;direct;;;;;;
 12;PSA 1:1-2;both;;;;David;indirect;;;;;;
 12;PSA 32:1-2;positive;;;;David;indirect;;;;;;
 12;PSA 34:11;both;;;;David;indirect;;;;;;
@@ -280,6 +284,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;DEU 8:3;positive;;;;Moses;example;;;;;;
 12;PSA 17:15;positive;;;;David;example;;;;;;
 12;PSA 63:2;positive;;;;David;example;;;;;;
+12;LUK 1:6;positive;;;;Zacharias & Elisabeth;example;;;;;;
 12;JHN 4:13-14;positive;;;;Jesus;example;;;;;;
 12;ACT 10:34-35;positive;;;;Peter;example;;;;;;
 12;PRO 11:25;positive;;;;Solomon;wisdom;;;;;;
@@ -396,6 +401,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 17;ZEC 9:9;positive;;;;Zechariah;direct;;;;;;
 17;LUK 1:14;positive;;;;Angel;direct;;;;;;
 17;ROM 15:10;positive;;;;Paul;direct;;;;;;
+17;PHP 2:17-18;positive;;;;Paul;direct;;;;;;
+17;PHP 4:4;positive;;;;Paul;direct;;;;;;
 17;1PE 4:13;positive;;;;Peter;direct;;;;;;
 17;PSA 5:12-13;positive;;;;David;indirect;;;;;;
 17;PSA 119:16;positive;;;;David;indirect;;;;;;
@@ -569,6 +576,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 24;2CH 19:6-9;positive;;;;Jehoshaphat;example;;;;;;
 24;2CH 34:31;positive;;;;Josiah;example;;;;;;
 24;ACT 24:15-16;positive;;;;Paul;example;;;;;;
+24;PHP 2:20;positive;;;;Timothy;example;;;;;;
 24;2CO 1:15-22;positive;;;;Paul;study;;;;;;
 24;LEV 5:23;positive;130;CCA68;To restore that which one took by robbery;Moses;otlaw;;;;;;
 24;NUM 5:6;positive;364;CCA33;To make confession before the L-rd of any sin that one has committed, when bringing a sacrifice and at other times;HEERE;otlaw;;;;;;
@@ -773,6 +781,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 34;EXO 16:4;both;;;;HEERE;direct;;;;;;
 34;PSA 52:9-11;both;;;;David;direct;;;;;;
 34;LUK 21:34;both;;;;Jesus;direct;;;;;;
+34;PHP 4:6-7;positive;;;;Paul;direct;;;;;;
 34;PSA 55:23-24;both;;;;David;indirect;;;;;;
 34;ROM 9:30-33;negative;;;;Paul;indirect;;;;;;
 34;LUK 12:22-34;both;;;;Jesus;duplicate;;;;;;
@@ -791,6 +800,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 35;1SA 12:23;both;;;;Samuel;indirect;;;;;;
 35;JAS 5:9;negative;;;;James;indirect;;;;;;
 35;LUK 6:38;both;;;;Jesus;duplicate;;;;;;
+35;ROM 1:32-2:3;negative;;;;Paul;example;;;;;;
 35;1CO 4:14;positive;;;;Paul;example;;;;;;
 35;JHN 13:2-17;positive;;;;Jesus;study;;;;;;
 35;ROM 14:1-23;both;;;;Paul;study;;;;;;
@@ -888,6 +898,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 40;2CH 22:3-4;negative;;;;Ahaziah;example;;;;;;
 40;2CH 24:17-19;negative;;;;Joash;example;;;;;;
 40;ACT 20:28-31;positive;;;;Paul;example;;;;;;
+40;PHP 3:2-3;positive;;;;Paul;example;;;;;;
 40;DEU 18:18-22;both;;;;HEERE;study;;;;;;
 40;1KI 22:19-28;positive;;;;Micaiah;study;;;;;;
 40;PRO 14:15;both;;;;Solomon;wisdom;;;;;;
@@ -908,6 +919,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 41;ACT 3:22;positive;;;;Peter;direct;;;;;;
 41;ACT 5:29;positive;;;;Jesus;direct;;;;;;
 41;ROM 2:13;both;;;;Paul;direct;;;;;;
+41;PHP 4:9;positive;;;;Paul;direct;;;;;;
 41;JAS 1:22-25;both;;;;James;direct;;;;;;
 41;1JN 2:5;positive;;;;John;direct;;;;;;
 41;REV 1:3;positive;;;;Jesus;direct;;;;;;
@@ -1114,6 +1126,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 49;MAT 10:40-41;positive;;;;Jesus;indirect;;;;;;
 49;ACT 9:43;positive;;;;Simon;example;;;;;;
 49;ACT 28:30;positive;;;;Paul;example;;;;;;
+49;PHP 2:29;positive;;;;People in Philippians;example;;;;;;
 49;JOB 31:32;positive;;;;Job;wisdom;;;;;;
 49;PRO 14:21;both;;;;Solomon;wisdom;;;;;;
 50;;;;;;;;Third Commandment;Blessed is he who does not offend Me;;;;
@@ -1147,6 +1160,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 51;2CH 14:2-7;positive;;;;Asa;example;;;;;;
 51;MRK 3:14;positive;;;;Jesus;example;;;;;;
 51;LUK 10:38-42;both;;;;Martha & Mary;example;;;;;;
+51;PHP 2:5-11;positive;;;;Jesus;example;;;;;;
 51;PRO 23:26;positive;;;;Solomon;wisdom;;;;;;
 52;;;;;;;;Third Commandment;Calm words are a tree of life;;;;
 52;MAT 12:36-37;positive;;;;Jesus;primary;;;;;;
@@ -1249,6 +1263,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 58;ISA 8:20;positive;;;;Isaiah;direct;;;;;;
 58;ISA 34:16;positive;;;;Isaiah;direct;;;;;;
 58;ACT 17:11;positive;;;;People from Berea;direct;;;;;;
+58;PHP 2:14-16;positive;;;;Paul;direct;;;;;;
 58;2TI 3:16-17;positive;;;;Paul;direct;;;;;;
 58;LUK 16:29;positive;;;;Abraham;indirect;;;;;;
 58;1CH 28:6-10;positive;;;;David;example;;;;;;
@@ -1263,7 +1278,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 58;PRO 8:32-36;both;;;;Solomon;wisdom;;;;;;
 58;PRO 13:13;both;;;;Solomon;wisdom;;;;;;
 58;PRO 16:20;positive;;;;Solomon;wisdom;;;;;;
-59;;;;;;;;Tenth Commandment;Take heed, and beware of covetousness;;;Not happiness makes grateful, but gratitude makes you happy!;Maarten Bruynes
+59;;;;;;;;Tenth Commandment;Take heed, and beware of covetousness;;;;
 59;LUK 12:15;positive;;;;Jesus;primary;;;;;;
 59;;;;;;;;;;;Do you recognize one of the symptoms for greed mentioned in the description?;;
 59;LUK 3:14;both;;;;John the baptist;direct;;;;;;
@@ -1292,7 +1307,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 61;LUK 19:9-10;positive;;;;Jesus;direct;;;;;;
 61;MAT 15:24;both;;;;Jesus;indirect;;;;;;
 61;PSA 119:176;positive;;;;David;example;;;;;;
-62;;;;;;;;Tenth Commandment;In every thing give thanks;;;;
+62;;;;;;;;Tenth Commandment;In every thing give thanks;;;It is not happiness that makes you grateful, but gratitude makes you happy;Maarten Bruynes
 62;LUK 17:11-19;both;;;;Jesus;primary;;;;;;
 62;PSA 150:1-6;positive;;;;Unknown;direct;;;;;;
 62;1CO 15:57;positive;;;;Paul;direct;;;;;;
@@ -1330,6 +1345,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 64;PSA 138:6;both;;;;David;direct;;;;;;
 64;MAT 20:26-27;positive;;;;Jesus;direct;;;;;;
 64;MAT 23:10-12;both;;;;Jesus;direct;;;;;;
+64;PHP 2:3;positive;;;;Paul;direct;;;;;;
 64;JAS 4:6;both;;;;James;direct;;;;;;
 64;1PE 5:2-3;both;;;;Peter;direct;;;;;;
 64;1PE 5:5;both;;;;Peter;direct;;;;;;
@@ -1538,6 +1554,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 74;ROM 11:36;positive;;;;Paul;direct;;;;;;
 74;1CO 6:20;positive;;;;Paul;direct;;;;;;
 74;EPH 1:13-14;positive;;;;Paul;direct;;;;;;
+74;PHP 1:21;positive;;;;Paul;direct;;;;;;
 74;1TH 2:12;positive;;;;Paul;direct;;;;;;
 74;1PE 4:10-11;positive;;;;Peter;direct;;;;;;
 74;REV 4:11;positive;;;;Jesus;direct;;;;;;
