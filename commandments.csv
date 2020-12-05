@@ -71,7 +71,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 2;MRK 1:5;positive;;;;John the baptist;example;;;;;;
 2;ACT 8:12-17;positive;;;;Other;example;;;;;;
 2;ACT 9:18;positive;;;;Paul;example;;;;;;
-3;;;;;;;;First Commandment;Follow Me;;;Your father brought you in this world, but Rabbi Jesus will bring you in the future world;
+3;;;;;;;;First Commandment;Follow Me;;;Following Jesus: It's not a responsibility, it's a desire;
 3;MAT 9:9;positive;;;;Jesus;primary;;;;;;
 3;2CH 7:17-18;positive;;;;HEERE;direct;;;;;;
 3;MRK 1:17;positive;;;;Jesus;direct;;;;;;
@@ -122,7 +122,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 4;LUK 13:6-9;both;;;;Jesus;study;;;;;;
 4;JHN 15:1-8;both;;;;Jesus;study;;;;;;
 4;GEN 1:28;positive;1;CCA43;To be fruitful and multiply;HEERE;otlaw;;;;;;
-5;;;;;;;;First Commandment;You shall worship the LORD your God, and Him only you shall serve;No servant can serve two masters;;Words which do not give the light of Christ increase the darkness;Mother Teresa
+5;;;;;;;;First Commandment;You shall worship the LORD your God, and Him only you shall serve;No servant can serve two masters;;Worship is the activity of the human soul;Louie Giglio
 5;MAT 4:10;positive;;;;Jesus;primary;;;;;;
 5;JOS 24:14;both;;;;Joshua;direct;;;;;;
 5;JOS 24:19-24;both;;;;Joshua;direct;;;;;;
@@ -202,6 +202,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 8;LUK 9:2;positive;;;;Jesus;indirect;;;;;;
 8;LUK 9:6;positive;;;;Jesus;indirect;;;;;;
 8;LUK 9:60;positive;;;;Jesus;indirect;;;;;;
+8;1TI 2:1-6;positive;;;;Paul;indirect;;;;;;
 8;MRK 5:18-20;positive;;;;Jesus;duplicate;;;;;;
 8;MRK 6:7;positive;;;;Jesus;duplicate;;;;;;
 8;ACT 26:15-18;positive;;;;Paul;duplicate;;;;;;
@@ -264,6 +265,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 11;PRO 3:34;both;;;;Solomon;wisdom;;;;;;
 12;;;;;;;;Second Commandment;Blessed are they which do hunger and thirst after righteousness: for they shall be filled;;;;
 12;MAT 5:6;positive;;;;Jesus;primary;;;;;;
+12;DEU 6:25;positive;;;;Moses;direct;;;;;;
 12;PSA 90:14;positive;;;;Moses;direct;;;;;;
 12;ISA 53:11;positive;;;;Isaiah;direct;;;;;;
 12;ISA 55:1-2;both;;;;Isaiah;direct;;;;;;
@@ -277,6 +279,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;PSA 32:1-2;positive;;;;David;indirect;;;;;;
 12;PSA 34:11;both;;;;David;indirect;;;;;;
 12;PSA 107:8-9;positive;;;;Unknown;indirect;;;;;;
+12;PSA 119:7;positive;;;;David;indirect;;;;;;
+12;PSA 119:160;positive;;;;David;indirect;;;;;;
 12;ISA 25:6;positive;;;;Isaiah;indirect;;;;;;
 12;ISA 55:1;positive;;;;Isaiah;indirect;;;;;;
 12;MAT 4:4;positive;;;;Jesus;indirect;;;;;;
@@ -444,6 +448,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 19;ACT 13:47;positive;;;;Paul;direct;;;;;;
 19;EPH 5:8;positive;;;;Paul;direct;;;;;;
 19;PHP 2:14-15;positive;;;;Paul and Timotheus;direct;;;;;;
+19;1TI 2:9-10;positive;;;;Paul;direct;;;;;;
 19;ISA 42:6-7;positive;;;;Isaiah;indirect;;;;;;
 19;LUK 8:16;both;;;;Jesus;duplicate;;;;;;
 19;LUK 12:3;positive;;;;Jesus;duplicate;;;;;;
@@ -620,6 +625,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 26;MAT 25:35-36;positive;;;;Jesus;direct;;;;;;
 26;LUK 3:11;positive;;;;Jesus;direct;;;;;;
 26;ACT 20:35;positive;;;;Paul;direct;;;;;;
+26;1TI 6:17-19;positive;;;;Paul;direct;;;;;;
 26;JAS 1:27;positive;;;;James;direct;;;;;;
 26;JAS 2:15-16;negative;;;;James;direct;;;;;;
 26;LUK 6:30;both;;;;Jesus;indirect;;;;;;
@@ -877,6 +883,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 39;PSA 125:1-5;both;;;;Unknown;indirect;;;;;;
 39;JHN 18:36;positive;;;;Jesus;indirect;;;;;;
 39;MAT 7:13-14;both;;;;Jesus;duplicate;;;;;;
+39;1TI 1:18;positive;;;;Paul;duplicate;;;;;;
 39;COL 1:29;positive;;;;Paul;example;;;;;;
 39;COL 4:12;positive;;;;Epaphras;example;;;;;;
 39;2TI 4:7;positive;;;;Paul;example;;;;;;
@@ -1147,6 +1154,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 50;MAT 10:32-33;both;;;;Jesus;direct;;;;;;
 50;MAT 13:20-21;negative;;;;Jesus;direct;;;;;;
 50;LUK 9:26;negative;;;;Jesus;direct;;;;;;
+50;2TI 1:8;positive;;;;Paul;direct;;;;;;
 50;1JN 2:23;negative;;;;Jesus;direct;;;;;;
 50;MRK 8:38;negative;;;;Jesus;indirect;;;;;;
 50;JHN 15:18-16:4;both;;;;Jesus;indirect;;;;;;
@@ -1175,7 +1183,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 51;LUK 10:38-42;both;;;;Martha & Mary;example;;;;;;
 51;PHP 2:5-11;positive;;;;Jesus;example;;;;;;
 51;PRO 23:26;positive;;;;Solomon;wisdom;;;;;;
-52;;;;;;;;Third Commandment;Calm words are a tree of life;;;;
+52;;;;;;;;Third Commandment;Calm words are a tree of life;;;Words which do not give the light of Christ increase the darkness;Mother Teresa
 52;MAT 12:36-37;positive;;;;Jesus;primary;;;;;;
 52;PSA 141:3;positive;;;;David;direct;;;;;;
 52;PSA 106:32-33;negative;;;;Moses;indirect;;;;;;
@@ -1344,6 +1352,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 63;MRK 10:19;both;;;;Jesus;direct;;;;;;
 63;JHN 19:26-27;positive;;;;John;direct;;;;;;
 63;COL 3:20;positive;;;;Paul;direct;;;;;;
+63;1TI 5:4;positive;;;;Paul;indirect;;;;;;
 63;LUK 18:20;both;;;;Jesus;duplicate;;;;;;
 63;1KI 19:19-21;positive;;;;Elisha;example;;;;;;
 63;LUK 2:51;positive;;;;Jesus;example;;;;;;
@@ -1394,6 +1403,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 65;PSA 2:12;both;;;;Unknown;direct;;;;;;
 65;MRK 10:27;both;;;;Jesus;direct;;;;;;
 65;ROM 12:1-2;both;;;;Paul;direct;;;;;;
+65;1TI 1:19;positive;;;;Paul;direct;;;;;;
 65;PSA 52:8-11;both;;;;David;indirect;;;;;;
 65;1SA 14:6-12;positive;;;;Jonathan;example;;;;;;
 65;1SA 17:45-47;positive;;;;David;example;;;;;;
@@ -1415,6 +1425,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 66;ISA 26:9;positive;;;;Isaiah;direct;;;;;;
 66;JHN 14:23;positive;;;;Jesus;direct;;;;;;
 66;1CO 2:4-5;positive;;;;Paul;direct;;;;;;
+66;1TI 1:5;positive;;;;Paul;direct;;;;;;
 66;2TI 3:16-17;positive;;;;Paul;direct;;;;;;
 66;1PE 3:15;positive;;;;Peter;direct;;;;;;
 66;1JN 4:19;positive;;;;John;direct;;;;;;
@@ -1495,6 +1506,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 69;LUK 17:7-10;positive;;;;Jesus;direct;;;;;;
 69;ROM 12:6-8;positive;;;;Paul;direct;;;;;;
 69;2CO 5:10;positive;;;;Paul;direct;;;;;;
+69;1TI 4:14;negative;;;;Timothy;example;;;;;;
 69;LUK 19:12-26;positive;;;;Jesus;study;;;;;;
 69;EXO 13:2;positive;18;CCA53;To sanctify the firstling of clean cattle and offer it up;HEERE;otlaw;;;;;;
 69;NUM 15:20;positive;385;CCA57;To set apart a portion of the dough for the kohein;HEERE;otlaw;;;;;;
@@ -1545,6 +1557,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 72;ACT 15:31-32;positive;;;;Judas and Silas;example;;;;;;
 72;ACT 16:40;positive;;;;Paul and Silas;example;;;;;;
 72;1TH 3:2;positive;;;;Timotheus;example;;;;;;
+72;2TI 2:1;positive;;;;Paul;example;;;;;;
 72;NUM 6:23;positive;378;CCA58;That the kohanim shall bless Israel;HEERE;otlaw;;;;;;
 72;JOB 4:4;positive;;;;Friend of Job;wisdom;;;;;;
 72;JOB 6:14;negative;;;;Job;wisdom;;;;;;
@@ -1589,6 +1602,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 74;ROM 1:21-25;negative;;;;Paul;example;;;;;;
 74;GAL 2:19-20;positive;;;;Paul;example;;;;;;
 74;EPH 3:8-9;positive;;;;Paul;example;;;;;;
+74;1TI 1:16-17;positive;;;;Paul;example;;;;;;
 74;PSA 96:1-13;positive;;;;Unknown;study;;;;;;
 74;PHP 3:7-15;positive;;;;Paul;study;;;;;;
 75;;;;;;;;Eighth Commandment;Feed my sheep;;;;
