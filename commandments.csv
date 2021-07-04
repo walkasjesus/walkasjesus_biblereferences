@@ -6,6 +6,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 1;;;;;;;;;;;With which other christians would you like to walk through all the commandments?;;
 1;2CH 30:9;positive;;;;Undetermined;direct;;;;;;
 1;ISA 55:7;positive;;;;Isaiah;direct;;;;;;
+1;JER 3:12-13;positive;;;;Jeremiah;direct;;;;;;
 1;JOL 2:12-13;positive;;;;Joel;direct;;;;;;
 1;MAT 7:21;both;;;;Jesus;direct;;;;;;
 1;LUK 13:3;negative;;;;Jesus;direct;;;;;;
@@ -288,6 +289,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;PSA 119:160;positive;;;;David;indirect;;;;;;
 12;ISA 25:6;positive;;;;Isaiah;indirect;;;;;;
 12;ISA 55:1;positive;;;;Isaiah;indirect;;;;;;
+12;JER 9:23-24;both;;;;Jeremiah;indirect;;;;;;
 12;MAT 4:4;positive;;;;Jesus;indirect;;;;;;
 12;JHN 6:35;positive;;;;Jesus;indirect;;;;;;
 12;JHN 6:51;positive;;;;Jesus;indirect;;;;;;
@@ -347,6 +349,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 14;1TI 1:5;positive;;;;Paul;indirect;;;;;;
 14;HEB 9:13-14;positive;;;;Paul?;indirect;;;;;;
 14;HEB 10:22;positive;;;;Paul?;indirect;;;;;;
+14;JAS 4:17;negative;;;;James;indirect;;;;;;
 14;JAS 5:16;positive;;;;James;indirect;;;;;;
 14;1JN 1:8-10;both;;;;John;indirect;;;;;;
 14;MRK 7:14-16;both;;;;Jesus;duplicate;;;;;;
@@ -356,6 +359,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 14;1KI 8:35-36;positive;;;;Solomon;example;;;;;;
 14;2CH 32:31;positive;;;;Hezekiah;example;;;;;;
 14;PSA 51:12;positive;;;;David;example;;;;;;
+14;LAM 3:40-42;both;;;;Unknown;example;;;;;;
 14;MAT 15:18-19;negative;;;;Jesus;example;;;;;;
 14;PSA 18:21-27;both;;;;David;study;;;;;;
 14;MIC 7:18-20;positive;;;;Micah;study;;;;;;
@@ -372,8 +376,10 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 15;NAM 1:15;both;;;;Nahum;direct;;;;;;
 15;JHN 16:33;positive;;;;Jesus;direct;;;;;;
 15;PHP 4:7;positive;;;;Paul and Timotheus;direct;;;;;;
+15;JAS 3:18;positive;;;;James;direct;;;;;;
 15;PSA 119:161-168;positive;;;;Unknown;indirect;;;;;;
 15;PSA 122:6-9;positive;;;;David;indirect;;;;;;
+15;JER 29:7;positive;;;;Jeremiah;indirect;;;;;;
 15;JHN 14:27;both;;;;Jesus;indirect;;;;;;
 15;ROM 8:14-16;both;;;;Paul;indirect;;;;;;
 15;EPH 2:13;positive;;;;Paul;indirect;;;;;;
@@ -386,6 +392,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 16;MRK 8:35;both;;;;Jesus;direct;;;;;;
 16;LUK 12:4;positive;;;;Jesus;direct;;;;;;
 16;ROM 8:38-39;positive;;;;Paul;direct;;;;;;
+16;JAS 1:2-3;positive;;;;James;direct;;;;;;
 16;JAS 1:12;positive;;;;James;direct;;;;;;
 16;1PE 3:14;both;;;;Peter;direct;;;;;;
 16;PSA 86:6-7;positive;;;;David;indirect;;;;;;
@@ -475,6 +482,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 20;1KI 6:12;positive;;;;HEERE;direct;;;;;;
 20;2KI 21:8;both;;;;HEERE;direct;;;;;;
 20;PSA 112:1;positive;;;;Unknown;direct;;;;;;
+20;JER 7:23;positive;;;;Jeremiah;direct;;;;;;
+20;JER 16:10-11;negative;;;;Jeremiah;direct;;;;;;
 20;MAT 19:17;positive;;;;Jesus;direct;;;;;;
 20;MAT 28:19;positive;;;;Jesus;direct;;;;;;
 20;JHN 14:15;positive;;;;Jesus;direct;;;;;;
@@ -486,12 +495,14 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 20;REV 22:14;positive;;;;Jesus;direct;;;;;;
 20;2CH 12:1;negative;;;;Rehoboam;indirect;;;;;;
 20;ISA 2:2-3;positive;;;;Isaiah;indirect;;;;;;
+20;JER 7:5-7;positive;;;;Jeremiah;indirect;;;;;;
 20;MIC 4:1-2;positive;;;;Micah;indirect;;;;;;
 20;MAL 4:4;positive;;;;HEERE;indirect;;;;;;
 20;LUK 16:17;positive;;;;Jesus;indirect;;;;;;
 20;GAL 6:2;positive;;;;Paul;indirect;;;;;;
 20;EPH 5:1;positive;;;;Paul;indirect;;;;;;
 20;HEB 5:11-14;both;;;;Unknown;indirect;;;;;;
+20;JAS 1:25;positive;;;;James;indirect;;;;;;
 20;LUK 4:15;positive;;;;Jesus;duplicate;;;;;;
 20;1SA 7:15-17;positive;;;;Samuel;example;;;;;;
 20;1KI 11:11;negative;;;;HEERE;example;;;;;;
@@ -501,6 +512,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 20;PSA 19:8-9;positive;;;;David;example;;;;;;
 20;ISA 33:22;positive;;;;Isaiah;example;;;;;;
 20;ISA 42:24;negative;;;;Isaiah;example;;;;;;
+20;LAM 2:9;negative;;;;Unknown;example;;;;;;
 20;AMO 2:4;negative;;;;Amos;example;;;;;;
 20;LUK 1:6;positive;;;;Zacharias and Elisabeth;example;;;;;;
 20;LUK 4:31-32;positive;;;;Jesus;example;;;;;;
@@ -535,10 +547,13 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 21;PRO 25:8;negative;;;;Solomon;wisdom;;;;;;
 22;;;;;;;;First Commandment;Eliminate any cause of temptation;;;This book will keep you from sin, or sin will keep you from this book;John Bunyan
 22;MAT 18:8-9;both;;;;Jesus;primary;;;;;;
+22;;;;;;;;;;;What is your attitude when you go through trials?;;
+22;;;;;;;;;;;Where do temptations and troubles come from?;;
 22;MAT 5:27-30;both;;;;Jesus;direct;;;;;;
 22;ROM 12:9;positive;;;;Paul;direct;;;;;;
 22;ROM 13:14;both;;;;Paul;direct;;;;;;
 22;1TH 5:22;positive;;;;Paul;direct;;;;;;
+22;JAS 4:7;positive;;;;James;direct;;;;;;
 22;1PE 2:12;positive;;;;Peter;direct;;;;;;
 22;DEU 13:6-10;both;;;;Moses;indirect;;;;;;
 22;SNG 2:15;both;;;;Solomon;indirect;;;;;;
@@ -603,6 +618,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 24;JOS 24:24-27;positive;;;;People of Israel;example;;;;;;
 24;2CH 19:6-9;positive;;;;Jehoshaphat;example;;;;;;
 24;2CH 34:31;positive;;;;Josiah;example;;;;;;
+24;JER 9:8;negative;;;;Jeremiah;example;;;;;;
 24;ACT 24:15-16;positive;;;;Paul;example;;;;;;
 24;PHP 2:20;positive;;;;Timothy;example;;;;;;
 24;JON 1:14-2:9;both;;;;Sailors and Jonah;study;;;;;;
@@ -829,6 +845,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 35;LUK 17:3;positive;;;;Jesus;direct;;;;;;
 35;JHN 7:24;positive;;;;Jesus;direct;;;;;;
 35;GAL 6:1;both;;;;Paul;direct;;;;;;
+35;GEN 4:11-12;negative;;;;James;indirect;;;;;;
 35;1SA 12:23;both;;;;Samuel;indirect;;;;;;
 35;TIT 1:9-10;positive;;;;Paul;indirect;;;;;;
 35;JAS 5:9;negative;;;;James;indirect;;;;;;
@@ -860,6 +877,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 36;JHN 14:6;positive;;;;Jesus;indirect;;;;;;
 36;LUK 12:31;positive;;;;Jesus;duplicate;;;;;;
 36;2CH 26:5;positive;;;;Uzziah;example;;;;;;
+36;JER 29:13-14;positive;;;;Jeremiah;example;;;;;;
 36;MAT 13:45;positive;;;;Jesus;example;;;;;;
 36;PSA 14:1-7;negative;;;;David;study;;;;;;
 36;PSA 53:1-7;negative;;;;David;study;;;;;;
@@ -933,11 +951,14 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 40;1KI 13:15-19;negative;;;;Other;example;;;;;;
 40;2CH 22:3-4;negative;;;;Ahaziah;example;;;;;;
 40;2CH 24:17-19;negative;;;;Joash;example;;;;;;
+40;JER 29:31-32;negative;;;;Jeremiah;example;;;;;;
 40;ACT 20:28-31;positive;;;;Paul;example;;;;;;
 40;PHP 3:2-3;positive;;;;Paul;example;;;;;;
 40;TIT 1:12-14;both;;;;Paul;example;;;;;;
 40;DEU 18:18-22;both;;;;HEERE;study;;;;;;
 40;1KI 22:19-28;positive;;;;Micaiah;study;;;;;;
+40;JER 27:9-17;negative;;;;Jeremiah;study;;;;;;
+40;JER 28:1-17;negative;;;;Jeremiah;study;;;;;;
 40;PRO 14:15;both;;;;Solomon;wisdom;;;;;;
 41;;;;;;;;Second Commandment;Listen to Jesus, understand and obey;;;When a man listens, God speaks. If a man obeys, God acts. When a man prays, God gives strength.;Corrie ten Boom
 41;MAT 7:24-25;positive;;;;Jesus;primary;;;;;;
@@ -963,6 +984,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 41;DEU 6:4-5;positive;;;;Moses;indirect;;;;;;
 41;PSA 95:6-8;both;;;;Unknown;indirect;;;;;;
 41;ISA 42:20;negative;;;;Isaiah;indirect;;;;;;
+41;JER 7:13-14;negative;;;;Jeremiah;indirect;;;;;;
+41;JER 9:13;negative;;;;Jeremiah;indirect;;;;;;
 41;MAT 13:43;positive;;;;Jesus;indirect;;;;;;
 41;MAT 22:14;positive;;;;Jesus;indirect;;;;;;
 41;MRK 7:14-16;both;;;;Jesus;indirect;;;;;;
@@ -1033,6 +1056,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 43;EXO 23:5;positive;80;CCA70;To relieve a neighbor of his burden and help to unload his beast;Moses;indirect;;;;;;
 43;DEU 22:4;positive;541;CCA71;To assist in replacing the load upon a neighbor's beast;Moses;indirect;;;;;;
 43;ISA 42:6-7;positive;;;;Isaiah;indirect;;;;;;
+43;JER 22:3;both;;;;Jeremiah;indirect;;;;;;
 43;MAT 25:36;positive;;;;Jesus;indirect;;;;;;
 43;MRK 6:34;positive;;;;Jesus;indirect;;;;;;
 43;LUK 4:18;positive;;;;Jesus;indirect;;;;;;
@@ -1051,6 +1075,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 43;JOB 20:21-22;both;;;;Job;wisdom;;;;;;
 44;;;;;;;;Ninth Commandment;Be wise as serpents and harmless as doves;Do not throw your pearls to pigs;;;
 44;MAT 10:16-17;positive;;;;Jesus;primary;;;;;;
+44;;;;;;;;;;;How does biblical wisdom differ from worldly wisdom?;;
+44;;;;;;;;;;;When do you throw a pearl to a pig?;;
 44;PSA 101:1-8;positive;;;;David;direct;;;;;;
 44;MAT 7:6;negative;;;;Jesus;direct;;;;;;
 44;GEN 1:1;positive;;;;Undetermined;indirect;;;;;;
@@ -1059,6 +1085,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 44;ACT 13:6-12;negative;;;;Paul;example;;;;;;
 44;ACT 22:17-21;positive;;;;Paul;example;;;;;;
 44;TIT 1:10-14;positive;;;;Paul;example;;;;;;
+44;JAS 3:13-18;both;;;;James;study;;;;;;
 44;JOB 1:1;positive;;;;Job;wisdom;;;;;;
 44;JOB 12:4;both;;;;Job;wisdom;;;;;;
 44;PRO 1:22;negative;;;;Solomon;wisdom;;;;;;
@@ -1085,9 +1112,15 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 45;1KI 8:39-40;positive;;;;Solomon;indirect;;;;;;
 45;PSA 85:9-14;both;;;;Sons of Korah;indirect;;;;;;
 45;PSA 128:1-6;positive;;;;Unknown;indirect;;;;;;
+45;JER 2:35;positive;;;;Jeremiah;indirect;;;;;;
+45;JER 10:10;both;;;;Jeremiah;indirect;;;;;;
 45;NAM 1:2-3;both;;;;Nahum;indirect;;;;;;
+45;JAS 2:12;both;;;;James;indirect;;;;;;
 45;2SA 6:6-9;both;;;;Moses;example;;;;;;
 45;PSA 34:12;positive;;;;David;example;;;;;;
+45;JER 2:19;negative;;;;Jeremiah;example;;;;;;
+45;LAM 1:22;both;;;;Unknown;example;;;;;;
+45;LAM 3:64-66;both;;;;Unknown;example;;;;;;
 45;JON 3:7-10;positive;;;;People in Nineveh;example;;;;;;
 45;ACT 2:43;positive;;;;Other;example;;;;;;
 45;ACT 5:1-11;negative;;;;Ananias and Sapphira;example;;;;;;
@@ -1118,6 +1151,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 46;ACT 28:31;positive;;;;Paul;direct;;;;;;
 46;PSA 119:41-48;positive;;;;Unknown;indirect;;;;;;
 46;ISA 8:12;negative;;;;Isaiah;indirect;;;;;;
+46;JER 23:25-26;negative;;;;Jeremiah;indirect;;;;;;
 46;ACT 19:8;positive;;;;Paul;duplicate;;;;;;
 46;2CH 18:13;positive;;;;Micaiah;example;;;;;;
 46;PSA 51:14-15;positive;;;;David;example;;;;;;
@@ -1170,6 +1204,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 49;HEB 13:2;negative;;;;Paul?;direct;;;;;;
 49;2SA 22:21-23;negative;;;;HEERE;indirect;;;;;;
 49;MAT 10:40-41;positive;;;;Jesus;indirect;;;;;;
+49;JAS 1:27;positive;;;;James;indirect;;;;;;
 49;ACT 9:43;positive;;;;Simon;example;;;;;;
 49;ACT 28:30;positive;;;;Paul;example;;;;;;
 49;PHP 2:29;positive;;;;People in Philippians;example;;;;;;
@@ -1214,6 +1249,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 52;;;;;;;;Third Commandment;Calm words are a tree of life;;;Words which do not give the light of Christ increase the darkness;Mother Teresa
 52;MAT 12:36-37;positive;;;;Jesus;primary;;;;;;
 52;PSA 141:3;positive;;;;David;direct;;;;;;
+52;JAS 3:1-12;both;;;;James;direct;;;;;;
 52;PSA 106:32-33;negative;;;;Moses;indirect;;;;;;
 52;PSA 120:1-7;both;;;;Unknown;indirect;;;;;;
 52;MIC 7:5;positive;;;;Micah;indirect;;;;;;
@@ -1249,6 +1285,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 53;2SA 2:1;positive;;;;David;example;;;;;;
 53;2SA 5:19;positive;;;;David;example;;;;;;
 53;PSA 40:7-9;both;;;;David;example;;;;;;
+53;JER 20:9;both;;;;Jeremiah;example;;;;;;
 53;MAT 21:28-31;both;;;;Jesus;example;;;;;;
 53;MAT 26:39;positive;;;;Jesus;example;;;;;;
 53;LUK 2:49;positive;;;;Jesus;example;;;;;;
@@ -1300,6 +1337,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 57;ROM 12:16;both;;;;Paul;direct;;;;;;
 57;ROM 15:5-7;positive;;;;Paul;direct;;;;;;
 57;GAL 3:26-29;positive;;;;Paul;direct;;;;;;
+57;JAS 1:5-6;both;;;;James;direct;;;;;;
 57;PSA 34:4;positive;;;;David;indirect;;;;;;
 57;PSA 133:1-3;positive;;;;David;indirect;;;;;;
 57;JHN 6:43;negative;;;;Jesus;indirect;;;;;;
@@ -1316,11 +1354,13 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 58;PHP 2:14-16;positive;;;;Paul;direct;;;;;;
 58;2TI 3:16-17;positive;;;;Paul;direct;;;;;;
 58;ISA 40:6-8;positive;;;;Isaiah;indirect;;;;;;
+58;JER 26:4-6;negative;;;;Jeremiah;indirect;;;;;;
 58;MIC 2:7;both;;;;Micah;indirect;;;;;;
 58;LUK 16:29;positive;;;;Abraham;indirect;;;;;;
 58;1CH 28:6-10;positive;;;;David;example;;;;;;
 58;1CH 29:19;positive;;;;David;example;;;;;;
 58;2CH 18:4;positive;;;;Jehoshaphat;example;;;;;;
+58;JER 29:17-19;negative;;;;Jeremiah;example;;;;;;
 58;JHN 5:39;both;;;;Jesus;example;;;;;;
 58;ACT 13:48-49;positive;;;;People from Antioch;example;;;;;;
 58;ACT 18:11;positive;;;;Paul;example;;;;;;
@@ -1358,6 +1398,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 61;LUK 15:32;positive;;;;Jesus;direct;;;;;;
 61;LUK 19:9-10;positive;;;;Jesus;direct;;;;;;
 61;MAT 15:24;both;;;;Jesus;indirect;;;;;;
+61;JAS 5:19-20;positive;;;;James;indirect;;;;;;
 61;PSA 119:176;positive;;;;David;example;;;;;;
 62;;;;;;;;Tenth Commandment;In every thing give thanks;;;It is not happiness that makes you grateful, but gratitude makes you happy;Maarten Bruynes
 62;LUK 17:11-19;both;;;;Jesus;primary;;;;;;
@@ -1431,6 +1472,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 65;;;;;;;;;;;How do you know what somebody believes in?;;
 65;;;;;;;;;;;What do you think believe is all about?;;
 65;PSA 2:12;both;;;;Unknown;direct;;;;;;
+65;JER 17:7-10;positive;;;;Jeremiah;direct;;;;;;
 65;MRK 10:27;both;;;;Jesus;direct;;;;;;
 65;ROM 12:1-2;both;;;;Paul;direct;;;;;;
 65;1TI 1:19;positive;;;;Paul;direct;;;;;;
@@ -1467,6 +1509,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 66;1KI 3:14;positive;;;;HEERE;indirect;;;;;;
 66;PRO 3:1;both;;;;Solomon;indirect;;;;;;
 66;PRO 4:23;positive;;;;Solomon;indirect;;;;;;
+66;JER 24:7;positive;;;;Jeremiah;indirect;;;;;;
 66;MAT 5:6;positive;;;;Jesus;indirect;;;;;;
 66;MAT 13:23;positive;;;;Jesus;indirect;;;;;;
 66;JHN 14:1;negative;;;;Jesus;indirect;;;;;;
@@ -1538,6 +1581,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 69;LUK 17:7-10;positive;;;;Jesus;direct;;;;;;
 69;ROM 12:6-8;positive;;;;Paul;direct;;;;;;
 69;2CO 5:10;positive;;;;Paul;direct;;;;;;
+69;JER 23:10;negative;;;;Jeremiah;indirect;;;;;;
 69;1TI 4:14;negative;;;;Timothy;example;;;;;;
 69;LUK 19:12-26;positive;;;;Jesus;study;;;;;;
 69;EXO 13:2;positive;18;CCA53;To sanctify the firstling of clean cattle and offer it up;HEERE;otlaw;;;;;;
@@ -1646,10 +1690,12 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 75;1PE 5:1-3;both;;;;Peter;direct;;;;;;
 75;PSA 48:15;positive;;;;Unknown;indirect;;;;;;
 75;JER 2:13;negative;;;;Jeremiah;indirect;;;;;;
+75;JER 23:1-4;both;;;;Jeremiah;indirect;;;;;;
 75;TIT 1:5-9;both;;;;Paul;indirect;;;;;;
 75;1CH 11:2;positive;;;;Undetermined;example;;;;;;
 75;PSA 28:9;positive;;;;David;example;;;;;;
 75;PSA 34:12;positive;;;;David;example;;;;;;
+75;JER 10:21;negative;;;;Jeremiah;example;;;;;;
 75;MIC 7:14;positive;;;;Heere;example;;;;;;
 75;MAT 2:6;positive;;;;Jesus;example;;;;;;
 75;ACT 6:1-7;both;;;;Many disciples;example;;;;;;
@@ -1667,6 +1713,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 76;ISA 52:7;positive;;;;Isaiah;direct;;;;;;
 76;NAM 1:15;positive;;;;Nahum;direct;;;;;;
 76;ROM 10:15;positive;;;;Paul;direct;;;;;;
+76;JER 26:4-6;negative;;;;Jeremiah;indirect;;;;;;
 76;TIT 2:7;positive;;;;Paul;indirect;;;;;;
 76;ACT 14:21;positive;;;;Barnabas and Paul;example;;;;;;
 76;2CH 6:32-39;positive;;;;Solomon;study;;;;;;
@@ -1689,4 +1736,5 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 77;ISA 43:5;positive;;;;Isaiah;indirect;;;;;;
 77;1SA 18:14;positive;;;;David;example;;;;;;
 77;1CH 11:9;positive;;;;David;example;;;;;;
+77;JER 1:18-19;positive;;;;Jeremiah;example;;;;;;
 77;PSA 91:1-16;positive;;;;Unknown;study;;;;;;
