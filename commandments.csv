@@ -170,7 +170,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 7;MAT 12:1-8;positive;;;;Jesus;duplicate;;;;;;
 7;LUK 6:1-5;positive;;;;Jesus;duplicate;;;;;;
 7;ISA 56:1-8;positive;;;;Isaiah;study;;;;;;
-7;HEB 4:1-13;both;;;;Paul?;study;;;;;;
+7;HEB 4:1-13;both;;;;Unknown;study;;;;;;
 7;EXO 12:16;positive;296;CCA25;To rest on the first day of Passover;HEERE;otlaw;;;;;;
 7;EXO 20:8;positive;31;CCA19;To sanctify Shabbat;HEERE;otlaw;;;;;;
 7;EXO 20:10-11;negative;32;CCN6;Not to do work on Shabbat;HEERE;otlaw;;;;;;
@@ -349,8 +349,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 14;JHN 8:11;both;;;;Jesus;indirect;;;;;;
 14;JHN 15:2-3;both;;;;Jesus;indirect;;;;;;
 14;1TI 1:5;positive;;;;Paul;indirect;;;;;;
-14;HEB 9:13-14;positive;;;;Paul?;indirect;;;;;;
-14;HEB 10:22;positive;;;;Paul?;indirect;;;;;;
+14;HEB 9:13-14;positive;;;;Unknown;indirect;;;;;;
+14;HEB 10:22;positive;;;;Unknown;indirect;;;;;;
 14;JAS 4:17;negative;;;;James;indirect;;;;;;
 14;JAS 5:16;positive;;;;James;indirect;;;;;;
 14;1JN 1:8-10;both;;;;John;indirect;;;;;;
@@ -367,7 +367,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 14;MIC 7:18-20;positive;;;;Micah;study;;;;;;
 14;MAT 13:33;positive;;;;Jesus;study;;;;;;
 14;1CO 5:6-8;positive;;;;Paul;study;;;;;;
-14;HEB 12:1-14;both;;;;Paul?;study;;;;;;
+14;HEB 12:1-14;both;;;;Unknown;study;;;;;;
 14;EXO 12:15;positive;8;CCA22;To remove chametz on the Eve of Passover;HEERE;otlaw;;;;;;
 14;PRO 20:27;positive;;;;Solomon;wisdom;;;;;;
 14;PRO 22:11;positive;;;;Solomon;wisdom;;;;;;
@@ -456,7 +456,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 18;ROM 12:18;positive;;;;Paul;direct;;;;;;
 18;COL 3:15;positive;;;;Paul;direct;;;;;;
 18;COL 4:6;positive;;;;Paul;direct;;;;;;
-18;HEB 12:14;positive;;;;Paul?;direct;;;;;;
+18;HEB 12:14;positive;;;;Unknown;direct;;;;;;
 18;LEV 2:13;positive;;;;Moses;example;;;;;;
 18;2CH 13:5;positive;;;;Abijah;study;;;;;;
 19;;;;;;;;Tenth Commandment;Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven;;;A single sunbeam is enough to drive away many shadows;Francis of Assisi
@@ -495,7 +495,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 20;JHN 14:21;positive;;;;Jesus;direct;;;;;;
 20;JHN 14:23;positive;;;;Jesus;direct;;;;;;
 20;1CO 9:20-21;positive;;;;Paul;direct;;;;;;
-20;HEB 10:16;positive;;;;Paul?;direct;;;;;;
+20;HEB 10:16;positive;;;;Unknown;direct;;;;;;
 20;2JN 1:6;positive;;;;John;direct;;;;;;
 20;REV 22:14;positive;;;;Jesus;direct;;;;;;
 20;2CH 12:1;negative;;;;Rehoboam;indirect;;;;;;
@@ -562,7 +562,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 22;1PE 2:12;positive;;;;Peter;direct;;;;;;
 22;DEU 13:6-10;both;;;;Moses;indirect;;;;;;
 22;SNG 2:15;both;;;;Solomon;indirect;;;;;;
-22;HEB 12:1;positive;;;;Paul?;indirect;;;;;;
+22;HEB 12:1;positive;;;;Unknown;indirect;;;;;;
 22;JAS 1:14-15;negative;;;;James;indirect;;;;;;
 22;MRK 9:43-48;both;;;;Jesus;duplicate;;;;;;
 22;2CH 15:8;positive;;;;Asa;example;;;;;;
@@ -582,7 +582,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 22;PRO 25:28;negative;;;;Solomon;wisdom;;;;;;
 23;;;;;;;;Seventh Commandment;Honor marriage;Do not look lustfully to a woman;;;
 23;MAT 5:27-32;both;;;;Jesus;primary;;;;;;
-23;HEB 13:4;both;;;;Paul?;direct;;;;;;
+23;HEB 13:4;both;;;;Unknown;direct;;;;;;
 23;1PE 4:1-2;both;;;;Peter;direct;;;;;;
 23;SNG 2:7;negative;;;;Solomon;indirect;;;;;;
 23;SNG 3:5;negative;;;;Solomon;indirect;;;;;;
@@ -732,7 +732,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 29;MAT 6:1-4;both;;;;Jesus;primary;;;;;;
 29;MAT 10:42;both;;;;Jesus;direct;;;;;;
 29;2CO 9:11;positive;;;;Paul;direct;;;;;;
-29;HEB 6:10;positive;;;;Paul?;direct;;;;;;
+29;HEB 6:10;positive;;;;Unknown;direct;;;;;;
 29;MRK 12:41-44;positive;;;;Jesus;indirect;;;;;;
 29;MRK 9:41;positive;;;;Jesus;duplicate;;;;;;
 29;LUK 21:1-4;positive;;;;Jesus;duplicate;;;;;;
@@ -1059,7 +1059,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 43;MAT 25:36;positive;;;;Jesus;direct;;;;;;
 43;JHN 11:33;positive;;;;Jesus;direct;;;;;;
 43;ROM 12:15;positive;;;;Paul;direct;;;;;;
-43;HEB 13:3;positive;;;;Paul?;direct;;;;;;
+43;HEB 13:3;positive;;;;Unknown;direct;;;;;;
 43;EXO 23:5;positive;80;CCA70;To relieve a neighbor of his burden and help to unload his beast;Moses;indirect;;;;;;
 43;DEU 22:4;positive;541;CCA71;To assist in replacing the load upon a neighbor's beast;Moses;indirect;;;;;;
 43;ISA 42:6-7;positive;;;;Isaiah;indirect;;;;;;
@@ -1148,7 +1148,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 45;PRO 14:26-27;positive;;;;Solomon;wisdom;;;;;;
 45;ECC 8:12-13;both;;;;Solomon;wisdom;;;;;;
 45;ECC 12:13-14;both;;;;Solomon;wisdom;;;;;;
-45;HEB 12:5-6;both;;;;Paul?;wisdom;;;;;;
+45;HEB 12:5-6;both;;;;Unknown;wisdom;;;;;;
 46;;;;;;;;First Commandment;Tell to people boldly, what Jesus says to you;Do not be afraid of them;;;
 46;MAT 10:26-27;positive;;;;Jesus;primary;;;;;;
 46;;;;;;;;;;;How bold is your witness?;;
@@ -1208,7 +1208,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 49;ISA 58:7;positive;;;;Isaiah;direct;;;;;;
 49;MAT 25:35;positive;;;;Jesus;direct;;;;;;
 49;ROM 12:13;positive;;;;Paul;direct;;;;;;
-49;HEB 13:2;negative;;;;Paul?;direct;;;;;;
+49;HEB 13:2;negative;;;;Unknown;direct;;;;;;
 49;2SA 22:21-23;negative;;;;HEERE;indirect;;;;;;
 49;MAT 10:40-41;positive;;;;Jesus;indirect;;;;;;
 49;JAS 1:27;positive;;;;James;indirect;;;;;;
@@ -1524,7 +1524,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 66;MAT 13:23;positive;;;;Jesus;indirect;;;;;;
 66;JHN 14:1;negative;;;;Jesus;indirect;;;;;;
 66;ACT 1:8;positive;;;;Jesus;indirect;;;;;;
-66;HEB 4:12;positive;;;;Paul?;indirect;;;;;;
+66;HEB 4:12;positive;;;;Unknown;indirect;;;;;;
 66;REV 1:3;positive;;;;Jesus;indirect;;;;;;
 66;DEU 10:12;positive;;;;Moses;duplicate;;;;;;
 66;DEU 30:6;positive;;;;Moses;duplicate;;;;;;
