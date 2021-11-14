@@ -105,6 +105,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 4;GEN 48:4;positive;;;;HEERE;direct;;;;;;
 4;MAT 13:23;positive;;;;Jesus;direct;;;;;;
 4;JHN 15:14-16;positive;;;;Jesus;direct;;;;;;
+4;EPH 2:8-10;positive;;;;Paul;direct;;;;;;
 4;TIT 1:16;negative;;;;Paul;direct;;;;;;
 4;GEN 9:1;positive;;;;HEERE;indirect;;;;;;
 4;GEN 17:5-6;positive;;;;HEERE;indirect;;;;;;
@@ -305,7 +306,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;ACT 10:34-35;positive;;;;Peter;example;;;;;;
 12;PRO 11:25;positive;;;;Solomon;wisdom;;;;;;
 12;PRO 21:21;positive;;;;Solomon;wisdom;;;;;;
-13;;;;;;;;Sixth Commandment;Blessed are the merciful: for they shall obtain mercy;;;"Start by doing what is necessary; then do what’s possible; and suddenly you are doing the impossible";Francis of Assisi
+13;;;;;;;;Sixth Commandment;Blessed are the merciful: for they shall obtain mercy;;;Start by doing what is necessary, then do what’s possible, and suddenly you are doing the impossible;Francis of Assisi
 13;MAT 5:7;positive;;;;Jesus;primary;;;;;;
 13;;;;;;;;;;;During the day, do you pay attention for people around you who need help?;;
 13;;;;;;;;;;;When was the last time you were merciful?;;
@@ -333,8 +334,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 14;PSA 24:4-5;both;;;;David;direct;;;;;;
 14;PSA 119:9;positive;;;;Undetermined;direct;;;;;;
 14;JER 17:9-10;negative;;;;HEERE;direct;;;;;;
+14;EPH 1:4;positive;;;;Paul;direct;;;;;;
 14;2TI 2:22;both;;;;Paul;direct;;;;;;
-14;HEB 10:22;positive;;;;Paul?;direct;;;;;;
+14;HEB 10:22;positive;;;;Unknown;direct;;;;;;
 14;1PE 1:15-16;positive;;;;Peter;direct;;;;;;
 14;LEV 20:7;positive;;;;HEERE;indirect;;;;;;
 14;DEU 8:2;both;;;;Moses;indirect;;;;;;
@@ -376,7 +378,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 15;NAM 1:15;both;;;;Nahum;direct;;;;;;
 15;JHN 16:33;positive;;;;Jesus;direct;;;;;;
 15;PHP 4:7;positive;;;;Paul and Timotheus;direct;;;;;;
+15;1TH 5:12-13;positive;;;;Paul;direct;;;;;;
 15;JAS 3:18;positive;;;;James;direct;;;;;;
+15;1PE 3:8-11;positive;;;;Peter;direct;;;;;;
 15;PSA 119:161-168;positive;;;;Unknown;indirect;;;;;;
 15;PSA 122:6-9;positive;;;;David;indirect;;;;;;
 15;JER 29:7;positive;;;;Jeremiah;indirect;;;;;;
@@ -411,6 +415,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 16;1CH 21:1;negative;;;;David;example;;;;;;
 16;PSA 126:1-6;positive;;;;Unknown;example;;;;;;
 16;ACT 20:22-24;positive;;;;Paul;example;;;;;;
+16;1TH 1:4-7;positive;;;;Paul;example;;;;;;
 16;2CH 20:1-30;positive;;;;Jehoshaphat;study;;;;;;
 16;PSA 46:1-12;both;;;;Undetermined;study;;;;;;
 16;MAT 10:18-22;both;;;;Jesus;study;;;;;;
@@ -476,7 +481,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 19;EXO 25:37;positive;;;;HEERE;study;;;;;;
 19;REV 1:20;positive;;;;Jesus;study;;;;;;
 19;REV 2:5;both;;;;Jesus;study;;;;;;
-20;;;;;;;;First Commandment;Whoever practices and teaches these commands will be called great in the kingdom of heaven;Do not set aside one of the least of these commands;;"Jesus was not creating a new area of ethics here; He was simply drawing out implications in OT law.";Roy. E. Gane
+20;;;;;;;;First Commandment;Whoever practices and teaches these commands will be called great in the kingdom of heaven;Do not set aside one of the least of these commands;;Jesus was not creating a new area of ethics here, He was simply drawing out implications in OT law.;Roy. E. Gane
 20;MAT 5:19;positive;;;;Jesus;primary;;;;;;
 20;1KI 2:1-4;positive;;;;David;direct;;;;;;
 20;1KI 6:12;positive;;;;HEERE;direct;;;;;;
@@ -805,9 +810,10 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 32;ACT 10:30-31;positive;;;;Cornelius;example;;;;;;
 32;ACT 14:23;positive;;;;Paul and Barnabas;example;;;;;;
 32;LEV 23:27;positive;313;CCA32;To fast on Yom Kippur;Moses;otlaw;;;;;;
-33;;;;;;;;Second Commandment;Lay up for yourselves treasures in heaven;;;If you keep doing what you did, you will keep getting what you always got;Maarten Bruynes
+33;;;;;;;;Second Commandment;Lay up for yourselves treasures in heaven;"Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on";;if you own something you can't give up, you don't own it, it owns you;Jim Elliott
 33;MAT 6:19-21;positive;;;;Jesus;primary;;;;;;
 33;;;;;;;;;;;What are your treasures?;;
+33;MAT 6:24-25;negative;;;;Jesus;direct;;;;;;
 33;MAT 12:34-35;both;;;;Jesus;direct;;;;;;
 33;MAT 19:21;positive;;;;Jesus;direct;;;;;;
 33;LUK 16:13;negative;;;;Jesus;direct;;;;;;
@@ -977,6 +983,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 41;ACT 3:22;positive;;;;Peter;direct;;;;;;
 41;ACT 5:29;positive;;;;Jesus;direct;;;;;;
 41;ROM 2:13;both;;;;Paul;direct;;;;;;
+41;EPH 4:17-19;negative;;;;Paul;direct;;;;;;
 41;PHP 4:9;positive;;;;Paul;direct;;;;;;
 41;JAS 1:22-25;both;;;;James;direct;;;;;;
 41;1JN 2:5;positive;;;;John;direct;;;;;;
@@ -1274,6 +1281,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 53;JHN 9:31;positive;;;;Jesus;direct;;;;;;
 53;JHN 14:23;positive;;;;Jesus;direct;;;;;;
 53;JHN 15:14;positive;;;;Jesus;direct;;;;;;
+53;EPH 5:17;positive;;;;Paul;direct;;;;;;
 53;1JN 2:17;positive;;;;John;direct;;;;;;
 53;DEU 10:12;positive;;;;HEERE;indirect;;;;;;
 53;PSA 119:105-112;positive;;;;Unknown;indirect;;;;;;
@@ -1353,6 +1361,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 58;ACT 17:11;positive;;;;People from Berea;direct;;;;;;
 58;PHP 2:14-16;positive;;;;Paul;direct;;;;;;
 58;2TI 3:16-17;positive;;;;Paul;direct;;;;;;
+58;2PE 1:18-21;positive;;;;Undetermined;direct;;;;;;
 58;ISA 40:6-8;positive;;;;Isaiah;indirect;;;;;;
 58;JER 26:4-6;negative;;;;Jeremiah;indirect;;;;;;
 58;MIC 2:7;both;;;;Micah;indirect;;;;;;
@@ -1376,8 +1385,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 59;LUK 3:14;both;;;;John the baptist;direct;;;;;;
 59;LUK 12:16-21;negative;;;;Jesus;direct;;;;;;
 59;EPH 5:3-4;both;;;;Paul;direct;;;;;;
+59;EPH 5:15-16;both;;;;Paul;direct;;;;;;
 59;1TI 6:6-10;both;;;;Paul;direct;;;;;;
-59;HEB 13:5;positive;;;;Paul?;direct;;;;;;
+59;HEB 13:5;positive;;;;Unknown;direct;;;;;;
 59;PHP 4:11-13;positive;;;;Paul;indirect;;;;;;
 59;PRO 3:31-32;negative;;;;Solomon;wisdom;;;;;;
 59;PRO 28:25;both;;;;Solomon;wisdom;;;;;;
