@@ -147,6 +147,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 5;1KI 18:36-39;positive;;;;Elijah;example;;;;;;
 5;1CH 23:13;positive;;;;Aaron;example;;;;;;
 5;2CH 29:11;positive;;;;Hezekiah;example;;;;;;
+5;EZK 5:11;negative;;;;HEERE;example;;;;;;
+5;EZK 20:30;negative;;;;HEERE;example;;;;;;
 5;2KI 17:13-19;negative;;;;Undetermined;study;;;;;;
 5;EXO 20:3;negative;26;CCN8;Not to entertain the idea that there is any god but the Eternal;HEERE;otlaw;;;;;;
 5;EXO 23:25;positive;93;CCA7;To pray to G-d;Moses;otlaw;;;;;;
@@ -164,6 +166,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 7;;;;;;;;Fourth Commandment;Take a day off in the week;The sabbath was made for man, and not man for the sabbath;;;
 7;MRK 2:23-28;positive;;;;Jesus;primary;;;;;;
 7;EXO 31:16-17;positive;;;;Moses;direct;;;;;;
+7;EZK 20:12;positive;;;;HEERE;direct;;;;;;
 7;ROM 14:5-7;positive;;;;Paul;direct;;;;;;
 7;COL 2:16-17;positive;;;;Paul;direct;;;;;;
 7;ISA 58:13-14;both;;;;Isaiah;indirect;;;;;;
@@ -252,6 +255,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 10;HEB 4:15-16;positive;;;;Unknown;indirect;;;;;;
 10;LUK 6:21;positive;;;;Jesus;duplicate;;;;;;
 10;2KI 22:19-20;positive;;;;HEERE;example;;;;;;
+10;EZK 9:4-6;both;;;;HEERE;example;;;;;;
 10;JON 3:4-8;positive;;;;People in Nineveh;example;;;;;;
 10;2KI 20:1-6;positive;;;;Hezekiah;study;;;;;;
 10;PRO 25:20;positive;;;;Solomon;wisdom;;;;;;
@@ -270,8 +274,10 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 11;ZEP 2:3;both;;;;Zephaniah;indirect;;;;;;
 11;MAT 11:29;positive;;;;Jesus;example;;;;;;
 11;PRO 3:34;both;;;;Solomon;wisdom;;;;;;
-12;;;;;;;;Second Commandment;Blessed are they which do hunger and thirst after righteousness: for they shall be filled;;;;
+12;;;;;;;;Second Commandment;Blessed are they which do hunger and thirst after righteousness: for they shall be filled;;;Therefore turn and live!;Ezekiel 18:32
 12;MAT 5:6;positive;;;;Jesus;primary;;;;;;
+12;;;;;;;;;;;Read the study bible references, what is righteousness according to these passages?;;
+12;;;;;;;;;;;What means righteousness for you?;;
 12;DEU 6:25;positive;;;;Moses;direct;;;;;;
 12;PSA 90:14;positive;;;;Moses;direct;;;;;;
 12;ISA 53:11;positive;;;;Isaiah;direct;;;;;;
@@ -304,6 +310,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;LUK 1:6;positive;;;;Zacharias & Elisabeth;example;;;;;;
 12;JHN 4:13-14;positive;;;;Jesus;example;;;;;;
 12;ACT 10:34-35;positive;;;;Peter;example;;;;;;
+12;EZK 18:5-32;both;;;;HEERE;study;;;;;;
+12;MAT 25:31-46;both;;;;Jesus;study;;;;;;
 12;PRO 11:25;positive;;;;Solomon;wisdom;;;;;;
 12;PRO 21:21;positive;;;;Solomon;wisdom;;;;;;
 13;;;;;;;;Sixth Commandment;Blessed are the merciful: for they shall obtain mercy;;;Start by doing what is necessary, then do what’s possible, and suddenly you are doing the impossible;Francis of Assisi
@@ -481,7 +489,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 19;EXO 25:37;positive;;;;HEERE;study;;;;;;
 19;REV 1:20;positive;;;;Jesus;study;;;;;;
 19;REV 2:5;both;;;;Jesus;study;;;;;;
-20;;;;;;;;First Commandment;Whoever practices and teaches these commands will be called great in the kingdom of heaven;Do not set aside one of the least of these commands;;"Jesus was not creating a new area of ethics here, He was simply drawing out implications in OT law.";Roy. E. Gane
+20;;;;;;;;First Commandment;Whoever practices and teaches these commands will be called great in the kingdom of heaven;Do not set aside one of the least of these commands;;Jesus was not creating a new area of ethics here, He was simply drawing out implications in OT law.;Roy. E. Gane
 20;MAT 5:19;positive;;;;Jesus;primary;;;;;;
 20;1KI 2:1-4;positive;;;;David;direct;;;;;;
 20;1KI 6:12;positive;;;;HEERE;direct;;;;;;
@@ -501,6 +509,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 20;2CH 12:1;negative;;;;Rehoboam;indirect;;;;;;
 20;ISA 2:2-3;positive;;;;Isaiah;indirect;;;;;;
 20;JER 7:5-7;positive;;;;Jeremiah;indirect;;;;;;
+20;EZK 5:5-8;negative;;;;HEERE;indirect;;;;;;
+20;EZK 20:11;positive;;;;HEERE;indirect;;;;;;
 20;MIC 4:1-2;positive;;;;Micah;indirect;;;;;;
 20;MAL 4:4;positive;;;;HEERE;indirect;;;;;;
 20;LUK 16:17;positive;;;;Jesus;indirect;;;;;;
@@ -958,6 +968,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 40;2CH 22:3-4;negative;;;;Ahaziah;example;;;;;;
 40;2CH 24:17-19;negative;;;;Joash;example;;;;;;
 40;JER 29:31-32;negative;;;;Jeremiah;example;;;;;;
+40;EZK 13:2-3;both;;;;Ezekiel;example;;;;;;
+40;EZK 22:26;negative;;;;HEERE;example;;;;;;
 40;ACT 20:28-31;positive;;;;Paul;example;;;;;;
 40;PHP 3:2-3;positive;;;;Paul;example;;;;;;
 40;TIT 1:12-14;both;;;;Paul;example;;;;;;
@@ -1064,6 +1076,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 43;DEU 22:4;positive;541;CCA71;To assist in replacing the load upon a neighbor's beast;Moses;indirect;;;;;;
 43;ISA 42:6-7;positive;;;;Isaiah;indirect;;;;;;
 43;JER 22:3;both;;;;Jeremiah;indirect;;;;;;
+43;EZK 22:30;both;;;;HEERE;indirect;;;;;;
 43;MAT 25:36;positive;;;;Jesus;indirect;;;;;;
 43;MRK 6:34;positive;;;;Jesus;indirect;;;;;;
 43;LUK 4:18;positive;;;;Jesus;indirect;;;;;;
@@ -1128,6 +1141,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 45;JER 2:19;negative;;;;Jeremiah;example;;;;;;
 45;LAM 1:22;both;;;;Unknown;example;;;;;;
 45;LAM 3:64-66;both;;;;Unknown;example;;;;;;
+45;EZK 7:5-9;negative;;;;HEERE;example;;;;;;
+45;EZK 21:31;negative;;;;HEERE;example;;;;;;
 45;JON 3:7-10;positive;;;;People in Nineveh;example;;;;;;
 45;ACT 2:43;positive;;;;Other;example;;;;;;
 45;ACT 5:1-11;negative;;;;Ananias and Sapphira;example;;;;;;
@@ -1230,6 +1245,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 50;LUK 7:23;positive;;;;Jesus;duplicate;;;;;;
 50;LUK 12:8-9;negative;;;;Jesus;duplicate;;;;;;
 50;2SA 6:16-21;both;;;;David;example;;;;;;
+50;EZK 22:30;both;;;;HEERE;example;;;;;;
 50;MIC 3:8;positive;;;;Micah;example;;;;;;
 51;;;;;;;;Second Commandment;Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls;;;Jesus is the beast of burden that wants to form that team with us;broedersinchristus.nl
 51;MAT 11:28-30;positive;;;;Jesus;primary;;;;;;
@@ -1453,6 +1469,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 64;JAS 4:6;both;;;;James;direct;;;;;;
 64;1PE 5:2-3;both;;;;Peter;direct;;;;;;
 64;1PE 5:5;both;;;;Peter;direct;;;;;;
+64;EZK 21:26-27;both;;;;HEERE;indirect;;;;;;
 64;MAT 20:16;both;;;;Jesus;indirect;;;;;;
 64;LUK 1:51-52;positive;;;;Mary;indirect;;;;;;
 64;ROM 12:3;positive;;;;Paul;indirect;;;;;;
@@ -1604,6 +1621,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 70;PSA 84:13;positive;;;;Sons of Korah;direct;;;;;;
 70;JHN 14:26;positive;;;;Jesus;direct;;;;;;
 70;PSA 91:2;positive;;;;Unknown;indirect;;;;;;
+70;EZK 11:17-20;positive;;;;HEERE;indirect;;;;;;
+70;EZK 36:24-28;positive;;;;HEERE;indirect;;;;;;
 70;2CH 14:8-13;positive;;;;Asa;example;;;;;;
 70;PSA 115:9-11;positive;;;;Unknown;example;;;;;;
 70;ACT 4:13;positive;;;;Peter and John;example;;;;;;
@@ -1649,6 +1668,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 72;JOB 4:4;positive;;;;Friend of Job;wisdom;;;;;;
 72;JOB 6:14;negative;;;;Job;wisdom;;;;;;
 72;JOB 16:4-5;positive;;;;Job;wisdom;;;;;;
+72;PRO 27:17;positive;;;;Solomon;wisdom;;;;;;
 73;;;;;;;;Second Commandment;He that abideth in me, and I in him, the same bringeth forth much fruit;For without me ye can do nothing;;;
 73;JHN 15:1-11;both;;;;Jesus;primary;;;;;;
 73;JHN 6:56;positive;;;;Jesus;direct;;;;;;
@@ -1724,6 +1744,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 76;NAM 1:15;positive;;;;Nahum;direct;;;;;;
 76;ROM 10:15;positive;;;;Paul;direct;;;;;;
 76;JER 26:4-6;negative;;;;Jeremiah;indirect;;;;;;
+76;EZK 20:11;positive;;;;HEERE;indirect;;;;;;
 76;TIT 2:7;positive;;;;Paul;indirect;;;;;;
 76;ACT 14:21;positive;;;;Barnabas and Paul;example;;;;;;
 76;2CH 6:32-39;positive;;;;Solomon;study;;;;;;
