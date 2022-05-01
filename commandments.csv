@@ -386,6 +386,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 14;MAT 15:18-19;negative;;;;Jesus;example;;;;;;
 14;PSA 18:21-27;both;;;;David;study;;;;;;
 14;MIC 7:18-20;positive;;;;Micah;study;;;;;;
+14;HAG 2:12-20;both;;;;Haggai;study;;;;;;
 14;MAT 13:33;positive;;;;Jesus;study;;;;;;
 14;1CO 5:6-8;positive;;;;Paul;study;;;;;;
 14;HEB 12:1-14;both;;;;Unknown;study;;;;;;
@@ -658,6 +659,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 24;2CH 34:31;positive;;;;Josiah;example;;;;;;
 24;JER 9:8;negative;;;;Jeremiah;example;;;;;;
 24;EZK 33:31-32;negative;;;;Israel;example;;;;;;
+24;ZEC 5:3-4;negative;;;;Angel of the Lord;example;;;;;;
 24;ACT 24:15-16;positive;;;;Paul;example;;;;;;
 24;PHP 2:20;positive;;;;Timothy;example;;;;;;
 24;JON 1:14-2:9;both;;;;Sailors and Jonah;study;;;;;;
@@ -833,10 +835,12 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 32;;;;;;;;First Commandment;Fast regularly;;;Physical obedience brings spiritual release;A & O Productions
 32;MAT 6:16-18;positive;;;;Jesus;primary;;;;;;
 32;;;;;;;;;;;Do you apply regular fasting in your life?;;
+32;;;;;;;;;;;For who did you fast?;;
 32;ISA 58:6;positive;;;;Jesus;direct;;;;;;
 32;MAT 9:15;positive;;;;Jesus;direct;;;;;;
 32;LUK 5:35;positive;;;;Jesus;direct;;;;;;
 32;ACT 13:2-3;positive;;;;People from Antioch;direct;;;;;;
+32;ZEC 7:5;both;;;;Zechariah;indirect;;;;;;
 32;MRK 9:28-29;positive;;;;Jesus;indirect;;;;;;
 32;MAT 17:21;positive;;;;Jesus;duplicate;;;;;;
 32;MRK 2:18-20;positive;;;;Jesus;duplicate;;;;;;
@@ -845,6 +849,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 32;NEH 1:4-11;positive;;;;Nehemiah;example;;;;;;
 32;EST 4:16-17;positive;;;;Esther;example;;;;;;
 32;JOL 1:14;positive;;;;Joel;example;;;;;;
+32;ZEC 8:19;positive;;;;HEERE;example;;;;;;
 32;LUK 2:37;positive;;;;Anna (a prophetess);example;;;;;;
 32;ACT 10:30-31;positive;;;;Cornelius;example;;;;;;
 32;ACT 14:23;positive;;;;Paul and Barnabas;example;;;;;;
@@ -859,6 +864,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 33;JAS 5:1-3;negative;;;;James;direct;;;;;;
 33;PSA 62:11;negative;;;;David;indirect;;;;;;
 33;HAB 2:9;negative;;;;HEERE;indirect;;;;;;
+33;HAG 1:4-11;both;;;;Haggai;indirect;;;;;;
 33;LUK 12:33-34;positive;;;;Jesus;indirect;;;;;;
 33;REV 3:20;negative;;;;Jesus;indirect;;;;;;
 33;LUK 6:45;both;;;;Jesus;duplicate;;;;;;
@@ -881,6 +887,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 34;ROM 9:30-33;negative;;;;Paul;indirect;;;;;;
 34;LUK 12:22-34;both;;;;Jesus;duplicate;;;;;;
 34;2CH 31:20-21;positive;;;;Hezekiah;example;;;;;;
+34;HAG 2:4-10;positive;;;;Haggai;example;;;;;;
 34;DEU 10:20;positive;432;CCA16;To cleave to those who know Him (Equivalent to Cleaving to Him);HEERE;otlaw;;;;;;
 34;ECC 2:11;negative;;;;Solomon;wisdom;;;;;;
 35;;;;;;;;Sixth Commandment;"First cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye";Do not judge, or you too will be judged;;;
@@ -945,6 +952,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 38;;;;;;;;Tenth Commandment;Therefore, whatever you want men to do to you, do also to them;;;;
 38;MAT 7:12;positive;;;;Jesus;primary;;;;;;
 38;;;;;;;;;;;What is better? That others love you for who you are, or that others love you because they are loving people?;;
+38;ZEC 7:10;positive;;;;HEERE;direct;;;;;;
 38;MRK 12:31;positive;;;;Jesus;direct;;;;;;
 38;ROM 15:1-2;positive;;;;Paul;direct;;;;;;
 38;GAL 5:14;positive;;;;Paul;direct;;;;;;
@@ -1057,6 +1065,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 41;DEU 18:18;positive;;;;HEERE;example;;;;;;
 41;1SA 12:13-14;positive;;;;Samuel;example;;;;;;
 41;2CH 33:10;negative;;;;Manasseh;example;;;;;;
+41;ZEC 7:11-13;negative;;;;HEERE;example;;;;;;
 41;MAT 15:10-11;positive;;;;Jesus;example;;;;;;
 41;LUK 2:47;positive;;;;Other;example;;;;;;
 41;LUK 9:45;negative;;;;Other;example;;;;;;
@@ -1320,6 +1329,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 52;PSA 106:32-33;negative;;;;Moses;indirect;;;;;;
 52;PSA 120:1-7;both;;;;Unknown;indirect;;;;;;
 52;MIC 7:5;positive;;;;Micah;indirect;;;;;;
+52;ZEC 8:16-17;both;;;;HEERE;indirect;;;;;;
 52;MAT 15:11;both;;;;Jesus;indirect;;;;;;
 52;LEV 22:32;positive;296;CCA5;To hallow G-d's name;HEERE;otlaw;;;;;;
 52;JOB 4:2;negative;;;;Friend of Job;wisdom;;;;;;
@@ -1678,6 +1688,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 70;MRK 13:11;both;;;;Jesus;primary;;;;;;
 70;;;;;;;;;;;Imagine yourself on trial for your faith;;
 70;PSA 84:13;positive;;;;Sons of Korah;direct;;;;;;
+70;ZEC 4:6;positive;;;;HEERE;direct;;;;;;
 70;JHN 14:26;positive;;;;Jesus;direct;;;;;;
 70;PSA 91:2;positive;;;;Unknown;indirect;;;;;;
 70;EZK 11:17-20;positive;;;;HEERE;indirect;;;;;;
@@ -1712,6 +1723,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 72;TIT 2:11-15;positive;;;;Paul;direct;;;;;;
 72;HEB 10:24-25;positive;;;;Unknown;direct;;;;;;
 72;PSA 77:12-13;positive;;;;Asaph;indirect;;;;;;
+72;ZEC 8:9-13;positive;;;;HEERE;indirect;;;;;;
 72;ACT 20:2;positive;;;;Paul;duplicate;;;;;;
 72;1SA 19:1-7;positive;;;;Jonathan;example;;;;;;
 72;1SA 23:16-18;positive;;;;Jonathan;example;;;;;;
@@ -1835,4 +1847,5 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 77;1SA 18:14;positive;;;;David;example;;;;;;
 77;1CH 11:9;positive;;;;David;example;;;;;;
 77;JER 1:18-19;positive;;;;Jeremiah;example;;;;;;
+77;HAG 1:12-13;positive;;;;Zerubabbel;example;;;;;;
 77;PSA 91:1-16;positive;;;;Unknown;study;;;;;;
