@@ -136,6 +136,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 4;GEN 1:28;positive;1;CCA43;To be fruitful and multiply;HEERE;otlaw;;;;;;
 5;;;;;;;;First Commandment;You shall worship the LORD your God, and Him only you shall serve;No servant can serve two masters;;Worship is the activity of the human soul;Louie Giglio
 5;MAT 4:10;positive;;;;Jesus;primary;;;;;;
+5;;;;;;;;;;;What do you consider more important than the Lord Jesus?;;
+5;;;;;;;;;;;What is an idol to you?;;
 5;DEU 13:1-4;both;;;;Moses;direct;;;;;;
 5;JOS 24:14;both;;;;Joshua;direct;;;;;;
 5;JOS 24:19-24;both;;;;Joshua;direct;;;;;;
@@ -170,6 +172,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 5;DEU 10:20;positive;431;CCA16;To cleave to those who know Him;Moses;otlaw;;;;;;
 5;DEU 13:4;positive;453;CCN22;Not to hearken to one who prophesies in the name of an idol;Moses;otlaw;;;;;;
 6;;;;;;;;First Commandment;Pray the Lord of the harvest to send out laborers into His harvest;;;;
+6;;;;;;;;;;;Do you recognize any harvest in your life?;;
+6;;;;;;;;;;;What steps can you take to become a laborer for the harvest in your own life? Take time to pray for laborers in your city, nation, and around the world.;;
 6;MAT 9:37-38;positive;;;;Jesus;primary;;;;;;
 6;JHN 4:35-38;positive;;;;Jesus;direct;;;;;;
 6;LUK 9:57-61;negative;;;;Jesus;indirect;;;;;;
@@ -297,6 +301,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;MAT 5:6;positive;;;;Jesus;primary;;;;;;
 12;;;;;;;;;;;Read the study bible references, what is righteousness according to these passages?;;
 12;;;;;;;;;;;What means righteousness for you?;;
+12;;;;;;;;;;;I am what I do or I do what I am?;;
 12;DEU 6:25;positive;;;;Moses;direct;;;;;;
 12;PSA 90:14;positive;;;;Moses;direct;;;;;;
 12;ISA 53:11;positive;;;;Isaiah;direct;;;;;;
@@ -312,7 +317,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;PSA 34:11;both;;;;David;indirect;;;;;;
 12;PSA 107:8-9;positive;;;;Unknown;indirect;;;;;;
 12;PSA 119:7;positive;;;;David;indirect;;;;;;
-12;PSA 119:160;positive;;;;David;indirect;;;;;;
+12;PSA 119:160-162;positive;;;;David;indirect;;;;;;
+12;PSA 119:172;positive;;;;David;indirect;;;;;;
 12;ISA 25:6;positive;;;;Isaiah;indirect;;;;;;
 12;ISA 55:1;positive;;;;Isaiah;indirect;;;;;;
 12;JER 9:23-24;both;;;;Jeremiah;indirect;;;;;;
@@ -326,6 +332,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 12;DEU 8:3;positive;;;;Moses;example;;;;;;
 12;PSA 17:15;positive;;;;David;example;;;;;;
 12;PSA 63:2;positive;;;;David;example;;;;;;
+12;ISA 48:18;positive;;;;Isaiah;example;;;;;;
 12;LUK 1:6;positive;;;;Zacharias & Elisabeth;example;;;;;;
 12;JHN 4:13-14;positive;;;;Jesus;example;;;;;;
 12;ACT 10:34-35;positive;;;;Peter;example;;;;;;
@@ -594,8 +601,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 21;PRO 25:8;negative;;;;Solomon;wisdom;;;;;;
 22;;;;;;;;First Commandment;Eliminate any cause of temptation;;;This book will keep you from sin, or sin will keep you from this book;John Bunyan
 22;MAT 18:8-9;both;;;;Jesus;primary;;;;;;
-22;;;;;;;;;;;What is your attitude when you go through trials?;;
-22;;;;;;;;;;;Where do temptations and troubles come from?;;
+22;;;;;;;;;;;How do you clothe yourself with the Lord Jesus? (Rom 13:14);;
+22;;;;;;;;;;;What can you do about the cause to prevent specific temptations?;;
+22;;;;;;;;;;;What temptations do you struggle with?;;
 22;DEU 11:16-17;positive;;;;Moses;direct;;;;;;
 22;AMO 5:15;both;;;;Amos;direct;;;;;;
 22;MAT 5:27-30;both;;;;Jesus;direct;;;;;;
@@ -692,6 +700,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 24;ECC 5:1-6;both;;;;Solomon;wisdom;;;;;;
 25;;;;;;;;Sixth Commandment;Whosoever shall smite thee on thy right cheek, turn to him the other also;Do not resist evil;;;
 25;MAT 5:38-39;both;;;;Jesus;primary;;;;;;
+25;;;;;;;;;;;Can you recognize any examples in your life, where you did or dit not choose for doing the right thing, while the other didn’t deserve it?;;
 25;ROM 12:21;both;;;;Paul;direct;;;;;;
 25;1TH 5:15;both;;;;Paul;direct;;;;;;
 25;1PE 2:12-15;positive;;;;Peter;direct;;;;;;
@@ -704,6 +713,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 25;ROM 13:3-4;both;;;;Paul;example;;;;;;
 25;PRO 10:12;both;;;;Solomon;wisdom;;;;;;
 25;PRO 11:27;both;;;;Solomon;wisdom;;;;;;
+25;PRO 19:11;positive;;;;Solomon;wisdom;;;;;;
 25;PRO 20:22;positive;;;;Solomon;wisdom;;;;;;
 25;PRO 25:21-22;positive;;;;Solomon;wisdom;;;;;;
 26;;;;;;;;Eighth Commandment;Share goods with the needy;If anyone takes what belongs to you, do not demand it back;;For it is in giving that we receive;Francis of Assisi
@@ -750,6 +760,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 27;MAT 5:44-47;positive;;;;Jesus;primary;;;;;;
 27;;;;;;;;;;;Do you really want to be a follower of Jesus?;;
 27;;;;;;;;;;;Enemies are the people who God puts on your way which are hard for you to love. Who are enemies for you?;;
+27;;;;;;;;;;;Read 2 Kings 6:8-23, how does Elisha deal with his enemies? What do you learn from this?;;
 27;MAT 5:43;negative;;;;Jesus;direct;;;;;;
 27;MRK 10:19;negative;;;;Jesus;direct;;;;;;
 27;ROM 12:14;both;;;;Paul;direct;;;;;;
@@ -760,6 +771,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 27;ROM 12:20;positive;;;;Paul;duplicate;;;;;;
 27;2CH 19:2;negative;;;;Jehoshaphat;example;;;;;;
 27;PSA 141:5-6;positive;;;;David;example;;;;;;
+27;2KI 6:8-23;positive;;;;Elisha;study;;;;;;
 27;PSA 139:1-24;both;;;;David;study;;;;;;
 27;LEV 19:18;both;243;CCA60;To love all human beings who are of the covenant;HEERE;otlaw;;;;;;
 27;PRO 24:29;negative;;;;Unknown;wisdom;;;;;;
@@ -774,6 +786,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 28;2CH 16:9;positive;;;;HEERE;direct;;;;;;
 28;MAT 19:21;positive;;;;Jesus;direct;;;;;;
 28;ROM 12:2;positive;;;;Paul;direct;;;;;;
+28;2CO 16:9;positive;;;;Paul;direct;;;;;;
 28;EPH 4:12-13;positive;;;;Paul;direct;;;;;;
 28;2TI 3:16-17;positive;;;;Paul;direct;;;;;;
 28;JAS 1:4;positive;;;;James;direct;;;;;;
@@ -786,9 +799,14 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 28;JOB 2:3;positive;;;;Job;wisdom;;;;;;
 29;;;;;;;;Eighth Commandment;Be generous (and fasten and pray) in secret;;;;
 29;MAT 6:1-4;both;;;;Jesus;primary;;;;;;
+29;;;;;;;;;;;Are you disappointed when your works are not seen?;;
+29;;;;;;;;;;;;What does the world miss when we are no longer here?;;
+29;;;;;;;;;;;;Are your works wood or gold?;;
 29;MAT 10:42;both;;;;Jesus;direct;;;;;;
 29;2CO 9:11;positive;;;;Paul;direct;;;;;;
+29;PHP 2:5-8;positive;;;;Undetermined;direct;;;;;;
 29;HEB 6:10;positive;;;;Unknown;direct;;;;;;
+29;ISA 58:4;positive;;;;Isaiah;indirect;;;;;;
 29;MRK 12:41-44;positive;;;;Jesus;indirect;;;;;;
 29;MRK 9:41;positive;;;;Jesus;duplicate;;;;;;
 29;LUK 21:1-4;positive;;;;Jesus;duplicate;;;;;;
@@ -801,8 +819,10 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 30;JHN 15:7;positive;;;;Jesus;direct;;;;;;
 30;JHN 16:23-24;positive;;;;Jesus;direct;;;;;;
 30;1CO 4:13;positive;;;;Paul;direct;;;;;;
+30;COL 1:9;positive;;;;Paul;direct;;;;;;
+30;1TH 5:17-18;positive;;;;Paul;direct;;;;;;
 30;1JN 3:22;positive;;;;John;direct;;;;;;
-30;1JN 5:14;positive;;;;John;direct;;;;;;
+30;1JN 5:14-15;positive;;;;John;direct;;;;;;
 30;MAT 5:44;positive;;;;Jesus;indirect;;;;;;
 30;MAT 7:7-8;positive;;;;Jesus;indirect;;;;;;
 30;MAT 21:21;positive;;;;Jesus;indirect;;;;;;
@@ -828,6 +848,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 30;ACT 1:14;positive;;;;Many disciples (men and woman);example;;;;;;
 30;ACT 7:59-60;positive;;;;Stephen;example;;;;;;
 30;COL 4:12;positive;;;;Epaphras;example;;;;;;
+30;HEB 5:7-8;positive;;;;Jesus;example;;;;;;
 30;MAT 14:24-33;both;;;;Jesus;study;;;;;;
 30;MAT 15:22-28;positive;;;;Jesus;study;;;;;;
 30;LUK 18:1-8;both;;;;Jesus;study;;;;;;
@@ -856,8 +877,10 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 32;MAT 6:16-18;positive;;;;Jesus;primary;;;;;;
 32;;;;;;;;;;;Do you apply regular fasting in your life?;;
 32;;;;;;;;;;;For who did you fast?;;
+32;;;;;;;;;;;What could be a goal that you could fast for (together?)?;;
+32;;;;;;;;;;;Which way of fasting really costs you a piece of yourself?;;
 32;ISA 58:6;positive;;;;Jesus;direct;;;;;;
-32;MAT 9:15;positive;;;;Jesus;direct;;;;;;
+32;MAT 9:14-17;positive;;;;Jesus;direct;;;;;;
 32;LUK 5:35;positive;;;;Jesus;direct;;;;;;
 32;ACT 13:2-3;positive;;;;People from Antioch;direct;;;;;;
 32;ZEC 7:5;both;;;;Zechariah;indirect;;;;;;
@@ -868,6 +891,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 32;EZR 8:21-23;positive;;;;Ezra;example;;;;;;
 32;NEH 1:4-11;positive;;;;Nehemiah;example;;;;;;
 32;EST 4:16-17;positive;;;;Esther;example;;;;;;
+32;PSA 35:13;positive;;;;David;example;;;;;;
 32;JOL 1:14;positive;;;;Joel;example;;;;;;
 32;ZEC 8:19;positive;;;;HEERE;example;;;;;;
 32;LUK 2:37;positive;;;;Anna (a prophetess);example;;;;;;
@@ -876,25 +900,43 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 32;LEV 23:27;positive;313;CCA32;To fast on Yom Kippur;Moses;otlaw;;;;;;
 33;;;;;;;;Second Commandment;Lay up for yourselves treasures in heaven;"Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on";;if you own something you can't give up, you don't own it, it owns you;Jim Elliott
 33;MAT 6:19-21;positive;;;;Jesus;primary;;;;;;
+33;;;;;;;;;;;How do you think you as a Christian should deal with saving or investing?;;
+33;;;;;;;;;;;How do you deal with tithes and voluntary offerings?;;
+33;;;;;;;;;;;Is there anything you could not give up?;;
+33;;;;;;;;;;;Which of the 7 points mentioned by Alan Parr do you do/do not do and/or do you find difficult?;;
 33;;;;;;;;;;;What are your treasures?;;
 33;MAT 6:24-25;negative;;;;Jesus;direct;;;;;;
 33;MAT 12:34-35;both;;;;Jesus;direct;;;;;;
 33;MAT 19:21;positive;;;;Jesus;direct;;;;;;
 33;LUK 16:13;negative;;;;Jesus;direct;;;;;;
+33;GAL 6:6;positive;;;;Paul;direct;;;;;;
+33;COL 3:1-2;both;;;;Paul;direct;;;;;;
+33;1TI 6:17-19;both;;;;Paul;direct;;;;;;
 33;JAS 5:1-3;negative;;;;James;direct;;;;;;
+33;EXO 35:29;positive;;;;Moses;indirect;;;;;;
 33;PSA 62:11;negative;;;;David;indirect;;;;;;
 33;HAB 2:9;negative;;;;HEERE;indirect;;;;;;
 33;HAG 1:4-11;both;;;;Haggai;indirect;;;;;;
+33;MAL 3:8-10;positive;;;;Malechi;indirect;;;;;;
 33;LUK 12:33-34;positive;;;;Jesus;indirect;;;;;;
+33;PHP 3:20;positive;;;;Paul;indirect;;;;;;
 33;REV 3:20;negative;;;;Jesus;indirect;;;;;;
 33;LUK 6:45;both;;;;Jesus;duplicate;;;;;;
 33;LUK 18:22;positive;;;;Jesus;duplicate;;;;;;
+33;GEN 41:47-49;positive;;;;Joseph;example;;;;;;
+33;LUK 12:16-21;negative;;;;Jesus;example;;;;;;
+33;1CO 9:11-14;positive;;;;Paul;example;;;;;;
+33;EXO 35:4-29;positive;;;;Moses;study;;;;;;
 33;LEV 25:14;positive;336;CCA67;To adjudicate cases of purchase and sale;Moses;otlaw;;;;;;
 33;PRO 1:17-19;negative;;;;Solomon;wisdom;;;;;;
 33;PRO 11:4;both;;;;Solomon;wisdom;;;;;;
 33;PRO 11:28;both;;;;Solomon;wisdom;;;;;;
+33;PRO 13:22;positive;;;;Solomon;wisdom;;;;;;
 33;PRO 15:16;both;;;;Solomon;wisdom;;;;;;
+33;PRO 21:13;negative;;;;Solomon;wisdom;;;;;;
+33;PRO 22:9;positive;;;;Solomon;wisdom;;;;;;
 33;PRO 23:4;negative;;;;Unknown;wisdom;;;;;;
+33;PRO 31:16;positive;;;;Solomon;wisdom;;;;;;
 33;ECC 5:9;negative;;;;Solomon;wisdom;;;;;;
 34;;;;;;;;Second Commandment;Seek first the kingdom of God and His righteousness, and all these things shall be added to you;Do not worry about your life;;;
 34;MAT 6:25-34;both;;;;Jesus;primary;;;;;;
@@ -993,6 +1035,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 38;PRO 25:8;negative;;;;Solomon;wisdom;;;;;;
 39;;;;;;;;First Commandment;Strive to enter in at the strait gate;;;if I fail, I try again, and again, and again if you fail are you going to try again?;Nick Vujicic
 39;LUK 13:24-25;both;;;;Jesus;primary;;;;;;
+39;;;;;;;;;;;How does your daily struggle look like?;;
 39;ROM 12:11;positive;;;;Paul;direct;;;;;;
 39;1CO 9:24-25;both;;;;Paul;direct;;;;;;
 39;1TI 6:12;positive;;;;Paul;direct;;;;;;
@@ -1111,6 +1154,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 41;PRO 1:24-33;both;;;;Solomon;wisdom;;;;;;
 42;;;;;;;;Tenth Commandment;Be of good cheer;Be not afraid;;Courage is when you overcome fear;Nick Vujicic
 42;MAT 9:2;positive;;;;Jesus;primary;;;;;;
+42;;;;;;;;;;;How can you encourage a brother or sister today?;;
+42;;;;;;;;;;;What does your daily struggle look like?;;
 42;JOS 1:9;both;;;;HEERE;direct;;;;;;
 42;1CH 19:13;positive;;;;Joab;direct;;;;;;
 42;1CH 22:11-13;positive;;;;David;direct;;;;;;
@@ -1134,6 +1179,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 42;PRO 1:33;positive;;;;Solomon;wisdom;;;;;;
 43;;;;;;;;Sixth Commandment;Be moved with inner compassion with the people around you;;;;
 43;MAT 9:36;positive;;;;Jesus;primary;;;;;;
+43;;;;;;;;;;;Can you read the following texts and examine what behavior or event occurred after Jesus was moved with compassion? John 11:33, 8:1-11, 14:31. Matt 18:27, 15:32, 9:36-38. Mark 8:2, 1:41, 5:1-20, 6:34. Luke 7:13, 10:33-35;;
 43;ISA 61:1;positive;;;;Isaiah;direct;;;;;;
 43;MAT 25:36;positive;;;;Jesus;direct;;;;;;
 43;JHN 11:33;positive;;;;Jesus;direct;;;;;;
@@ -1268,7 +1314,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 47;LUK 14:26;negative;;;;Jesus;direct;;;;;;
 47;DEU 5:8-10;negative;;;;HEERE;indirect;;;;;;
 47;PSA 23:1;positive;;;;David;indirect;;;;;;
+47;2PE 3:17-18;positive;;;;Peter;indirect;;;;;;
 47;DEU 33:9;positive;;;;Moses;example;;;;;;
+47;ACT 13:21-22;positive;;;;David;example;;;;;;
 47;PSA 103:1-22;positive;;;;David;study;;;;;;
 47;DEU 6:5;positive;418;CCA3;To love G-d;Moses;otlaw;;;;;;
 47;PRO 8:17;positive;;;;Solomon;wisdom;;;;;;
@@ -1325,6 +1373,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 50;MIC 3:8;positive;;;;Micah;example;;;;;;
 51;;;;;;;;Second Commandment;Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls;;;Jesus is the beast of burden that wants to form that team with us;broedersinchristus.nl
 51;MAT 11:28-30;positive;;;;Jesus;primary;;;;;;
+51;;;;;;;;;;;Do you experience that if you follow His commandments, you will get peace for your soul?;;
+51;;;;;;;;;;;Do you experience that you are in a team with Jesus?;;
 51;PSA 27:4;positive;;;;David;direct;;;;;;
 51;JER 6:16;both;;;;HEERE;direct;;;;;;
 51;MRK 6:30-31;positive;;;;Jesus;direct;;;;;;
@@ -1369,20 +1419,27 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 52;PRO 29:20;negative;;;;Solomon;wisdom;;;;;;
 53;;;;;;;;First Commandment;Do the will of the Father;;;;
 53;MAT 12:50;positive;;;;Jesus;primary;;;;;;
+53;;;;;;;;;;;What Bible examples inspire you to listen to God's will?;;
+53;;;;;;;;;;;Are you seeking God's guidance or seeking God's approval for your plan?;;
+53;;;;;;;;;;;Sins can hinder you from hearing God's voice. Will you bring your sins into the light?;;
+53;ISA 58:11;positive;;;;Isaiah;direct;;;;;;
 53;JER 29:11;positive;;;;HEERE;direct;;;;;;
 53;JHN 4:34;positive;;;;Jesus;direct;;;;;;
 53;JHN 9:31;positive;;;;Jesus;direct;;;;;;
 53;JHN 14:23;positive;;;;Jesus;direct;;;;;;
 53;JHN 15:14;positive;;;;Jesus;direct;;;;;;
+53;EPH 2:10;positive;;;;Paul;direct;;;;;;
 53;EPH 5:17;positive;;;;Paul;direct;;;;;;
 53;1JN 2:17;positive;;;;John;direct;;;;;;
 53;DEU 10:12;positive;;;;HEERE;indirect;;;;;;
+53;PSA 32:8-9;both;;;;David;indirect;;;;;;
 53;PSA 119:105-112;positive;;;;Unknown;indirect;;;;;;
 53;MRK 3:35;positive;;;;Jesus;indirect;;;;;;
 53;JHN 5:30;positive;;;;Jesus;indirect;;;;;;
 53;JHN 7:17;positive;;;;Jesus;indirect;;;;;;
 53;MRK 14:36;positive;;;;Jesus;duplicate;;;;;;
 53;LUK 22:42;positive;;;;Jesus;duplicate;;;;;;
+53;GEN 45:8;positive;;;;Joseph;example;;;;;;
 53;2SA 2:1;positive;;;;David;example;;;;;;
 53;2SA 5:19;positive;;;;David;example;;;;;;
 53;PSA 40:7-9;both;;;;David;example;;;;;;
@@ -1461,6 +1518,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 58;JER 26:4-6;negative;;;;Jeremiah;indirect;;;;;;
 58;MIC 2:7;both;;;;Micah;indirect;;;;;;
 58;LUK 16:29;positive;;;;Abraham;indirect;;;;;;
+58;JHN 6:68;positive;;;;Peter;indirect;;;;;;
 58;1CH 28:6-10;positive;;;;David;example;;;;;;
 58;1CH 29:19;positive;;;;David;example;;;;;;
 58;2CH 18:4;positive;;;;Jehoshaphat;example;;;;;;
@@ -1713,9 +1771,12 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 70;;;;;;;;Second Commandment;Trust that the Spirit will guide you;Do not worry about what to say;;Pray, and let God worry.;Martin Luther
 70;MRK 13:11;both;;;;Jesus;primary;;;;;;
 70;;;;;;;;;;;Imagine yourself on trial for your faith;;
+70;;;;;;;;;;;Are there any unconfessed sins that hinder you from hearing His voice?;;
 70;PSA 84:13;positive;;;;Sons of Korah;direct;;;;;;
 70;ZEC 4:6;positive;;;;HEERE;direct;;;;;;
 70;JHN 14:26;positive;;;;Jesus;direct;;;;;;
+70;2TI 3:16-17;positive;;;;Paul;direct;;;;;;
+70;JAS 1:5;positive;;;;James;direct;;;;;;
 70;PSA 91:2;positive;;;;Unknown;indirect;;;;;;
 70;EZK 11:17-20;positive;;;;HEERE;indirect;;;;;;
 70;EZK 36:24-28;positive;;;;HEERE;indirect;;;;;;
@@ -1746,9 +1807,12 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 72;;;;;;;;;;;Have you met someone like Jonathan, who visited you to encourage you to put your faith in God?;;
 72;;;;;;;;;;;Read deut 3:28. Who can be your Joshua?;;
 72;DEU 3:28;positive;;;;Moses;direct;;;;;;
+72;EPH 4:29;positive;;;;Paul;direct;;;;;;
 72;1TH 3:12-13;positive;;;;Paul;direct;;;;;;
+72;1TH 5:11;positive;;;;Paul;direct;;;;;;
 72;2TH 3:3;positive;;;;Paul;direct;;;;;;
 72;TIT 2:11-15;positive;;;;Paul;direct;;;;;;
+72;HEB 3:12-13;positive;;;;Unknown;direct;;;;;;
 72;HEB 10:24-25;positive;;;;Unknown;direct;;;;;;
 72;PSA 77:12-13;positive;;;;Asaph;indirect;;;;;;
 72;ZEC 8:9-13;positive;;;;HEERE;indirect;;;;;;
