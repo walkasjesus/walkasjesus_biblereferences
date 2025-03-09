@@ -59,7 +59,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 1;REV 3:14-22;both;;;;Jesus;study;;;;;;
 1;EXO 20:2;positive;25;CCA1;To know that G-d exists;HEERE;otlaw;;;;;;
 1;DEU 5:6;positive;25;CCA1;To know that G-d exists;HEERE;otlaw;;;;;;
-2;;;;;;;;First Commandment;Get baptized;;;;
+2;;;;;;;;First Commandment;Laat je dopen;;;;
 2;MAT 28:19;positive;;;;Jesus;primary;;;;;;
 2;;;;;;;;;;;Did you already get baptized?;;
 2;;;;;;;;;;;Tell each other your testimony why you got baptized;;
@@ -172,9 +172,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 5;DEU 10:20;positive;431;CCA16;To cleave to those who know Him;Moses;otlaw;;;;;;
 5;DEU 13:4;positive;453;CCN22;Not to hearken to one who prophesies in the name of an idol;Moses;otlaw;;;;;;
 6;;;;;;;;First Commandment;Pray the Lord of the harvest to send out laborers into His harvest;;;;
+6;MAT 9:37-38;positive;;;;Jesus;primary;;;;;;
 6;;;;;;;;;;;Do you recognize any harvest in your life?;;
 6;;;;;;;;;;;What steps can you take to become a laborer for the harvest in your own life? Take time to pray for laborers in your city, nation, and around the world.;;
-6;MAT 9:37-38;positive;;;;Jesus;primary;;;;;;
 6;JHN 4:35-38;positive;;;;Jesus;direct;;;;;;
 6;LUK 9:57-61;negative;;;;Jesus;indirect;;;;;;
 6;COL 4:3;positive;;;;Paul;indirect;;;;;;
@@ -299,9 +299,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 11;PRO 3:34;both;;;;Solomon;wisdom;;;;;;
 12;;;;;;;;Second Commandment;Blessed are they which do hunger and thirst after righteousness: for they shall be filled;;;Therefore turn and live!;Ezekiel 18:32
 12;MAT 5:6;positive;;;;Jesus;primary;;;;;;
+12;;;;;;;;;;;I am what I do or I do what I am?;;
 12;;;;;;;;;;;Read the study bible references, what is righteousness according to these passages?;;
 12;;;;;;;;;;;What means righteousness for you?;;
-12;;;;;;;;;;;I am what I do or I do what I am?;;
 12;DEU 6:25;positive;;;;Moses;direct;;;;;;
 12;PSA 90:14;positive;;;;Moses;direct;;;;;;
 12;ISA 53:11;positive;;;;Isaiah;direct;;;;;;
@@ -632,7 +632,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 22;PRO 7:4-27;negative;;;;Solomon;wisdom;;;;;;
 22;PRO 16:17;positive;;;;Solomon;wisdom;;;;;;
 22;PRO 25:28;negative;;;;Solomon;wisdom;;;;;;
-23;;;;;;;;Seventh Commandment;Honor marriage;Do not look lustfully to a woman;;;
+23;;;;;;;;Seventh Commandment;Houd het huwelijk in ere;Kijk niet begerig naar een vrouw;;My goal for marriage is that it would be comfortable. God’s goal for marriage is that it would be transformational.;Paul David Tripp
 23;MAT 5:27-32;both;;;;Jesus;primary;;;;;;
 23;;;;;;;;;;;Wat zijn voor jullie de ingrediënten voor een goed huwelijk?;;
 23;1TH 4:3-8;positive;;;;Paul;direct;;;;;;
@@ -800,8 +800,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 29;;;;;;;;Eighth Commandment;Be generous (and fasten and pray) in secret;;;;
 29;MAT 6:1-4;both;;;;Jesus;primary;;;;;;
 29;;;;;;;;;;;Are you disappointed when your works are not seen?;;
-29;;;;;;;;;;;What does the world miss when we are no longer here?;;
 29;;;;;;;;;;;Are your works wood or gold?;;
+29;;;;;;;;;;;What does the world miss when we are no longer here?;;
 29;MAT 10:42;both;;;;Jesus;direct;;;;;;
 29;2CO 9:11;positive;;;;Paul;direct;;;;;;
 29;PHP 2:5-8;positive;;;;Undetermined;direct;;;;;;
@@ -900,11 +900,11 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 32;LEV 23:27;positive;313;CCA32;To fast on Yom Kippur;Moses;otlaw;;;;;;
 33;;;;;;;;Second Commandment;Lay up for yourselves treasures in heaven;"Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on";;if you own something you can't give up, you don't own it, it owns you;Jim Elliott
 33;MAT 6:19-21;positive;;;;Jesus;primary;;;;;;
-33;;;;;;;;;;;How do you think you as a Christian should deal with saving or investing?;;
 33;;;;;;;;;;;How do you deal with tithes and voluntary offerings?;;
+33;;;;;;;;;;;How do you think you as a Christian should deal with saving or investing?;;
 33;;;;;;;;;;;Is there anything you could not give up?;;
-33;;;;;;;;;;;Which of the 7 points mentioned by Alan Parr do you do/do not do and/or do you find difficult?;;
 33;;;;;;;;;;;What are your treasures?;;
+33;;;;;;;;;;;Which of the 7 points mentioned by Alan Parr do you do/do not do and/or do you find difficult?;;
 33;MAT 6:24-25;negative;;;;Jesus;direct;;;;;;
 33;MAT 12:34-35;both;;;;Jesus;direct;;;;;;
 33;MAT 19:21;positive;;;;Jesus;direct;;;;;;
@@ -952,8 +952,12 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 34;HAG 2:4-10;positive;;;;Haggai;example;;;;;;
 34;DEU 10:20;positive;432;CCA16;To cleave to those who know Him (Equivalent to Cleaving to Him);HEERE;otlaw;;;;;;
 34;ECC 2:11;negative;;;;Solomon;wisdom;;;;;;
-35;;;;;;;;Sixth Commandment;"First cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye";Do not judge, or you too will be judged;;;
+35;;;;;;;;Sixth Commandment;Haal eerst de balk uit uw oog en dan zult u goed kunnen zien om de splinter uit het oog van uw broeder te halen;Oordeel niet, of jij zult ook worden geoordeeld;;You can see the mote so well because it is made of the same material as the beam.;Wilkin van de Kamp
 35;MAT 7:1-5;positive;;;;Jesus;primary;;;;;;
+35;;;;;;;;;;;Can we agree to disagree in all circumstances?;;
+35;;;;;;;;;;;How should we judge?;;
+35;;;;;;;;;;;What can we judge?;;
+35;;;;;;;;;;;What can’t we judge?;;
 35;2CH 19:10;positive;;;;Jehoshaphat;direct;;;;;;
 35;MAT 7:6;negative;;;;Jesus;direct;;;;;;
 35;MAT 18:15-17;positive;;;;Jesus;direct;;;;;;
@@ -976,7 +980,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 35;PRO 9:8;both;;;;Solomon;wisdom;;;;;;
 35;PRO 10:17;both;;;;Solomon;wisdom;;;;;;
 35;PRO 12:1;both;;;;Solomon;wisdom;;;;;;
-35;PRO 23:9;negative;;;;Unknown;wisdom;;;;;;
+35;PRO 23:9;negative;;;;Solomon;wisdom;;;;;;
+35;PRO 30:11-14;negative;;;;Solomon;wisdom;;;;;;
 36;;;;;;;;First Commandment;Seek, and you will find;;;;
 36;MAT 7:7-8;positive;;;;Jesus;primary;;;;;;
 36;1CH 28:9;positive;;;;David;direct;;;;;;
@@ -1177,7 +1182,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 42;1CH 26:30-32;positive;;;;Undetermined;example;;;;;;
 42;2CH 32:7-8;positive;;;;Hezekiah;example;;;;;;
 42;PRO 1:33;positive;;;;Solomon;wisdom;;;;;;
-43;;;;;;;;Sixth Commandment;Be moved with inner compassion with the people around you;;;;
+43;;;;;;;;Sixth Commandment;Wees met innerlijke ontferming bewogen met de mensen om je heen;;;;
 43;MAT 9:36;positive;;;;Jesus;primary;;;;;;
 43;;;;;;;;;;;Can you read the following texts and examine what behavior or event occurred after Jesus was moved with compassion? John 11:33, 8:1-11, 14:31. Matt 18:27, 15:32, 9:36-38. Mark 8:2, 1:41, 5:1-20, 6:34. Luke 7:13, 10:33-35;;
 43;ISA 61:1;positive;;;;Isaiah;direct;;;;;;
@@ -1320,7 +1325,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 47;PSA 103:1-22;positive;;;;David;study;;;;;;
 47;DEU 6:5;positive;418;CCA3;To love G-d;Moses;otlaw;;;;;;
 47;PRO 8:17;positive;;;;Solomon;wisdom;;;;;;
-48;;;;;;;;Tenth Commandment;Deny yourself, take up a cross, and follow Jesus;;;Suffering doesnt destroy faith, it refines it;I Still Believe (2020 Movie)
+48;;;;;;;;Tenth Commandment;Verloochen jezelf, neem je kruis op je en volg Jezus;;;Lijden vernietigd het geloof niet, het verfijnd haar;I Still Believe (2020 Movie)
 48;MAT 16:24;positive;;;;Jesus;primary;;;;;;
 48;;;;;;;;;;;Christ laid down His own life to eternally save yours. How does this good news empower you to deny yourself and follow Him?;;
 48;;;;;;;;;;;Will you give up your life to follow Christ?;;
@@ -1419,9 +1424,9 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 52;PRO 29:20;negative;;;;Solomon;wisdom;;;;;;
 53;;;;;;;;First Commandment;Do the will of the Father;;;;
 53;MAT 12:50;positive;;;;Jesus;primary;;;;;;
-53;;;;;;;;;;;What Bible examples inspire you to listen to God's will?;;
 53;;;;;;;;;;;Are you seeking God's guidance or seeking God's approval for your plan?;;
 53;;;;;;;;;;;Sins can hinder you from hearing God's voice. Will you bring your sins into the light?;;
+53;;;;;;;;;;;What Bible examples inspire you to listen to God's will?;;
 53;ISA 58:11;positive;;;;Isaiah;direct;;;;;;
 53;JER 29:11;positive;;;;HEERE;direct;;;;;;
 53;JHN 4:34;positive;;;;Jesus;direct;;;;;;
@@ -1502,8 +1507,10 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 57;JHN 6:43;negative;;;;Jesus;indirect;;;;;;
 57;ROM 8:14-17;positive;;;;Paul;indirect;;;;;;
 57;ACT 1:14;positive;;;;Many disciples (men and woman);example;;;;;;
-58;;;;;;;;Second Commandment;Blessed are they that hear the word of God, and keep it;;;;
+58;;;;;;;;Second Commandment;Blessed are they that hear the word of God, and keep it;;;"Can I take scripture just as seriously as I take my mathematics? 
+Do I trust the Lord enough to stand the time and wait for the Lord for Him to speak?";John Lennox
 58;LUK 11:28;positive;;;;Jesus;primary;;;;;;
+58;;;;;;;;;;;How often do you read your Bible?;;
 58;;;;;;;;;;;Once you know what He says, can you trust it?;;
 58;PSA 12:6-7;positive;;;;David;direct;;;;;;
 58;PSA 119:97-112;positive;;;;Unknown;direct;;;;;;
@@ -1557,7 +1564,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 60;MAT 22:2-14;both;;;;Jesus;duplicate;;;;;;
 60;JHN 3:29;positive;;;;John the baptist;example;;;;;;
 60;PSA 45:1-18;positive;;;;Unknown;study;;;;;;
-61;;;;;;;;Sixth Commandment;Find the lost sheep;;;;
+61;;;;;;;;Sixth Commandment;Zoek de verloren schapen;;;;
 61;LUK 15:4-7;both;;;;Jesus;primary;;;;;;
 61;LUK 15:8-10;positive;;;;Jesus;direct;;;;;;
 61;LUK 15:20;positive;;;;Jesus;direct;;;;;;
@@ -1707,8 +1714,11 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 66;DEU 6:8;positive;421;CCA8;To bind tefillin on the arm;Moses;otlaw;;;;;;
 66;DEU 6:8;positive;422;CCA9;To bind tefillin on the head;Moses;otlaw;;;;;;
 66;DEU 6:9;positive;423;CCA12;To affix the mezuzah to the doorposts and gates of your house;Moses;otlaw;;;;;;
-67;;;;;;;;Sixth Commandment;You shall love your neighbor as yourself;;;Spread love everywhere you go. Let no one ever come to you without leaving happier;Mother Teresa
+67;;;;;;;;Sixth Commandment;U zult uw naaste liefhebben als uzelf;;;Verspreid liefde overal waar je gaat. Laat niemand ooit bij je komen zonder gelukkiger te vertrekken;Mother Teresa
 67;MAT 19:19;positive;;;;Jesus;primary;;;;;;
+67;;;;;;;;;;;Ben je bereid om een prijs te betalen? Wat mag het je kosten?;;
+67;;;;;;;;;;;Ben jij bereid om onderweg naar … om je heen te kijken?;;
+67;;;;;;;;;;;Wanneer ben jij geraakt door de duisternis?;;
 67;JHN 15:9-17;positive;;;;Jesus;direct;;;;;;
 67;ROM 13:8-10;both;;;;Paul;direct;;;;;;
 67;GAL 5:14;positive;;;;Paul;direct;;;;;;
@@ -1770,8 +1780,8 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 69;PRO 18:16;positive;;;;Solomon;wisdom;;;;;;
 70;;;;;;;;Second Commandment;Trust that the Spirit will guide you;Do not worry about what to say;;Pray, and let God worry.;Martin Luther
 70;MRK 13:11;both;;;;Jesus;primary;;;;;;
-70;;;;;;;;;;;Imagine yourself on trial for your faith;;
 70;;;;;;;;;;;Are there any unconfessed sins that hinder you from hearing His voice?;;
+70;;;;;;;;;;;Imagine yourself on trial for your faith;;
 70;PSA 84:13;positive;;;;Sons of Korah;direct;;;;;;
 70;ZEC 4:6;positive;;;;HEERE;direct;;;;;;
 70;JHN 14:26;positive;;;;Jesus;direct;;;;;;
@@ -1791,7 +1801,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 70;ACT 16:6-8;positive;;;;Paul;example;;;;;;
 70;1CH 14:8-16;positive;;;;David;study;;;;;;
 70;2CH 20:1-30;positive;;;;Jehoshaphat;study;;;;;;
-71;;;;;;;;Fourth Commandment;Celebrate the Lord’s supper in remembrance of Me;;;;
+71;;;;;;;;Fourth Commandment;Vier regelmatig het Heilig Avondmaal tot gedachtenis van Jezus;;;;
 71;LUK 22:17-20;positive;;;;Jesus;primary;;;;;;
 71;1CO 11:23-26;positive;;;;Paul;direct;;;;;;
 71;JER 31:31-34;positive;;;;Jeremiah;indirect;;;;;;
