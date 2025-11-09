@@ -260,12 +260,18 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 9;2SA 22:33-37;positive;;;;David;example;;;;;;
 9;PSA 124:8;positive;;;;David;example;;;;;;
 9;ACT 6:8-10;positive;;;;Stephen;example;;;;;;
-10;;;;;;;;Sixth Commandment;Blessed are they that mourn: for they shall be comforted;;;My life is not full despite disappointings, but because of them;I Still Believe (2020 Movie)
+10;;;;;;;;Sixth Commandment;Blessed are those who mourn, For they shall be comforted;;;My life is not full despite disappointments, but because of them;I Still Believe (2020 Movie)
 10;MAT 5:4;positive;;;;Jesus;primary;;;;;;
+10;;;;;;;;;;;Ben je wel eens verdrietig om zaken waarvan je denkt dat God ook verdrietig over is?;;
+10;;;;;;;;;;;Hoe kan verdriet jou dichter tot God brengen?;;
+10;;;;;;;;;;;Kun je voorbeeld noemen van oprecht verdriet over je eigen zonde?;;
+10;;;;;;;;;;;Zijn er zonden die je veroordeeld van anderen? Heb je dit wel eens vanuit diepe ontferming bij de troon van God gebracht? (Han 20:31);;
+10;JOB 5:11;positive;;;;Job;direct;;;;;;
 10;PSA 119:136;positive;;;;David;direct;;;;;;
 10;ISA 57:18;positive;;;;Isaiah;direct;;;;;;
 10;ISA 61:1-3;positive;;;;Isaiah;direct;;;;;;
 10;EZK 36:31-32;both;;;;Israel;direct;;;;;;
+10;2CO 7:10;positive;;;;Paul;direct;;;;;;
 10;JAS 4:8-10;positive;;;;James;direct;;;;;;
 10;PSA 94:19;positive;;;;Unknown;indirect;;;;;;
 10;PSA 119:49-56;positive;;;;Unknown;indirect;;;;;;
@@ -273,12 +279,17 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 10;ISA 66:13;positive;;;;HEERE;indirect;;;;;;
 10;NAM 1:7;positive;;;;Nahum;indirect;;;;;;
 10;LUK 6:22;positive;;;;Jesus;indirect;;;;;;
+10;2CO 4:8;positive;;;;Paul;indirect;;;;;;
+10;PHP 2:1-4;positive;;;;Paul;indirect;;;;;;
+10;1TH 4:13-14;positive;;;;Paul;indirect;;;;;;
 10;HEB 4:15-16;positive;;;;Unknown;indirect;;;;;;
 10;REV 7:17;positive;;;;Jesus;indirect;;;;;;
 10;LUK 6:21;positive;;;;Jesus;duplicate;;;;;;
+10;2SA 18:33;positive;;;;David;example;;;;;;
 10;2KI 22:19-20;positive;;;;HEERE;example;;;;;;
 10;EZK 9:4-6;both;;;;HEERE;example;;;;;;
 10;JON 3:4-8;positive;;;;People in Nineveh;example;;;;;;
+10;ROM 7:24-26;positive;;;;Paul;example;;;;;;
 10;COL 1:24;positive;;;;Paul;example;;;;;;
 10;2KI 20:1-6;positive;;;;Hezekiah;study;;;;;;
 10;PRO 25:20;positive;;;;Solomon;wisdom;;;;;;
@@ -797,7 +808,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 28;MAT 10:25;positive;;;;Jesus;example;;;;;;
 28;COL 4:12;positive;;;;Epaphras;example;;;;;;
 28;JOB 2:3;positive;;;;Job;wisdom;;;;;;
-29;;;;;;;;Eighth Commandment;Be generous (and fasten and pray) in secret;;;;
+29;;;;;;;;Eighth Commandment;Wees vrijgevig (en vast en bid) in het verborgene;;;;
 29;MAT 6:1-4;both;;;;Jesus;primary;;;;;;
 29;;;;;;;;;;;Are you disappointed when your works are not seen?;;
 29;;;;;;;;;;;Are your works wood or gold?;;
@@ -1157,7 +1168,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 41;REV 2:17;positive;;;;Jesus;study;;;;;;
 41;REV 3:20-22;positive;;;;Jesus;study;;;;;;
 41;PRO 1:24-33;both;;;;Solomon;wisdom;;;;;;
-42;;;;;;;;Tenth Commandment;Be of good cheer;Be not afraid;;Courage is when you overcome fear;Nick Vujicic
+42;;;;;;;;Tenth Commandment;Be strong and courageous;Be not afraid;;Courage is when you overcome fear;Nick Vujicic
 42;MAT 9:2;positive;;;;Jesus;primary;;;;;;
 42;;;;;;;;;;;How can you encourage a brother or sister today?;;
 42;;;;;;;;;;;What does your daily struggle look like?;;
@@ -1213,12 +1224,14 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 43;LUK 14:12-14;positive;;;;Jesus;study;;;;;;
 43;JOB 11:2-3;negative;;;;Zophar (Friend of Job);wisdom;;;;;;
 43;JOB 20:21-22;both;;;;Job;wisdom;;;;;;
-44;;;;;;;;Ninth Commandment;Be wise as serpents and harmless as doves;Do not throw your pearls to pigs;;;
+44;;;;;;;;Ninth Commandment;Be wise as serpents and harmless as doves;Do not throw your pearls to pigs;;It's easier to fool people than to convince them that they have been fooled;Mark Twain
 44;MAT 10:16-17;positive;;;;Jesus;primary;;;;;;
 44;;;;;;;;;;;How does biblical wisdom differ from worldly wisdom?;;
 44;;;;;;;;;;;When do you throw a pearl to a pig?;;
 44;PSA 101:1-8;positive;;;;David;direct;;;;;;
 44;MAT 7:6;negative;;;;Jesus;direct;;;;;;
+44;1TH 5:19;both;;;;Paul;direct;;;;;;
+44;1PE 1:13;positive;;;;Peter;direct;;;;;;
 44;GEN 1:1;positive;;;;Undetermined;indirect;;;;;;
 44;PSA 84:12;positive;;;;Sons of Korah;indirect;;;;;;
 44;PSA 97:10-12;positive;;;;Unknown;indirect;;;;;;
@@ -1235,7 +1248,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 44;PRO 9:7-8;both;;;;Solomon;wisdom;;;;;;
 44;PRO 23:9;negative;;;;Unknown;wisdom;;;;;;
 44;ECC 9:13-18;both;;;;Solomon;wisdom;;;;;;
-45;;;;;;;;Third Commandment;Fear God;Be not afraid of them that kill the body, and after that have no more that they can do;;;
+45;;;;;;;;Third Commandment;We are to reverently and lovingly fear God;Be not afraid of them that kill the body, and after that have no more that they can do;;;
 45;LUK 12:4-5;positive;;;;Jesus;primary;;;;;;
 45;DEU 13:4;positive;;;;Moses;direct;;;;;;
 45;JOS 24:14;both;;;;HEERE;direct;;;;;;
@@ -1284,6 +1297,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 45;JOB 13:11;negative;;;;Job;wisdom;;;;;;
 45;PRO 1:7;both;;;;Solomon;wisdom;;;;;;
 45;PRO 2:1-6;positive;;;;Solomon;wisdom;;;;;;
+45;PRO 3:7-8;both;;;;Solomon;wisdom;;;;;;
 45;PRO 8:13;both;;;;Solomon;wisdom;;;;;;
 45;PRO 14:26-27;positive;;;;Solomon;wisdom;;;;;;
 45;ECC 8:12-13;both;;;;Solomon;wisdom;;;;;;
@@ -1312,7 +1326,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 46;PRO 3:27;negative;;;;Solomon;wisdom;;;;;;
 46;PRO 29:25;both;;;;Solomon;wisdom;;;;;;
 46;ECC 3:7;positive;;;;Solomon;wisdom;;;;;;
-47;;;;;;;;Second Commandment;Love God above all;;;;
+47;;;;;;;;Second Commandment;Love God above all;;;The worth and excellency of a soul is to be measured by the object of its love;Henry Scougal
 47;MAT 10:37;negative;;;;Jesus;primary;;;;;;
 47;EXO 20:2-3;positive;;;;HEERE;direct;;;;;;
 47;DEU 13:6-8;negative;;;;Moses;direct;;;;;;
@@ -1483,7 +1497,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 55;PSA 8:3;positive;;;;David;indirect;;;;;;
 55;PSA 131:1-3;positive;;;;David;indirect;;;;;;
 55;LUK 18:17;both;;;;Jesus;duplicate;;;;;;
-56;;;;;;;;Sixth Commandment;Whoso shall receive one such little child in my name receiveth me;;;;
+56;;;;;;;;Sixth Commandment;Whoso shall receive one such little child in my name receiveth me;Take heed that ye despise not one of these little ones;;Children are not a distraction from more important work. They are the most important work.;C.S. Lewis
 56;MAT 18:5;positive;;;;Jesus;primary;;;;;;
 56;MAT 18:10-14;positive;;;;Jesus;direct;;;;;;
 56;MAT 19:13-14;both;;;;Jesus;direct;;;;;;
@@ -1607,7 +1621,7 @@ Do I trust the Lord enough to stand the time and wait for the Lord for Him to sp
 63;PRO 6:20-26;both;;;;Solomon;wisdom;;;;;;
 63;PRO 10:1;positive;;;;Solomon;wisdom;;;;;;
 63;PRO 13:1;both;;;;Solomon;wisdom;;;;;;
-64;;;;;;;;Eighth Commandment;"Many that are first shall be last; and the last shall be first";For whosoever exalteth himself shall be abased;;;
+64;;;;;;;;Eighth Commandment;Serve your neighbor;For whosoever exalteth himself shall be abased;;"Many that are first shall be last; and the last shall be first";Jesus of Nazareth
 64;MAT 19:30;both;;;;Jesus;primary;;;;;;
 64;PSA 138:6;both;;;;David;direct;;;;;;
 64;MAT 20:26-27;positive;;;;Jesus;direct;;;;;;
@@ -1716,8 +1730,8 @@ Do I trust the Lord enough to stand the time and wait for the Lord for Him to sp
 66;DEU 6:9;positive;423;CCA12;To affix the mezuzah to the doorposts and gates of your house;Moses;otlaw;;;;;;
 67;;;;;;;;Sixth Commandment;You shall love your neighbor as yourself;;;Spread love everywhere you go. Let no one ever come to you without leaving happier;Mother Teresa
 67;MAT 19:19;positive;;;;Jesus;primary;;;;;;
-67;;;;;;;;;;;Are you willing to pay a price? What will it cost you?;;
 67;;;;;;;;;;;Are you willing to look around you on your way to ...?;;
+67;;;;;;;;;;;Are you willing to pay a price? What will it cost you?;;
 67;;;;;;;;;;;When have you been touched by the darkness?;;
 67;JHN 15:9-17;positive;;;;Jesus;direct;;;;;;
 67;ROM 13:8-10;both;;;;Paul;direct;;;;;;
@@ -1737,7 +1751,7 @@ Do I trust the Lord enough to stand the time and wait for the Lord for Him to sp
 67;EPH 5:2;positive;;;;Paul;example;;;;;;
 67;LEV 19:18;positive;243;CCA60;To love all human beings who are of the covenant;HEERE;otlaw;;;;;;
 67;PRO 3:28-29;negative;;;;Solomon;wisdom;;;;;;
-68;;;;;;;;First Commandment;Watch therefore for the coming of Jesus;;;;
+68;;;;;;;;First Commandment;Staying Alert, Being Ready and Being Watchful for the Signs and Moment of Jesus Return;Take heed that no man deceive you.;;;
 68;MAT 24:42-44;positive;;;;Jesus;primary;;;;;;
 68;ZEP 2:1-3;both;;;;Zephaniah;direct;;;;;;
 68;MAT 24:45-46;positive;;;;Jesus;direct;;;;;;
@@ -1856,12 +1870,14 @@ Do I trust the Lord enough to stand the time and wait for the Lord for Him to sp
 73;ROM 6:1-8:39;both;;;;Paul;study;;;;;;
 74;;;;;;;;Second Commandment;We are called to glorify the Name of God in Christ Jesus!;;;God is most glorified in us, when we are most satisfied in Him;John Piper
 74;JHN 17:9-10;positive;;;;Jesus;primary;;;;;;
+74;;;;;;;;;;;Wat is the Joy of God Himself?;;
 74;PSA 72:18-19;positive;;;;David;direct;;;;;;
 74;PSA 90:16-17;positive;;;;Moses;direct;;;;;;
 74;PSA 146:1;positive;;;;Unknown;direct;;;;;;
 74;PSA 148:13;positive;;;;Unknown;direct;;;;;;
 74;ISA 42:10-12;positive;;;;Isaiah;direct;;;;;;
 74;ISA 43:7;positive;;;;Isaiah;direct;;;;;;
+74;MAT 15:8-9;negative;;;;Jesus;direct;;;;;;
 74;JHN 7:18;both;;;;Jesus;direct;;;;;;
 74;JHN 11:4;positive;;;;Jesus;direct;;;;;;
 74;ROM 11:36;positive;;;;Paul;direct;;;;;;
@@ -1873,8 +1889,10 @@ Do I trust the Lord enough to stand the time and wait for the Lord for Him to sp
 74;1PE 4:10-11;positive;;;;Peter;direct;;;;;;
 74;REV 4:11;positive;;;;Jesus;direct;;;;;;
 74;GEN 17:1;positive;;;;HEERE;indirect;;;;;;
+74;PSA 51:8;positive;;;;David;indirect;;;;;;
 74;PSA 92:1-6;positive;;;;Unknown;indirect;;;;;;
 74;PSA 134:1;positive;;;;Unknown;indirect;;;;;;
+74;PSA 147:11;positive;;;;David;indirect;;;;;;
 74;ISA 60:21;positive;;;;Isaiah;indirect;;;;;;
 74;EZK 28:6;negative;;;;HEERE;indirect;;;;;;
 74;ROM 15:11;positive;;;;Paul;indirect;;;;;;
