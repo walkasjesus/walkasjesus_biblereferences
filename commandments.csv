@@ -298,7 +298,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 11;PSA 10:17-18;positive;;;;David;direct;;;;;;
 11;PSA 22:27;positive;;;;David;direct;;;;;;
 11;PSA 25:9;positive;;;;David;direct;;;;;;
-11;PSA 37:9-11;both;;;;David;direct;;;;;;
+11;PSA 37:8-11;both;;;;David;direct;;;;;;
 11;PSA 69:33;positive;;;;David;direct;;;;;;
 11;GAL 6:1;positive;;;;Paul;direct;;;;;;
 11;TIT 3:1-2;positive;;;;Paul;direct;;;;;;
@@ -963,7 +963,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 34;HAG 2:4-10;positive;;;;Haggai;example;;;;;;
 34;DEU 10:20;positive;432;CCA16;To cleave to those who know Him (Equivalent to Cleaving to Him);HEERE;otlaw;;;;;;
 34;ECC 2:11;negative;;;;Solomon;wisdom;;;;;;
-35;;;;;;;;Sixth Commandment;"First cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye";Do not judge, or you too will be judged;;;
+35;;;;;;;;Sixth Commandment;"First cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye";Do not judge, or you too will be judged;;When a generation tolerates a sin, the next will celebrate it, and the generation after them won't even know it's a sin;Unknown
 35;MAT 7:1-5;positive;;;;Jesus;primary;;;;;;
 35;;;;;;;;;;;Can we agree to disagree in all circumstances?;;
 35;;;;;;;;;;;How should we judge?;;
@@ -1248,8 +1248,10 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 44;PRO 9:7-8;both;;;;Solomon;wisdom;;;;;;
 44;PRO 23:9;negative;;;;Unknown;wisdom;;;;;;
 44;ECC 9:13-18;both;;;;Solomon;wisdom;;;;;;
-45;;;;;;;;Third Commandment;We are to reverently and lovingly fear God;Be not afraid of them that kill the body, and after that have no more that they can do;;;
+45;;;;;;;;Third Commandment;We are to reverently and lovingly fear God;Be not afraid of them that kill the body, and after that have no more that they can do;;"True reverence for God does not question; it obeys!";Jeroen Dorstijn
 45;LUK 12:4-5;positive;;;;Jesus;primary;;;;;;
+45;;;;;;;;;;;What did you learn from the Bible how the fear of God is described?;;
+45;;;;;;;;;;;What does fear of God mean to you?;;
 45;DEU 13:4;positive;;;;Moses;direct;;;;;;
 45;JOS 24:14;both;;;;HEERE;direct;;;;;;
 45;PSA 2:11;positive;;;;Unknown;direct;;;;;;
@@ -1259,6 +1261,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 45;MAL 4:2;positive;;;;Malachi;direct;;;;;;
 45;MAT 10:26-33;both;;;;Jesus;direct;;;;;;
 45;LUK 1:50;positive;;;;Mary;direct;;;;;;
+45;ACT 5:11;both;;;;Peter;direct;;;;;;
 45;EXO 20:5-6;both;;;;HEERE;indirect;;;;;;
 45;DEU 10:12;positive;;;;HEERE;indirect;;;;;;
 45;DEU 11:26-28;both;;;;Moses;indirect;;;;;;
@@ -1357,7 +1360,7 @@ step;bible_ref;bible_ref_positive_negative;bible_ref_ot_nr;bible_ref_ot_rambam_i
 48;LUK 5:27-28;positive;;;;Levi;example;;;;;;
 48;LUK 18:28-30;positive;;;;Jesus;example;;;;;;
 48;JOB 6:10;positive;;;;Job;wisdom;;;;;;
-49;;;;;;;;Tenth Commandment;Receive him whom I will send;It is a sin to despise one’s neighbor;;;
+49;;;;;;;;Tenth Commandment;Receive him whom I will send;It is a sin to despise one’s neighbor;;Darkness cannot drive out darkness, only the light can do that!;Martin Luther King
 49;JHN 13:20;positive;;;;Jesus;primary;;;;;;
 49;;;;;;;;;;;In the film, Martin denies himself and follows Jesus by sharing the Gospel with sailors. What’s your response to his humble obedience?;;
 49;LEV 19:33-34;both;;;;HEERE;direct;;;;;;
