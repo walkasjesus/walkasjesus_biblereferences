@@ -9,7 +9,6 @@ import yaml
 
 LOW_CONFIDENCE_FALLBACK_THRESHOLD = 0.35
 LOW_CONFIDENCE_STEP_VOTE_THRESHOLD = 0.67
-TOP_ALTERNATIVES = 5
 
 
 BOOK_CODE_MAP = {
@@ -261,6 +260,7 @@ def load_step_titles_from_csv(csv_path):
 def build_category_mapping(step_to_title, step_to_refs, law_entries, step_category_votes, category_profiles):
     mapping = {}
     diagnostics = []
+    all_categories = sorted(category_profiles.keys())
 
     for step, title in sorted(step_to_title.items(), key=lambda x: int(x[0])):
         # Preferred strategy: category voting via related STEP links.
@@ -272,14 +272,14 @@ def build_category_mapping(step_to_title, step_to_refs, law_entries, step_catego
             best_category, votes = ranked_votes[0]
             total_votes = sum(step_category_votes[step].values())
             confidence = votes / total_votes if total_votes else 0.0
-            alternatives = [
-                {
-                    "category": category,
-                    "score": round((count / total_votes) if total_votes else 0.0, 4),
-                    "reason": f"{count}/{total_votes} votes",
-                }
-                for category, count in ranked_votes[:TOP_ALTERNATIVES]
-            ]
+            votes_for_category = dict(ranked_votes)
+            alternatives = []
+            for category in all_categories:
+                count = votes_for_category.get(category, 0)
+                alt = {"category": category}
+                if count > 0 and total_votes:
+                    alt["score"] = round(count / total_votes, 4)
+                alternatives.append(alt)
 
             mapping[step] = {
                 "category": best_category,
@@ -313,9 +313,8 @@ def build_category_mapping(step_to_title, step_to_refs, law_entries, step_catego
             {
                 "category": category,
                 "score": round(score, 4),
-                "reason": f"refs={refs_score:.3f}, text={text_score:.3f}",
             }
-            for category, score, refs_score, text_score in ranked_categories[:TOP_ALTERNATIVES]
+            for category, score, refs_score, text_score in ranked_categories
         ]
 
         mapping[step] = {
@@ -378,6 +377,19 @@ def update_yaml_categories(yaml_path, mapping):
 
 
 def write_low_confidence_review(review_path, mapping):
+    def sort_alternatives(alternatives):
+        prepared = [alt for alt in alternatives if isinstance(alt, dict) and alt.get("category")]
+
+        def sort_key(alt):
+            has_score = "score" in alt
+            score = alt.get("score", 0.0)
+            if not isinstance(score, (int, float)):
+                score = 0.0
+            category = str(alt.get("category", ""))
+            return (0 if has_score else 1, -float(score), category)
+
+        return sorted(prepared, key=sort_key)
+
     existing_by_step = {}
     if review_path.exists():
         existing_items = load_yaml(review_path)
@@ -400,23 +412,15 @@ def write_low_confidence_review(review_path, mapping):
         )
         existing = existing_by_step.get(step, {})
         approved_category = str(existing.get("approved_category", "")).strip()
-        notes = str(existing.get("notes", ""))
-
-        # Keep approved manual decisions in this file so overrides persist
-        # across future regenerations.
-        if not is_low_confidence and not approved_category:
-            continue
 
         review_items.append(
             {
                 "step": step,
                 "title_en": item.get("source_step_title", ""),
                 "current_category": item.get("category", ""),
-                "method": method,
                 "confidence_score": round(score, 4),
-                "proposed_alternatives": item.get("alternatives", []),
                 "approved_category": approved_category,
-                "notes": notes,
+                "proposed_alternatives": sort_alternatives(item.get("alternatives", [])),
             }
         )
 
@@ -454,13 +458,6 @@ def apply_review_overrides(review_path, mapping):
             mapping[step]["score"] = 1.0
             mapping[step]["matched_id"] = "REVIEW-OVERRIDE"
             mapping[step]["matched_title"] = approved
-            mapping[step]["alternatives"] = [
-                {
-                    "category": approved,
-                    "score": 1.0,
-                    "reason": "approved_category",
-                }
-            ]
             override_count += 1
 
     return override_count
@@ -508,7 +505,7 @@ def main():
     print(f"Manual review overrides applied: {manual_overrides}")
     print(f"Mapped by STEP votes: {vote_based}")
     print(f"Mapped by title fallback: {fallback_based}")
-    print(f"Low-confidence review items written: {review_count}")
+    print(f"Review items written: {review_count}")
     print(f"Review file: {review_path}")
     print("Lowest-confidence matches (top 15):")
     for item in diagnostics[:15]:
