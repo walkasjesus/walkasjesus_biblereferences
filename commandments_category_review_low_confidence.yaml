@@ -1,0 +1,123 @@
+- step: '1'
+  title_en: Repent and believe the gospel
+  current_category: Godliness & Godly Living
+  method: manual_review
+  confidence_score: 1.0
+  proposed_alternatives:
+  - category: Godliness & Godly Living
+    score: 1.0
+    reason: approved_category
+  approved_category: Godliness & Godly Living
+  notes: ''
+- step: '2'
+  title_en: Get baptized
+  current_category: Godliness & Godly Living
+  method: title_fallback
+  confidence_score: 0.0
+  proposed_alternatives:
+  - category: Benevolence
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  - category: Commerce
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  - category: Covenant Responsibilities
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  - category: Days & Seasons
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  - category: End-Times
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  approved_category: Godliness & Godly Living
+  notes: ''
+- step: '3'
+  title_en: Follow Me
+  current_category: Godliness & Godly Living
+  method: manual_review
+  confidence_score: 1.0
+  proposed_alternatives:
+  - category: Godliness & Godly Living
+    score: 1.0
+    reason: approved_category
+  approved_category: Godliness & Godly Living
+  notes: ''
+- step: '26'
+  title_en: Share goods with the needy
+  current_category: Neighbours & Brothers
+  method: manual_review
+  confidence_score: 1.0
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 1.0
+    reason: approved_category
+  approved_category: Neighbours & Brothers
+  notes: ''
+- step: '29'
+  title_en: Be generous (and fasten and pray) in secret
+  current_category: Godliness & Godly Living
+  method: manual_review
+  confidence_score: 1.0
+  proposed_alternatives:
+  - category: Godliness & Godly Living
+    score: 1.0
+    reason: approved_category
+  approved_category: Godliness & Godly Living
+  notes: ''
+- step: '31'
+  title_en: If you forgive men their trespasses, your heavenly Father will also forgive you
+  current_category: Neighbours & Brothers
+  method: manual_review
+  confidence_score: 1.0
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 1.0
+    reason: approved_category
+  approved_category: Neighbours & Brothers
+  notes: ''
+- step: '32'
+  title_en: Fast regularly
+  current_category: Godliness & Godly Living
+  method: title_fallback
+  confidence_score: 0.0
+  proposed_alternatives:
+  - category: Benevolence
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  - category: Commerce
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  - category: Covenant Responsibilities
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  - category: Days & Seasons
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  - category: End-Times
+    score: 0.0
+    reason: refs=0.000, text=0.000
+  approved_category: Godliness & Godly Living
+  notes: ''
+- step: '40'
+  title_en: Beware of false prophets
+  current_category: End-Times
+  method: manual_review
+  confidence_score: 1.0
+  proposed_alternatives:
+  - category: End-Times
+    score: 1.0
+    reason: approved_category
+  approved_category: End-Times
+  notes: ''
+- step: '75'
+  title_en: Feed My sheep
+  current_category: Outreach, Ministry & Spiritual Authority
+  method: manual_review
+  confidence_score: 1.0
+  proposed_alternatives:
+  - category: Outreach, Ministry & Spiritual Authority
+    score: 1.0
+    reason: approved_category
+  approved_category: Outreach, Ministry & Spiritual Authority
+  notes: ''
