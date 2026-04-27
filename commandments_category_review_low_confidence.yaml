@@ -1,0 +1,4227 @@
+- step: '1'
+  title_en: Repent and believe the gospel
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Repenting & Seeking Forgiveness of Sin
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 0.5
+  - category: Godliness, Holiness & Righteousness
+    score: 0.25
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '2'
+  title_en: Get baptized
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 0.0
+  approved_category: New Birth, Resurrection & Deliverance / Salvation
+  proposed_alternatives:
+  - category: Charity, Provision, & Generosity
+    score: 0.0
+  - category: Commerce
+    score: 0.0
+  - category: Covenant Responsibilities
+    score: 0.0
+  - category: Days & Seasons
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: Godliness, Holiness & Righteousness
+    score: 0.0
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0
+  - category: Justice
+    score: 0.0
+  - category: Dietary Laws & Food Regulations
+    score: 0.0
+  - category: God & Yeshua
+    score: 0.0
+  - category: Morality & Compassion
+    score: 0.0
+  - category: Neighbours & Brothers
+    score: 0.0
+  - category: Ministering, Discipling & Teaching
+    score: 0.0
+  - category: Priesthood
+    score: 0.0
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.0
+  - category: Holy Spirit
+    score: 0.0
+  - category: Way of Life
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: The Word and Will of God & Messiah
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '3'
+  title_en: Follow Me
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: The Word and Will of God & Messiah
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 0.1
+  - category: Charity, Provision, & Generosity
+    score: 0.0
+  - category: Commerce
+    score: 0.0
+  - category: Covenant Responsibilities
+    score: 0.0
+  - category: Days & Seasons
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: Godliness, Holiness & Righteousness
+    score: 0.0
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0
+  - category: Justice
+    score: 0.0
+  - category: Dietary Laws & Food Regulations
+    score: 0.0
+  - category: Morality & Compassion
+    score: 0.0
+  - category: Neighbours & Brothers
+    score: 0.0
+  - category: Ministering, Discipling & Teaching
+    score: 0.0
+  - category: Priesthood
+    score: 0.0
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.0
+  - category: Holy Spirit
+    score: 0.0
+  - category: Way of Life
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: The Word and Will of God & Messiah
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '4'
+  title_en: Therefore bear fruits worthy of repentance
+  current_category: Days & Seasons
+  confidence_score: 1.3333
+  approved_category: Spiritual Gifts
+  proposed_alternatives:
+  - category: Days & Seasons
+    score: 1.3333
+  - category: God & Yeshua
+    score: 1.2667
+  - category: Godliness, Holiness & Righteousness
+    score: 0.6
+  - category: Charity, Provision, & Generosity
+    score: 0.5667
+  - category: Priesthood
+    score: 0.5333
+  - category: Neighbours & Brothers
+    score: 0.5333
+  - category: Dietary Laws & Food Regulations
+    score: 0.3
+  - category: Ministering, Discipling & Teaching
+    score: 0.3
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3
+  - category: The Word and Will of God & Messiah
+    score: 0.3
+  - category: Covenant Responsibilities
+    score: 0.2333
+  - category: Way of Life
+    score: 0.2333
+  - category: Justice
+    score: 0.1667
+  - category: Marriage & Family
+    score: 0.1333
+  - category: The Jewish People & Land of Israel
+    score: 0.1333
+  - category: Morality & Compassion
+    score: 0.1
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0333
+  - category: Holy Spirit
+    score: 0.0333
+  - category: Commerce
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '5'
+  title_en: You shall worship the LORD your God, and Him only you shall serve
+  current_category: God & Yeshua
+  confidence_score: 4.5231
+  approved_category: Prayer & Worship
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 4.5231
+  - category: Days & Seasons
+    score: 1.6615
+  - category: Godliness, Holiness & Righteousness
+    score: 1.5538
+  - category: Neighbours & Brothers
+    score: 1.0769
+  - category: Covenant Responsibilities
+    score: 0.6
+  - category: The Word and Will of God & Messiah
+    score: 0.5846
+  - category: Ministering, Discipling & Teaching
+    score: 0.4462
+  - category: Priesthood
+    score: 0.4308
+  - category: Charity, Provision, & Generosity
+    score: 0.4154
+  - category: Dietary Laws & Food Regulations
+    score: 0.3077
+  - category: Holy Spirit
+    score: 0.2462
+  - category: Commerce
+    score: 0.2308
+  - category: Marriage & Family
+    score: 0.2154
+  - category: Justice
+    score: 0.2154
+  - category: Morality & Compassion
+    score: 0.2154
+  - category: The Jewish People & Land of Israel
+    score: 0.2
+  - category: Idolatry, Heathens & the Occult
+    score: 0.1538
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.1385
+  - category: Way of Life
+    score: 0.0615
+  - category: Tribulation & Adversity
+    score: 0.0462
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '6'
+  title_en: Pray the Lord of the harvest to send out laborers into His harvest
+  current_category: God & Yeshua
+  confidence_score: 3.3231
+  approved_category: Evangelizing & Preaching
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.3231
+  - category: Days & Seasons
+    score: 2.8923
+  - category: Neighbours & Brothers
+    score: 2.5538
+  - category: Godliness, Holiness & Righteousness
+    score: 2.2154
+  - category: Ministering, Discipling & Teaching
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+    score: 0.9538
+  - category: Priesthood
+    score: 0.8462
+  - category: Dietary Laws & Food Regulations
+    score: 0.6769
+  - category: The Word and Will of God & Messiah
+    score: 0.5846
+  - category: Covenant Responsibilities
+    score: 0.5692
+  - category: Morality & Compassion
+    score: 0.4923
+  - category: Commerce
+    score: 0.4154
+  - category: The Jewish People & Land of Israel
+    score: 0.4154
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.4
+  - category: Justice
+    score: 0.3846
+  - category: Idolatry, Heathens & the Occult
+    score: 0.3692
+  - category: Holy Spirit
+    score: 0.3692
+  - category: Way of Life
+    score: 0.2923
+  - category: Marriage & Family
+    score: 0.2615
+  - category: Tribulation & Adversity
+    score: 0.0154
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '7'
+  title_en: Take a day off in the week
+  current_category: Days & Seasons
+  confidence_score: 2.5429
+  approved_category: Days & Seasons
+  proposed_alternatives:
+  - category: Days & Seasons
+    score: 2.5429
+  - category: God & Yeshua
+    score: 2.4857
+  - category: Neighbours & Brothers
+    score: 1.9429
+  - category: Godliness, Holiness & Righteousness
+    score: 1.5429
+  - category: Charity, Provision, & Generosity
+    score: 0.8286
+  - category: Covenant Responsibilities
+    score: 0.6571
+  - category: Dietary Laws & Food Regulations
+    score: 0.6571
+  - category: Priesthood
+    score: 0.6571
+  - category: Ministering, Discipling & Teaching
+    score: 0.6286
+  - category: Way of Life
+    score: 0.5714
+  - category: Commerce
+    score: 0.5143
+  - category: The Word and Will of God & Messiah
+    score: 0.4
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3714
+  - category: Justice
+    score: 0.3143
+  - category: Holy Spirit
+    score: 0.2571
+  - category: The Jewish People & Land of Israel
+    score: 0.2571
+  - category: Morality & Compassion
+    score: 0.2
+  - category: Marriage & Family
+    score: 0.1143
+  - category: Idolatry, Heathens & the Occult
+    score: 0.1143
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '8'
+  title_en: Go into all the world and preach the gospel to every creature
+  current_category: God & Yeshua
+  confidence_score: 5.0333
+  approved_category: Evangelizing & Preaching
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 5.0333
+  - category: Godliness, Holiness & Righteousness
+    score: 3.5167
+  - category: Neighbours & Brothers
+    score: 3.3833
+  - category: Days & Seasons
+    score: 3.2
+  - category: Ministering, Discipling & Teaching
+    score: 1.1333
+  - category: Charity, Provision, & Generosity
+    score: 0.9333
+  - category: Covenant Responsibilities
+    score: 0.9167
+  - category: Priesthood
+    score: 0.8333
+  - category: The Word and Will of God & Messiah
+    score: 0.8
+  - category: Dietary Laws & Food Regulations
+    score: 0.7167
+  - category: Morality & Compassion
+    score: 0.5833
+  - category: Commerce
+    score: 0.55
+  - category: Idolatry, Heathens & the Occult
+    score: 0.5167
+  - category: Holy Spirit
+    score: 0.4667
+  - category: The Jewish People & Land of Israel
+    score: 0.45
+  - category: Justice
+    score: 0.4
+  - category: Marriage & Family
+    score: 0.3833
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3833
+  - category: Way of Life
+    score: 0.2667
+  - category: Tribulation & Adversity
+    score: 0.0667
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '9'
+  title_en: Blessed are the poor in spirit, for theirs is the kingdom of heaven
+  current_category: God & Yeshua
+  confidence_score: 3.7692
+  approved_category: Humility & Pride
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.7692
+  - category: Days & Seasons
+    score: 3.0462
+  - category: Neighbours & Brothers
+    score: 2.5538
+  - category: Godliness, Holiness & Righteousness
+    score: 2.3077
+  - category: Charity, Provision, & Generosity
+    score: 1.1385
+  - category: Ministering, Discipling & Teaching
+    score: 0.9385
+  - category: Priesthood
+    score: 0.8615
+  - category: Dietary Laws & Food Regulations
+    score: 0.7846
+  - category: Covenant Responsibilities
+    score: 0.6154
+  - category: The Word and Will of God & Messiah
+    score: 0.5692
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.5538
+  - category: Morality & Compassion
+    score: 0.4923
+  - category: Holy Spirit
+    score: 0.4923
+  - category: Way of Life
+    score: 0.4154
+  - category: Commerce
+    score: 0.4
+  - category: The Jewish People & Land of Israel
+    score: 0.3846
+  - category: Justice
+    score: 0.3538
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2923
+  - category: Marriage & Family
+    score: 0.2769
+  - category: Tribulation & Adversity
+    score: 0.0154
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '10'
+  title_en: Blessed are those who mourn, For they shall be comforted
+  current_category: Neighbours & Brothers
+  confidence_score: 2.34
+  approved_category: Morality & Compassion
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 2.34
+  - category: Godliness, Holiness & Righteousness
+    score: 2.04
+  - category: God & Yeshua
+    score: 1.58
+  - category: Days & Seasons
+    score: 0.52
+  - category: Ministering, Discipling & Teaching
+    score: 0.46
+  - category: Dietary Laws & Food Regulations
+    score: 0.34
+  - category: Idolatry, Heathens & the Occult
+    score: 0.32
+  - category: Charity, Provision, & Generosity
+    score: 0.3
+  - category: Morality & Compassion
+    score: 0.3
+  - category: Covenant Responsibilities
+    score: 0.28
+  - category: Priesthood
+    score: 0.28
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.28
+  - category: Way of Life
+    score: 0.18
+  - category: Marriage & Family
+    score: 0.12
+  - category: Commerce
+    score: 0.1
+  - category: Justice
+    score: 0.1
+  - category: Holy Spirit
+    score: 0.1
+  - category: The Jewish People & Land of Israel
+    score: 0.1
+  - category: The Word and Will of God & Messiah
+    score: 0.1
+  - category: Tribulation & Adversity
+    score: 0.04
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '11'
+  title_en: 'Blessed are the meek: for they shall inherit the earth'
+  current_category: Neighbours & Brothers
+  confidence_score: 1.0
+  approved_category: Instructing, Correcting, Rebuking & Judging
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '12'
+  title_en: 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled'
+  current_category: God & Yeshua
+  confidence_score: 2.7067
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 2.7067
+  - category: Godliness, Holiness & Righteousness
+    score: 2.6533
+  - category: Neighbours & Brothers
+    score: 1.9467
+  - category: Days & Seasons
+    score: 0.9067
+  - category: Covenant Responsibilities
+    score: 0.5067
+  - category: Charity, Provision, & Generosity
+    score: 0.3867
+  - category: Dietary Laws & Food Regulations
+    score: 0.3467
+  - category: Morality & Compassion
+    score: 0.3333
+  - category: Ministering, Discipling & Teaching
+    score: 0.32
+  - category: The Word and Will of God & Messiah
+    score: 0.32
+  - category: Priesthood
+    score: 0.2933
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.2667
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2267
+  - category: Marriage & Family
+    score: 0.2133
+  - category: Justice
+    score: 0.2
+  - category: Commerce
+    score: 0.1733
+  - category: Way of Life
+    score: 0.1733
+  - category: Holy Spirit
+    score: 0.1333
+  - category: The Jewish People & Land of Israel
+    score: 0.12
+  - category: Tribulation & Adversity
+    score: 0.0667
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '13'
+  title_en: 'Blessed are the merciful: for they shall obtain mercy'
+  current_category: God & Yeshua
+  confidence_score: 2.5333
+  approved_category: Charity, Provision, & Generosity
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 2.5333
+  - category: Neighbours & Brothers
+    score: 2.2667
+  - category: Days & Seasons
+    score: 1.8667
+  - category: Godliness, Holiness & Righteousness
+    score: 1.7556
+  - category: Ministering, Discipling & Teaching
+    score: 0.7333
+  - category: Charity, Provision, & Generosity
+    score: 0.6
+  - category: Dietary Laws & Food Regulations
+    score: 0.5111
+  - category: Priesthood
+    score: 0.4889
+  - category: Morality & Compassion
+    score: 0.3778
+  - category: Covenant Responsibilities
+    score: 0.3556
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3333
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2889
+  - category: Commerce
+    score: 0.2667
+  - category: Holy Spirit
+    score: 0.2667
+  - category: The Jewish People & Land of Israel
+    score: 0.2667
+  - category: The Word and Will of God & Messiah
+    score: 0.2667
+  - category: Marriage & Family
+    score: 0.2222
+  - category: Way of Life
+    score: 0.2
+  - category: Justice
+    score: 0.1778
+  - category: Tribulation & Adversity
+    score: 0.0222
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '14'
+  title_en: 'Blessed are the pure in heart: for they shall see God'
+  current_category: God & Yeshua
+  confidence_score: 5.1818
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 5.1818
+  - category: Godliness, Holiness & Righteousness
+    score: 2.3455
+  - category: Neighbours & Brothers
+    score: 2.3091
+  - category: Days & Seasons
+    score: 1.9091
+  - category: Ministering, Discipling & Teaching
+    score: 0.6727
+  - category: Priesthood
+    score: 0.6727
+  - category: Charity, Provision, & Generosity
+    score: 0.6
+  - category: Dietary Laws & Food Regulations
+    score: 0.5273
+  - category: Covenant Responsibilities
+    score: 0.4727
+  - category: The Word and Will of God & Messiah
+    score: 0.4545
+  - category: Morality & Compassion
+    score: 0.4182
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3818
+  - category: Way of Life
+    score: 0.3636
+  - category: Commerce
+    score: 0.3273
+  - category: Holy Spirit
+    score: 0.3273
+  - category: Justice
+    score: 0.2909
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2545
+  - category: The Jewish People & Land of Israel
+    score: 0.2182
+  - category: Marriage & Family
+    score: 0.1818
+  - category: Tribulation & Adversity
+    score: 0.0182
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '15'
+  title_en: 'Blessed are the peacemakers: for they shall be called the children of God'
+  current_category: God & Yeshua
+  confidence_score: 4.9846
+  approved_category: Engaging Our Enemies
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 4.9846
+  - category: Days & Seasons
+    score: 2.9385
+  - category: Godliness, Holiness & Righteousness
+    score: 2.3077
+  - category: Neighbours & Brothers
+    score: 2.2
+  - category: Ministering, Discipling & Teaching
+    score: 0.9692
+  - category: Charity, Provision, & Generosity
+    score: 0.9231
+  - category: Priesthood
+    score: 0.9231
+  - category: Dietary Laws & Food Regulations
+    score: 0.7385
+  - category: The Word and Will of God & Messiah
+    score: 0.6308
+  - category: Covenant Responsibilities
+    score: 0.6154
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.4462
+  - category: Morality & Compassion
+    score: 0.4308
+  - category: The Jewish People & Land of Israel
+    score: 0.4154
+  - category: Holy Spirit
+    score: 0.4
+  - category: Marriage & Family
+    score: 0.3231
+  - category: Commerce
+    score: 0.2923
+  - category: Justice
+    score: 0.2923
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2615
+  - category: Way of Life
+    score: 0.2462
+  - category: Tribulation & Adversity
+    score: 0.0308
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '16'
+  title_en: 'Blessed are they which are persecuted for righteousness'' sake: for theirs is the kingdom of heaven.'
+  current_category: God & Yeshua
+  confidence_score: 2.9875
+  approved_category: Tribulation & Adversity
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 2.9875
+  - category: Godliness, Holiness & Righteousness
+    score: 2.5375
+  - category: Neighbours & Brothers
+    score: 2.5375
+  - category: Days & Seasons
+    score: 1.8875
+  - category: Charity, Provision, & Generosity
+    score: 0.7375
+  - category: Ministering, Discipling & Teaching
+    score: 0.7
+  - category: Priesthood
+    score: 0.625
+  - category: Dietary Laws & Food Regulations
+    score: 0.5875
+  - category: Morality & Compassion
+    score: 0.525
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.4875
+  - category: Covenant Responsibilities
+    score: 0.425
+  - category: Idolatry, Heathens & the Occult
+    score: 0.3125
+  - category: Way of Life
+    score: 0.3125
+  - category: The Word and Will of God & Messiah
+    score: 0.3125
+  - category: Justice
+    score: 0.2625
+  - category: Marriage & Family
+    score: 0.25
+  - category: The Jewish People & Land of Israel
+    score: 0.2375
+  - category: Holy Spirit
+    score: 0.225
+  - category: Commerce
+    score: 0.2125
+  - category: Tribulation & Adversity
+    score: 0.025
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '17'
+  title_en: 'Rejoice, and be exceeding glad: for great is your reward in heaven'
+  current_category: God & Yeshua
+  confidence_score: 3.2167
+  approved_category: Prioritization & Acquisition of Wealth & Possessions
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.2167
+  - category: Godliness, Holiness & Righteousness
+    score: 2.5
+  - category: Neighbours & Brothers
+    score: 1.65
+  - category: Days & Seasons
+    score: 1.0167
+  - category: Covenant Responsibilities
+    score: 0.6
+  - category: Charity, Provision, & Generosity
+    score: 0.4833
+  - category: The Word and Will of God & Messiah
+    score: 0.4333
+  - category: Dietary Laws & Food Regulations
+    score: 0.3833
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3333
+  - category: Ministering, Discipling & Teaching
+    score: 0.3167
+  - category: Priesthood
+    score: 0.3
+  - category: Morality & Compassion
+    score: 0.2667
+  - category: Justice
+    score: 0.25
+  - category: Way of Life
+    score: 0.25
+  - category: Commerce
+    score: 0.2333
+  - category: Marriage & Family
+    score: 0.1833
+  - category: Idolatry, Heathens & the Occult
+    score: 0.15
+  - category: Holy Spirit
+    score: 0.1167
+  - category: The Jewish People & Land of Israel
+    score: 0.1
+  - category: Tribulation & Adversity
+    score: 0.0667
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '18'
+  title_en: Have salt in yourselves, and have peace one with another
+  current_category: God & Yeshua
+  confidence_score: 3.82
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.82
+  - category: Neighbours & Brothers
+    score: 3.64
+  - category: Godliness, Holiness & Righteousness
+    score: 2.14
+  - category: Days & Seasons
+    score: 1.16
+  - category: Way of Life
+    score: 0.82
+  - category: Covenant Responsibilities
+    score: 0.68
+  - category: The Word and Will of God & Messiah
+    score: 0.46
+  - category: Charity, Provision, & Generosity
+    score: 0.4
+  - category: Justice
+    score: 0.32
+  - category: Dietary Laws & Food Regulations
+    score: 0.3
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3
+  - category: Commerce
+    score: 0.28
+  - category: Priesthood
+    score: 0.28
+  - category: Morality & Compassion
+    score: 0.26
+  - category: Ministering, Discipling & Teaching
+    score: 0.26
+  - category: Idolatry, Heathens & the Occult
+    score: 0.22
+  - category: Marriage & Family
+    score: 0.2
+  - category: Holy Spirit
+    score: 0.1
+  - category: The Jewish People & Land of Israel
+    score: 0.08
+  - category: Tribulation & Adversity
+    score: 0.06
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '19'
+  title_en: Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven
+  current_category: God & Yeshua
+  confidence_score: 1.8182
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.8182
+  - category: Godliness, Holiness & Righteousness
+    score: 1.6091
+  - category: Neighbours & Brothers
+    score: 0.9182
+  - category: Days & Seasons
+    score: 0.5455
+  - category: Covenant Responsibilities
+    score: 0.3545
+  - category: The Word and Will of God & Messiah
+    score: 0.2455
+  - category: Charity, Provision, & Generosity
+    score: 0.2091
+  - category: Dietary Laws & Food Regulations
+    score: 0.2
+  - category: Justice
+    score: 0.1727
+  - category: Priesthood
+    score: 0.1727
+  - category: Way of Life
+    score: 0.1636
+  - category: Commerce
+    score: 0.1455
+  - category: Morality & Compassion
+    score: 0.1364
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.1364
+  - category: Marriage & Family
+    score: 0.1182
+  - category: Ministering, Discipling & Teaching
+    score: 0.1091
+  - category: Idolatry, Heathens & the Occult
+    score: 0.1
+  - category: Holy Spirit
+    score: 0.0636
+  - category: The Jewish People & Land of Israel
+    score: 0.0364
+  - category: Tribulation & Adversity
+    score: 0.0273
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '20'
+  title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
+  current_category: Justice
+  confidence_score: 1.0
+  approved_category: Ministering, Discipling & Teaching
+  proposed_alternatives:
+  - category: Justice
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '21'
+  title_en: Don’t be angry at your brother without a cause. If you will be, reconcile as quickly as possible
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Justice
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '22'
+  title_en: Eliminate any cause of temptation
+  current_category: Days & Seasons
+  confidence_score: 1.6
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: Days & Seasons
+    score: 1.6
+  - category: God & Yeshua
+    score: 1.4
+  - category: Charity, Provision, & Generosity
+    score: 0.72
+  - category: Godliness, Holiness & Righteousness
+    score: 0.72
+  - category: Neighbours & Brothers
+    score: 0.68
+  - category: Priesthood
+    score: 0.6
+  - category: Dietary Laws & Food Regulations
+    score: 0.4
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.36
+  - category: Way of Life
+    score: 0.36
+  - category: The Word and Will of God & Messiah
+    score: 0.36
+  - category: Ministering, Discipling & Teaching
+    score: 0.32
+  - category: Covenant Responsibilities
+    score: 0.28
+  - category: Justice
+    score: 0.24
+  - category: Morality & Compassion
+    score: 0.24
+  - category: Marriage & Family
+    score: 0.16
+  - category: The Jewish People & Land of Israel
+    score: 0.16
+  - category: Idolatry, Heathens & the Occult
+    score: 0.08
+  - category: Holy Spirit
+    score: 0.04
+  - category: Commerce
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '23'
+  title_en: Honor marriage
+  current_category: Marriage & Family
+  confidence_score: 1.0
+  approved_category: Marriage & Family
+  proposed_alternatives:
+  - category: Marriage & Family
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '24'
+  title_en: Keep your word
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '25'
+  title_en: Whosoever shall smite thee on thy right cheek, turn to him the other also
+  current_category: Neighbours & Brothers
+  confidence_score: 2.1
+  approved_category: Tribulation & Adversity
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 2.1
+  - category: God & Yeshua
+    score: 1.9857
+  - category: Godliness, Holiness & Righteousness
+    score: 1.9286
+  - category: Days & Seasons
+    score: 1.5429
+  - category: Ministering, Discipling & Teaching
+    score: 0.5143
+  - category: Morality & Compassion
+    score: 0.4571
+  - category: Charity, Provision, & Generosity
+    score: 0.4143
+  - category: Priesthood
+    score: 0.4
+  - category: Dietary Laws & Food Regulations
+    score: 0.3571
+  - category: Commerce
+    score: 0.2857
+  - category: Covenant Responsibilities
+    score: 0.2857
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2714
+  - category: The Word and Will of God & Messiah
+    score: 0.2714
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.2571
+  - category: Holy Spirit
+    score: 0.2143
+  - category: Way of Life
+    score: 0.2143
+  - category: The Jewish People & Land of Israel
+    score: 0.2
+  - category: Justice
+    score: 0.1857
+  - category: Marriage & Family
+    score: 0.1286
+  - category: Tribulation & Adversity
+    score: 0.0143
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '26'
+  title_en: Share goods with the needy
+  current_category: Neighbours & Brothers
+  confidence_score: 1.0
+  approved_category: Charity, Provision, & Generosity
+  proposed_alternatives:
+  - category: Charity, Provision, & Generosity
+    score: 0.5
+  - category: Covenant Responsibilities
+    score: 0.5
+  - category: Commerce
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '27'
+  title_en: Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Engaging Our Enemies
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '28'
+  title_en: Therefore you shall be perfect, just as your Father in heaven is perfect
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '29'
+  title_en: Be generous (and fasten and pray) in secret
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Charity, Provision, & Generosity
+  proposed_alternatives:
+  - category: Charity, Provision, & Generosity
+    score: 0.5
+  - category: Covenant Responsibilities
+    score: 0.5
+  - category: Commerce
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '30'
+  title_en: Pray in faith according to the will of the Father
+  current_category: God & Yeshua
+  confidence_score: 1.0
+  approved_category: Prayer & Worship
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '31'
+  title_en: If you forgive men their trespasses, your heavenly Father will also forgive you
+  current_category: Neighbours & Brothers
+  confidence_score: 1.0
+  approved_category: Neighbours & Brothers
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 0.1077
+  - category: God & Yeshua
+    score: 0.0615
+  - category: Marriage & Family
+    score: 0.0462
+  - category: Godliness, Holiness & Righteousness
+    score: 0.0462
+  - category: Dietary Laws & Food Regulations
+    score: 0.0462
+  - category: Morality & Compassion
+    score: 0.0462
+  - category: Priesthood
+    score: 0.0462
+  - category: Way of Life
+    score: 0.0462
+  - category: Charity, Provision, & Generosity
+    score: 0.0154
+  - category: Covenant Responsibilities
+    score: 0.0154
+  - category: Ministering, Discipling & Teaching
+    score: 0.0154
+  - category: Holy Spirit
+    score: 0.0154
+  - category: Commerce
+    score: 0.0
+  - category: Days & Seasons
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0
+  - category: Justice
+    score: 0.0
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: The Word and Will of God & Messiah
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '32'
+  title_en: Fast regularly
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 0.0
+  approved_category: Prayer & Worship
+  proposed_alternatives:
+  - category: Charity, Provision, & Generosity
+    score: 0.0
+  - category: Commerce
+    score: 0.0
+  - category: Covenant Responsibilities
+    score: 0.0
+  - category: Days & Seasons
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: Godliness, Holiness & Righteousness
+    score: 0.0
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0
+  - category: Justice
+    score: 0.0
+  - category: Dietary Laws & Food Regulations
+    score: 0.0
+  - category: God & Yeshua
+    score: 0.0
+  - category: Morality & Compassion
+    score: 0.0
+  - category: Neighbours & Brothers
+    score: 0.0
+  - category: Ministering, Discipling & Teaching
+    score: 0.0
+  - category: Priesthood
+    score: 0.0
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.0
+  - category: Holy Spirit
+    score: 0.0
+  - category: Way of Life
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: The Word and Will of God & Messiah
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '33'
+  title_en: Lay up for yourselves treasures in heaven
+  current_category: God & Yeshua
+  confidence_score: 1.6571
+  approved_category: Prioritization & Acquisition of Wealth & Possessions
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.6571
+  - category: Neighbours & Brothers
+    score: 0.8857
+  - category: Godliness, Holiness & Righteousness
+    score: 0.8286
+  - category: Days & Seasons
+    score: 0.6
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.4286
+  - category: Charity, Provision, & Generosity
+    score: 0.3714
+  - category: Way of Life
+    score: 0.3143
+  - category: Dietary Laws & Food Regulations
+    score: 0.2286
+  - category: Ministering, Discipling & Teaching
+    score: 0.2
+  - category: Commerce
+    score: 0.1714
+  - category: Covenant Responsibilities
+    score: 0.1714
+  - category: Priesthood
+    score: 0.1714
+  - category: Justice
+    score: 0.1429
+  - category: Morality & Compassion
+    score: 0.1143
+  - category: The Word and Will of God & Messiah
+    score: 0.1143
+  - category: Marriage & Family
+    score: 0.0286
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0286
+  - category: Holy Spirit
+    score: 0.0286
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '34'
+  title_en: Seek first the kingdom of God and His righteousness, and all these things shall be added to you
+  current_category: God & Yeshua
+  confidence_score: 6.2333
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 6.2333
+  - category: Godliness, Holiness & Righteousness
+    score: 3.9
+  - category: Neighbours & Brothers
+    score: 2.8889
+  - category: Days & Seasons
+    score: 2.4778
+  - category: Covenant Responsibilities
+    score: 1.0333
+  - category: The Word and Will of God & Messiah
+    score: 0.8444
+  - category: Charity, Provision, & Generosity
+    score: 0.8222
+  - category: Priesthood
+    score: 0.8222
+  - category: Ministering, Discipling & Teaching
+    score: 0.7222
+  - category: Dietary Laws & Food Regulations
+    score: 0.5889
+  - category: Morality & Compassion
+    score: 0.5222
+  - category: Commerce
+    score: 0.4111
+  - category: Justice
+    score: 0.4111
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.4111
+  - category: Idolatry, Heathens & the Occult
+    score: 0.3889
+  - category: Marriage & Family
+    score: 0.3667
+  - category: Holy Spirit
+    score: 0.3222
+  - category: The Jewish People & Land of Israel
+    score: 0.3111
+  - category: Way of Life
+    score: 0.3
+  - category: Tribulation & Adversity
+    score: 0.0889
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '35'
+  title_en: First cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye
+  current_category: Neighbours & Brothers
+  confidence_score: 1.0
+  approved_category: Instructing, Correcting, Rebuking & Judging
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '36'
+  title_en: Seek, and you will find
+  current_category: God & Yeshua
+  confidence_score: 5.0
+  approved_category: The Word and Will of God & Messiah
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 5.0
+  - category: Godliness, Holiness & Righteousness
+    score: 2.96
+  - category: Neighbours & Brothers
+    score: 2.0
+  - category: Days & Seasons
+    score: 1.64
+  - category: Covenant Responsibilities
+    score: 1.04
+  - category: The Word and Will of God & Messiah
+    score: 0.76
+  - category: Charity, Provision, & Generosity
+    score: 0.52
+  - category: Marriage & Family
+    score: 0.4
+  - category: Commerce
+    score: 0.32
+  - category: Justice
+    score: 0.32
+  - category: Dietary Laws & Food Regulations
+    score: 0.32
+  - category: Ministering, Discipling & Teaching
+    score: 0.32
+  - category: Priesthood
+    score: 0.32
+  - category: Idolatry, Heathens & the Occult
+    score: 0.28
+  - category: Morality & Compassion
+    score: 0.28
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.24
+  - category: Holy Spirit
+    score: 0.16
+  - category: Way of Life
+    score: 0.16
+  - category: The Jewish People & Land of Israel
+    score: 0.16
+  - category: Tribulation & Adversity
+    score: 0.12
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '37'
+  title_en: Knock, and it shall be opened unto you
+  current_category: God & Yeshua
+  confidence_score: 3.125
+  approved_category: Repenting & Seeking Forgiveness of Sin
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.125
+  - category: Godliness, Holiness & Righteousness
+    score: 2.575
+  - category: Neighbours & Brothers
+    score: 1.525
+  - category: Days & Seasons
+    score: 1.05
+  - category: Covenant Responsibilities
+    score: 0.75
+  - category: The Word and Will of God & Messiah
+    score: 0.5
+  - category: Charity, Provision, & Generosity
+    score: 0.45
+  - category: Dietary Laws & Food Regulations
+    score: 0.425
+  - category: Ministering, Discipling & Teaching
+    score: 0.3
+  - category: Marriage & Family
+    score: 0.25
+  - category: Morality & Compassion
+    score: 0.25
+  - category: Priesthood
+    score: 0.25
+  - category: Commerce
+    score: 0.2
+  - category: Justice
+    score: 0.2
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.2
+  - category: Idolatry, Heathens & the Occult
+    score: 0.175
+  - category: Holy Spirit
+    score: 0.15
+  - category: The Jewish People & Land of Israel
+    score: 0.15
+  - category: Tribulation & Adversity
+    score: 0.1
+  - category: Way of Life
+    score: 0.1
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '38'
+  title_en: Treat others as you would like to be treated yourself
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 3.0
+  approved_category: Neighbours & Brothers
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 3.0
+  - category: Neighbours & Brothers
+    score: 2.92
+  - category: God & Yeshua
+    score: 2.18
+  - category: Days & Seasons
+    score: 0.68
+  - category: Idolatry, Heathens & the Occult
+    score: 0.46
+  - category: Priesthood
+    score: 0.46
+  - category: Morality & Compassion
+    score: 0.44
+  - category: Ministering, Discipling & Teaching
+    score: 0.38
+  - category: Charity, Provision, & Generosity
+    score: 0.34
+  - category: Covenant Responsibilities
+    score: 0.34
+  - category: Dietary Laws & Food Regulations
+    score: 0.32
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.26
+  - category: Way of Life
+    score: 0.24
+  - category: Commerce
+    score: 0.2
+  - category: Justice
+    score: 0.2
+  - category: The Word and Will of God & Messiah
+    score: 0.2
+  - category: Holy Spirit
+    score: 0.16
+  - category: The Jewish People & Land of Israel
+    score: 0.14
+  - category: Marriage & Family
+    score: 0.1
+  - category: Tribulation & Adversity
+    score: 0.04
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '39'
+  title_en: Strive to enter in at the strait gate
+  current_category: God & Yeshua
+  confidence_score: 4.3
+  approved_category: The Word and Will of God & Messiah
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 4.3
+  - category: Neighbours & Brothers
+    score: 4.075
+  - category: Godliness, Holiness & Righteousness
+    score: 3.775
+  - category: Days & Seasons
+    score: 2.65
+  - category: Ministering, Discipling & Teaching
+    score: 0.925
+  - category: Priesthood
+    score: 0.875
+  - category: Charity, Provision, & Generosity
+    score: 0.85
+  - category: Dietary Laws & Food Regulations
+    score: 0.7
+  - category: Morality & Compassion
+    score: 0.7
+  - category: Covenant Responsibilities
+    score: 0.65
+  - category: Commerce
+    score: 0.575
+  - category: Way of Life
+    score: 0.575
+  - category: The Word and Will of God & Messiah
+    score: 0.575
+  - category: Idolatry, Heathens & the Occult
+    score: 0.525
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.5
+  - category: Justice
+    score: 0.45
+  - category: Holy Spirit
+    score: 0.4
+  - category: The Jewish People & Land of Israel
+    score: 0.35
+  - category: Marriage & Family
+    score: 0.225
+  - category: Tribulation & Adversity
+    score: 0.025
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '40'
+  title_en: Beware of false prophets
+  current_category: Tribulation & Adversity
+  confidence_score: 1.0
+  approved_category: Tribulation & Adversity
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 0.5
+  - category: Neighbours & Brothers
+    score: 0.5
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '41'
+  title_en: Listen to Jesus, understand and obey
+  current_category: God & Yeshua
+  confidence_score: 7.2333
+  approved_category: The Word and Will of God & Messiah
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 7.2333
+  - category: Godliness, Holiness & Righteousness
+    score: 6.2667
+  - category: Neighbours & Brothers
+    score: 5.5
+  - category: Days & Seasons
+    score: 2.3333
+  - category: Covenant Responsibilities
+    score: 1.2667
+  - category: The Word and Will of God & Messiah
+    score: 0.9667
+  - category: Charity, Provision, & Generosity
+    score: 0.9
+  - category: Morality & Compassion
+    score: 0.9
+  - category: Ministering, Discipling & Teaching
+    score: 0.8667
+  - category: Priesthood
+    score: 0.8333
+  - category: Idolatry, Heathens & the Occult
+    score: 0.8
+  - category: Dietary Laws & Food Regulations
+    score: 0.6667
+  - category: Commerce
+    score: 0.6
+  - category: Justice
+    score: 0.6
+  - category: Marriage & Family
+    score: 0.5667
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.5667
+  - category: Way of Life
+    score: 0.5333
+  - category: Holy Spirit
+    score: 0.4
+  - category: The Jewish People & Land of Israel
+    score: 0.3
+  - category: Tribulation & Adversity
+    score: 0.1333
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '42'
+  title_en: Be strong and courageous
+  current_category: God & Yeshua
+  confidence_score: 6.25
+  approved_category: Spiritual Warfare
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 6.25
+  - category: Godliness, Holiness & Righteousness
+    score: 5.15
+  - category: Neighbours & Brothers
+    score: 3.2
+  - category: Days & Seasons
+    score: 2.05
+  - category: Covenant Responsibilities
+    score: 1.5
+  - category: The Word and Will of God & Messiah
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+    score: 0.75
+  - category: Dietary Laws & Food Regulations
+    score: 0.6
+  - category: Marriage & Family
+    score: 0.5
+  - category: Priesthood
+    score: 0.5
+  - category: Ministering, Discipling & Teaching
+    score: 0.45
+  - category: Commerce
+    score: 0.4
+  - category: Justice
+    score: 0.4
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.4
+  - category: Idolatry, Heathens & the Occult
+    score: 0.35
+  - category: Morality & Compassion
+    score: 0.35
+  - category: The Jewish People & Land of Israel
+    score: 0.3
+  - category: Holy Spirit
+    score: 0.25
+  - category: Tribulation & Adversity
+    score: 0.2
+  - category: Way of Life
+    score: 0.2
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '43'
+  title_en: Be moved with inner compassion with the people around you
+  current_category: Neighbours & Brothers
+  confidence_score: 1.0
+  approved_category: Morality & Compassion
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '44'
+  title_en: Be wise as serpents and harmless as doves
+  current_category: God & Yeshua
+  confidence_score: 3.575
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.575
+  - category: Godliness, Holiness & Righteousness
+    score: 2.725
+  - category: Neighbours & Brothers
+    score: 1.975
+  - category: Days & Seasons
+    score: 1.275
+  - category: Covenant Responsibilities
+    score: 0.8
+  - category: The Word and Will of God & Messiah
+    score: 0.5
+  - category: Priesthood
+    score: 0.4
+  - category: Charity, Provision, & Generosity
+    score: 0.375
+  - category: Dietary Laws & Food Regulations
+    score: 0.3
+  - category: Marriage & Family
+    score: 0.25
+  - category: Ministering, Discipling & Teaching
+    score: 0.225
+  - category: Commerce
+    score: 0.2
+  - category: Justice
+    score: 0.2
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.2
+  - category: Idolatry, Heathens & the Occult
+    score: 0.175
+  - category: Morality & Compassion
+    score: 0.175
+  - category: The Jewish People & Land of Israel
+    score: 0.15
+  - category: Holy Spirit
+    score: 0.125
+  - category: Tribulation & Adversity
+    score: 0.1
+  - category: Way of Life
+    score: 0.1
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '45'
+  title_en: We are to reverently and lovingly fear God
+  current_category: God & Yeshua
+  confidence_score: 1.0
+  approved_category: God & Yeshua
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '46'
+  title_en: Tell to people boldly, what Jesus says to you
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Evangelizing & Preaching
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '47'
+  title_en: Love God above all
+  current_category: God & Yeshua
+  confidence_score: 6.95
+  approved_category: God & Yeshua
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 6.95
+  - category: Godliness, Holiness & Righteousness
+    score: 1.45
+  - category: Priesthood
+    score: 0.55
+  - category: Days & Seasons
+    score: 0.45
+  - category: The Word and Will of God & Messiah
+    score: 0.45
+  - category: Neighbours & Brothers
+    score: 0.4
+  - category: Covenant Responsibilities
+    score: 0.25
+  - category: Holy Spirit
+    score: 0.2
+  - category: Justice
+    score: 0.15
+  - category: Morality & Compassion
+    score: 0.15
+  - category: Ministering, Discipling & Teaching
+    score: 0.15
+  - category: Commerce
+    score: 0.05
+  - category: Idolatry, Heathens & the Occult
+    score: 0.05
+  - category: Dietary Laws & Food Regulations
+    score: 0.05
+  - category: Charity, Provision, & Generosity
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.0
+  - category: Way of Life
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '48'
+  title_en: Deny yourself, take up a cross, and follow Jesus
+  current_category: God & Yeshua
+  confidence_score: 3.0
+  approved_category: The Word and Will of God & Messiah
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.0
+  - category: Godliness, Holiness & Righteousness
+    score: 1.9556
+  - category: Neighbours & Brothers
+    score: 1.5556
+  - category: Days & Seasons
+    score: 1.1111
+  - category: Covenant Responsibilities
+    score: 0.7778
+  - category: Charity, Provision, & Generosity
+    score: 0.4889
+  - category: The Word and Will of God & Messiah
+    score: 0.4222
+  - category: Dietary Laws & Food Regulations
+    score: 0.3111
+  - category: Priesthood
+    score: 0.3111
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.2889
+  - category: Way of Life
+    score: 0.2889
+  - category: Justice
+    score: 0.2444
+  - category: Ministering, Discipling & Teaching
+    score: 0.2444
+  - category: Commerce
+    score: 0.2222
+  - category: Marriage & Family
+    score: 0.2222
+  - category: Idolatry, Heathens & the Occult
+    score: 0.1556
+  - category: Morality & Compassion
+    score: 0.1333
+  - category: Holy Spirit
+    score: 0.0889
+  - category: The Jewish People & Land of Israel
+    score: 0.0889
+  - category: Tribulation & Adversity
+    score: 0.0667
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '49'
+  title_en: Receive him whom I will send
+  current_category: God & Yeshua
+  confidence_score: 0.3667
+  approved_category: Charity, Provision, & Generosity
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 0.3667
+  - category: Godliness, Holiness & Righteousness
+    score: 0.1
+  - category: Neighbours & Brothers
+    score: 0.1
+  - category: Morality & Compassion
+    score: 0.0667
+  - category: Covenant Responsibilities
+    score: 0.0333
+  - category: Justice
+    score: 0.0333
+  - category: The Jewish People & Land of Israel
+    score: 0.0333
+  - category: Charity, Provision, & Generosity
+    score: 0.0
+  - category: Commerce
+    score: 0.0
+  - category: Days & Seasons
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0
+  - category: Dietary Laws & Food Regulations
+    score: 0.0
+  - category: Ministering, Discipling & Teaching
+    score: 0.0
+  - category: Priesthood
+    score: 0.0
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.0
+  - category: Holy Spirit
+    score: 0.0
+  - category: Way of Life
+    score: 0.0
+  - category: The Word and Will of God & Messiah
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '50'
+  title_en: Blessed is he who does not offend Me
+  current_category: Neighbours & Brothers
+  confidence_score: 3.575
+  approved_category: Evengelizing & Preaching
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 3.575
+  - category: Godliness, Holiness & Righteousness
+    score: 2.25
+  - category: God & Yeshua
+    score: 0.9
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.45
+  - category: Morality & Compassion
+    score: 0.4
+  - category: Idolatry, Heathens & the Occult
+    score: 0.3
+  - category: Dietary Laws & Food Regulations
+    score: 0.225
+  - category: Way of Life
+    score: 0.225
+  - category: Commerce
+    score: 0.175
+  - category: Ministering, Discipling & Teaching
+    score: 0.15
+  - category: Priesthood
+    score: 0.15
+  - category: The Jewish People & Land of Israel
+    score: 0.15
+  - category: Charity, Provision, & Generosity
+    score: 0.1
+  - category: Days & Seasons
+    score: 0.1
+  - category: The Word and Will of God & Messiah
+    score: 0.1
+  - category: Justice
+    score: 0.075
+  - category: Covenant Responsibilities
+    score: 0.05
+  - category: Holy Spirit
+    score: 0.05
+  - category: Tribulation & Adversity
+    score: 0.025
+  - category: Marriage & Family
+    score: 0.025
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '51'
+  title_en: Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls
+  current_category: God & Yeshua
+  confidence_score: 1.0
+  approved_category: The Word and Will of God & Messiah
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '52'
+  title_en: Calm words are a tree of life
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '53'
+  title_en: Do the will of the Father
+  current_category: Days & Seasons
+  confidence_score: 5.3
+  approved_category: The Word and Will of God & Messiah
+  proposed_alternatives:
+  - category: Days & Seasons
+    score: 5.3
+  - category: God & Yeshua
+    score: 3.7667
+  - category: Neighbours & Brothers
+    score: 1.6667
+  - category: Charity, Provision, & Generosity
+    score: 1.5
+  - category: Ministering, Discipling & Teaching
+    score: 1.4667
+  - category: Priesthood
+    score: 1.2333
+  - category: Godliness, Holiness & Righteousness
+    score: 1.1667
+  - category: Dietary Laws & Food Regulations
+    score: 1.1
+  - category: The Word and Will of God & Messiah
+    score: 1.0333
+  - category: Covenant Responsibilities
+    score: 0.7667
+  - category: The Jewish People & Land of Israel
+    score: 0.7333
+  - category: Holy Spirit
+    score: 0.5667
+  - category: Marriage & Family
+    score: 0.5
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.5
+  - category: Commerce
+    score: 0.4667
+  - category: Justice
+    score: 0.4
+  - category: Morality & Compassion
+    score: 0.4
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2333
+  - category: Way of Life
+    score: 0.2333
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '54'
+  title_en: Give to the emperor what is from the emperor, and to God what is from God
+  current_category: God & Yeshua
+  confidence_score: 8.4125
+  approved_category: Governing & Governing Authorities
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 8.4125
+  - category: Godliness, Holiness & Righteousness
+    score: 5.325
+  - category: Neighbours & Brothers
+    score: 4.3625
+  - category: Days & Seasons
+    score: 3.3375
+  - category: Ministering, Discipling & Teaching
+    score: 1.075
+  - category: Priesthood
+    score: 1.075
+  - category: The Word and Will of God & Messiah
+    score: 1.0375
+  - category: Morality & Compassion
+    score: 0.975
+  - category: Covenant Responsibilities
+    score: 0.95
+  - category: Charity, Provision, & Generosity
+    score: 0.9125
+  - category: Dietary Laws & Food Regulations
+    score: 0.9
+  - category: Idolatry, Heathens & the Occult
+    score: 0.6625
+  - category: Holy Spirit
+    score: 0.575
+  - category: Justice
+    score: 0.55
+  - category: Commerce
+    score: 0.525
+  - category: The Jewish People & Land of Israel
+    score: 0.475
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.425
+  - category: Marriage & Family
+    score: 0.4
+  - category: Way of Life
+    score: 0.3625
+  - category: Tribulation & Adversity
+    score: 0.0625
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '55'
+  title_en: Unless you are converted and become as little children, you will by no means enter the kingdom of heaven
+  current_category: God & Yeshua
+  confidence_score: 2.8947
+  approved_category: Marriage & Family
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 2.8947
+  - category: Godliness, Holiness & Righteousness
+    score: 1.8632
+  - category: Days & Seasons
+    score: 1.8
+  - category: Neighbours & Brothers
+    score: 1.7579
+  - category: Covenant Responsibilities
+    score: 0.5684
+  - category: Charity, Provision, & Generosity
+    score: 0.5368
+  - category: Priesthood
+    score: 0.5263
+  - category: Ministering, Discipling & Teaching
+    score: 0.4842
+  - category: Dietary Laws & Food Regulations
+    score: 0.4316
+  - category: The Word and Will of God & Messiah
+    score: 0.4211
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3158
+  - category: Marriage & Family
+    score: 0.2842
+  - category: Morality & Compassion
+    score: 0.2737
+  - category: Justice
+    score: 0.2421
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2316
+  - category: Commerce
+    score: 0.2105
+  - category: Way of Life
+    score: 0.2105
+  - category: The Jewish People & Land of Israel
+    score: 0.2105
+  - category: Holy Spirit
+    score: 0.1895
+  - category: Tribulation & Adversity
+    score: 0.0526
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '56'
+  title_en: Whoso shall receive one such little child in my name receiveth me
+  current_category: Neighbours & Brothers
+  confidence_score: 0.95
+  approved_category: Marriage & Family
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 0.95
+  - category: God & Yeshua
+    score: 0.8
+  - category: Godliness, Holiness & Righteousness
+    score: 0.4667
+  - category: Days & Seasons
+    score: 0.2333
+  - category: Way of Life
+    score: 0.1833
+  - category: Charity, Provision, & Generosity
+    score: 0.1167
+  - category: Covenant Responsibilities
+    score: 0.1167
+  - category: Commerce
+    score: 0.1
+  - category: Justice
+    score: 0.1
+  - category: Priesthood
+    score: 0.1
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.1
+  - category: The Word and Will of God & Messiah
+    score: 0.1
+  - category: Dietary Laws & Food Regulations
+    score: 0.0833
+  - category: Morality & Compassion
+    score: 0.05
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0167
+  - category: Ministering, Discipling & Teaching
+    score: 0.0167
+  - category: Holy Spirit
+    score: 0.0167
+  - category: The Jewish People & Land of Israel
+    score: 0.0167
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '57'
+  title_en: Desire something in union on the earth, and it will fall to you from My Father who is in heaven
+  current_category: Ministering, Discipling & Teaching
+  confidence_score: 1.0
+  approved_category: Prayer & Worship
+  proposed_alternatives:
+  - category: Ministering, Discipling & Teaching
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '58'
+  title_en: Blessed are they that hear the word of God, and keep it
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: The Word and Will of God & Messiah
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '59'
+  title_en: Take heed, and beware of covetousness
+  current_category: Prioritization & Acquisition of Wealth & Possessions
+  confidence_score: 1.0
+  approved_category: Prioritization & Acquisition of Wealth & Possessions
+  proposed_alternatives:
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '60'
+  title_en: Look forward to the wedding of the Lamb
+  current_category: God & Yeshua
+  confidence_score: 5.15
+  approved_category: Days & Seasons
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 5.15
+  - category: Days & Seasons
+    score: 4.7
+  - category: Neighbours & Brothers
+    score: 4.175
+  - category: Godliness, Holiness & Righteousness
+    score: 3.6
+  - category: Ministering, Discipling & Teaching
+    score: 1.55
+  - category: Charity, Provision, & Generosity
+    score: 1.475
+  - category: Priesthood
+    score: 1.35
+  - category: Dietary Laws & Food Regulations
+    score: 1.075
+  - category: The Word and Will of God & Messiah
+    score: 0.95
+  - category: Covenant Responsibilities
+    score: 0.875
+  - category: Morality & Compassion
+    score: 0.8
+  - category: The Jewish People & Land of Israel
+    score: 0.675
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.65
+  - category: Commerce
+    score: 0.6
+  - category: Holy Spirit
+    score: 0.6
+  - category: Idolatry, Heathens & the Occult
+    score: 0.575
+  - category: Justice
+    score: 0.525
+  - category: Way of Life
+    score: 0.475
+  - category: Marriage & Family
+    score: 0.425
+  - category: Tribulation & Adversity
+    score: 0.025
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '61'
+  title_en: Find the lost sheep
+  current_category: Days & Seasons
+  confidence_score: 2.95
+  approved_category: Neighbours & Brothers
+  proposed_alternatives:
+  - category: Days & Seasons
+    score: 2.95
+  - category: God & Yeshua
+    score: 1.95
+  - category: Ministering, Discipling & Teaching
+    score: 0.9
+  - category: Neighbours & Brothers
+    score: 0.9
+  - category: Charity, Provision, & Generosity
+    score: 0.7
+  - category: Dietary Laws & Food Regulations
+    score: 0.55
+  - category: Priesthood
+    score: 0.55
+  - category: The Word and Will of God & Messiah
+    score: 0.5
+  - category: Godliness, Holiness & Righteousness
+    score: 0.45
+  - category: The Jewish People & Land of Israel
+    score: 0.45
+  - category: Covenant Responsibilities
+    score: 0.4
+  - category: Morality & Compassion
+    score: 0.4
+  - category: Holy Spirit
+    score: 0.4
+  - category: Commerce
+    score: 0.35
+  - category: Marriage & Family
+    score: 0.2
+  - category: Idolatry, Heathens & the Occult
+    score: 0.15
+  - category: Justice
+    score: 0.15
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.15
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Way of Life
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '62'
+  title_en: In every thing give thanks
+  current_category: God & Yeshua
+  confidence_score: 1.6
+  approved_category: Way of Life
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.6
+  - category: Neighbours & Brothers
+    score: 1.24
+  - category: Godliness, Holiness & Righteousness
+    score: 1.16
+  - category: Days & Seasons
+    score: 0.64
+  - category: Way of Life
+    score: 0.48
+  - category: Charity, Provision, & Generosity
+    score: 0.36
+  - category: Commerce
+    score: 0.24
+  - category: Covenant Responsibilities
+    score: 0.24
+  - category: Priesthood
+    score: 0.24
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.24
+  - category: Justice
+    score: 0.2
+  - category: Dietary Laws & Food Regulations
+    score: 0.2
+  - category: The Word and Will of God & Messiah
+    score: 0.16
+  - category: Morality & Compassion
+    score: 0.12
+  - category: Holy Spirit
+    score: 0.08
+  - category: Idolatry, Heathens & the Occult
+    score: 0.04
+  - category: Ministering, Discipling & Teaching
+    score: 0.04
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '63'
+  title_en: Honor your father and your mother
+  current_category: God & Yeshua
+  confidence_score: 4.0667
+  approved_category: Family & Marriage
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 4.0667
+  - category: Godliness, Holiness & Righteousness
+    score: 2.3667
+  - category: Neighbours & Brothers
+    score: 1.6
+  - category: Days & Seasons
+    score: 1.3667
+  - category: Covenant Responsibilities
+    score: 0.8667
+  - category: The Word and Will of God & Messiah
+    score: 0.6333
+  - category: Marriage & Family
+    score: 0.5667
+  - category: Charity, Provision, & Generosity
+    score: 0.4333
+  - category: Dietary Laws & Food Regulations
+    score: 0.4333
+  - category: Commerce
+    score: 0.2667
+  - category: Justice
+    score: 0.2667
+  - category: Ministering, Discipling & Teaching
+    score: 0.2667
+  - category: Priesthood
+    score: 0.2667
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2333
+  - category: Morality & Compassion
+    score: 0.2
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.2
+  - category: Holy Spirit
+    score: 0.1333
+  - category: Way of Life
+    score: 0.1333
+  - category: The Jewish People & Land of Israel
+    score: 0.1333
+  - category: Tribulation & Adversity
+    score: 0.1
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '64'
+  title_en: Serve your neighbor
+  current_category: Neighbours & Brothers
+  confidence_score: 1.0
+  approved_category: Neighbours & Brothers
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '65'
+  title_en: Have faith in God
+  current_category: God & Yeshua
+  confidence_score: 1.0
+  approved_category: God & Yeshua
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '66'
+  title_en: You shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: God & Yeshua
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '67'
+  title_en: You shall love your neighbor as yourself
+  current_category: Neighbours & Brothers
+  confidence_score: 2.3714
+  approved_category: Neighbours & Brothers
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 2.3714
+  - category: God & Yeshua
+    score: 0.3714
+  - category: Godliness, Holiness & Righteousness
+    score: 0.2857
+  - category: Days & Seasons
+    score: 0.1429
+  - category: Priesthood
+    score: 0.0857
+  - category: Covenant Responsibilities
+    score: 0.0286
+  - category: Charity, Provision, & Generosity
+    score: 0.0
+  - category: Commerce
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0
+  - category: Justice
+    score: 0.0
+  - category: Dietary Laws & Food Regulations
+    score: 0.0
+  - category: Morality & Compassion
+    score: 0.0
+  - category: Ministering, Discipling & Teaching
+    score: 0.0
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.0
+  - category: Holy Spirit
+    score: 0.0
+  - category: Way of Life
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: The Word and Will of God & Messiah
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '68'
+  title_en: Staying Alert, Being Ready and Being Watchful for the Signs and Moment of Jesus Return
+  current_category: God & Yeshua
+  confidence_score: 4.7067
+  approved_category: Tribulation & Adversity
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 4.7067
+  - category: Godliness, Holiness & Righteousness
+    score: 3.36
+  - category: Days & Seasons
+    score: 2.48
+  - category: Neighbours & Brothers
+    score: 2.2933
+  - category: Covenant Responsibilities
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+    score: 0.8667
+  - category: The Word and Will of God & Messiah
+    score: 0.76
+  - category: Ministering, Discipling & Teaching
+    score: 0.6933
+  - category: Priesthood
+    score: 0.64
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.6267
+  - category: Dietary Laws & Food Regulations
+    score: 0.5333
+  - category: Commerce
+    score: 0.3867
+  - category: Marriage & Family
+    score: 0.3867
+  - category: Morality & Compassion
+    score: 0.3333
+  - category: Justice
+    score: 0.32
+  - category: The Jewish People & Land of Israel
+    score: 0.3067
+  - category: Idolatry, Heathens & the Occult
+    score: 0.24
+  - category: Holy Spirit
+    score: 0.2267
+  - category: Way of Life
+    score: 0.2
+  - category: Tribulation & Adversity
+    score: 0.08
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '69'
+  title_en: Use your talents to honor the Father
+  current_category: Godliness, Holiness & Righteousness
+  confidence_score: 1.0
+  approved_category: Spiritual Gifts
+  proposed_alternatives:
+  - category: Godliness, Holiness & Righteousness
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '70'
+  title_en: Trust that the Spirit will guide you
+  current_category: Neighbours & Brothers
+  confidence_score: 1.0
+  approved_category: Holy Spirit
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '71'
+  title_en: Celebrate the Lord’s supper in remembrance of Me
+  current_category: God & Yeshua
+  confidence_score: 1.0
+  approved_category: God & Yeshua
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '72'
+  title_en: Strengthen your brethren
+  current_category: Neighbours & Brothers
+  confidence_score: 1.0
+  approved_category: Instructing, Correcting, Rebuking & Judging
+  proposed_alternatives:
+  - category: Neighbours & Brothers
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: God & Yeshua
+  - category: Morality & Compassion
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '73'
+  title_en: He that abideth in me, and I in him, the same bringeth forth much fruit
+  current_category: God & Yeshua
+  confidence_score: 3.4133
+  approved_category: Godliness, Holiness & Righteousness
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.4133
+  - category: Godliness, Holiness & Righteousness
+    score: 2.1333
+  - category: Days & Seasons
+    score: 1.7333
+  - category: Neighbours & Brothers
+    score: 1.7067
+  - category: Covenant Responsibilities
+    score: 0.6133
+  - category: Charity, Provision, & Generosity
+    score: 0.52
+  - category: The Word and Will of God & Messiah
+    score: 0.52
+  - category: Dietary Laws & Food Regulations
+    score: 0.4533
+  - category: Commerce
+    score: 0.44
+  - category: Priesthood
+    score: 0.44
+  - category: Way of Life
+    score: 0.3867
+  - category: Ministering, Discipling & Teaching
+    score: 0.3733
+  - category: Justice
+    score: 0.3067
+  - category: Morality & Compassion
+    score: 0.28
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.28
+  - category: Marriage & Family
+    score: 0.1867
+  - category: Idolatry, Heathens & the Occult
+    score: 0.1867
+  - category: Holy Spirit
+    score: 0.1867
+  - category: The Jewish People & Land of Israel
+    score: 0.1733
+  - category: Tribulation & Adversity
+    score: 0.04
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '74'
+  title_en: We are called to glorify the Name of God in Christ Jesus!
+  current_category: God & Yeshua
+  confidence_score: 1.0
+  approved_category: Prayer & Worship
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 1.0
+  - category: Charity, Provision, & Generosity
+  - category: Commerce
+  - category: Covenant Responsibilities
+  - category: Days & Seasons
+  - category: Tribulation & Adversity
+  - category: Marriage & Family
+  - category: Godliness, Holiness & Righteousness
+  - category: Idolatry, Heathens & the Occult
+  - category: Justice
+  - category: Dietary Laws & Food Regulations
+  - category: Morality & Compassion
+  - category: Neighbours & Brothers
+  - category: Ministering, Discipling & Teaching
+  - category: Priesthood
+  - category: Prioritization & Acquisition of Wealth & Possessions
+  - category: Holy Spirit
+  - category: Way of Life
+  - category: The Jewish People & Land of Israel
+  - category: The Word and Will of God & Messiah
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '75'
+  title_en: Feed My sheep
+  current_category: Ministering, Discipling & Teaching
+  confidence_score: 1.0
+  approved_category: Ministering, Discipling & Teaching
+  proposed_alternatives:
+  - category: Charity, Provision, & Generosity
+    score: 0.0
+  - category: Commerce
+    score: 0.0
+  - category: Covenant Responsibilities
+    score: 0.0
+  - category: Days & Seasons
+    score: 0.0
+  - category: Tribulation & Adversity
+    score: 0.0
+  - category: Marriage & Family
+    score: 0.0
+  - category: Godliness, Holiness & Righteousness
+    score: 0.0
+  - category: Idolatry, Heathens & the Occult
+    score: 0.0
+  - category: Justice
+    score: 0.0
+  - category: Dietary Laws & Food Regulations
+    score: 0.0
+  - category: God & Yeshua
+    score: 0.0
+  - category: Morality & Compassion
+    score: 0.0
+  - category: Neighbours & Brothers
+    score: 0.0
+  - category: Ministering, Discipling & Teaching
+    score: 0.0
+  - category: Priesthood
+    score: 0.0
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.0
+  - category: Holy Spirit
+    score: 0.0
+  - category: Way of Life
+    score: 0.0
+  - category: The Jewish People & Land of Israel
+    score: 0.0
+  - category: The Word and Will of God & Messiah
+    score: 0.0
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '76'
+  title_en: 'Go therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you'
+  current_category: God & Yeshua
+  confidence_score: 4.6353
+  approved_category: Ministering, Discipling & Teaching
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 4.6353
+  - category: Days & Seasons
+    score: 3.1294
+  - category: Godliness, Holiness & Righteousness
+    score: 2.6471
+  - category: Neighbours & Brothers
+    score: 2.3765
+  - category: Charity, Provision, & Generosity
+    score: 0.9824
+  - category: Covenant Responsibilities
+    score: 0.9294
+  - category: Priesthood
+    score: 0.8647
+  - category: The Word and Will of God & Messiah
+    score: 0.8353
+  - category: Ministering, Discipling & Teaching
+    score: 0.8294
+  - category: Dietary Laws & Food Regulations
+    score: 0.6588
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.4353
+  - category: Commerce
+    score: 0.4118
+  - category: Morality & Compassion
+    score: 0.4118
+  - category: Justice
+    score: 0.4059
+  - category: Marriage & Family
+    score: 0.3882
+  - category: The Jewish People & Land of Israel
+    score: 0.3824
+  - category: Holy Spirit
+    score: 0.3588
+  - category: Way of Life
+    score: 0.3588
+  - category: Idolatry, Heathens & the Occult
+    score: 0.3235
+  - category: Tribulation & Adversity
+    score: 0.0588
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
+- step: '77'
+  title_en: And, behold, I am with you always, even unto the end of the world
+  current_category: God & Yeshua
+  confidence_score: 3.6429
+  approved_category: God & Yeshua
+  proposed_alternatives:
+  - category: God & Yeshua
+    score: 3.6429
+  - category: Days & Seasons
+    score: 2.8857
+  - category: Neighbours & Brothers
+    score: 2.1
+  - category: Godliness, Holiness & Righteousness
+    score: 1.5429
+  - category: Charity, Provision, & Generosity
+    score: 0.8429
+  - category: Ministering, Discipling & Teaching
+    score: 0.8143
+  - category: Covenant Responsibilities
+    score: 0.7
+  - category: The Word and Will of God & Messiah
+    score: 0.6857
+  - category: Priesthood
+    score: 0.6571
+  - category: Dietary Laws & Food Regulations
+    score: 0.5857
+  - category: Way of Life
+    score: 0.3857
+  - category: The Jewish People & Land of Israel
+    score: 0.3714
+  - category: Prioritization & Acquisition of Wealth & Possessions
+    score: 0.3429
+  - category: Commerce
+    score: 0.3143
+  - category: Marriage & Family
+    score: 0.3143
+  - category: Justice
+    score: 0.3143
+  - category: Holy Spirit
+    score: 0.3
+  - category: Morality & Compassion
+    score: 0.2571
+  - category: Idolatry, Heathens & the Occult
+    score: 0.2429
+  - category: Tribulation & Adversity
+    score: 0.0857
+  - category: Engaging Our Enemies
+  - category: Evangelizing & Preaching
+  - category: Gentiles
+  - category: Governing & Governing Authorities
+  - category: Humility & Pride
+  - category: Identity
+  - category: Instructing, Correcting, Rebuking & Judging
+  - category: New Birth, Resurrection & Deliverance / Salvation
+  - category: Prayer & Worship
+  - category: Prophecy
+  - category: Repenting & Seeking Forgiveness of Sin
+  - category: Slaves & Indentured Servants
+  - category: Spiritual Gifts
+  - category: Spiritual Leadership
+  - category: Spiritual Warfare
+  - category: Women
