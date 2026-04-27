@@ -1,5 +1,5 @@
 - step: '1'
-  category: Godliness & Godly Living
+  category: Repenting & Seeking Forgiveness of Sin
   title_en: Repent and believe the gospel
   bible_refs:
   - bible_ref: ''
@@ -423,7 +423,7 @@
     bible_ref_author: HEERE
     bible_ref_type: otlaw
 - step: '2'
-  category: Godliness & Godly Living
+  category: New Birth, Resurrection & Deliverance / Salvation
   title_en: Get baptized
   bible_refs:
   - bible_ref: ''
@@ -567,7 +567,7 @@
     bible_ref_author: Peter
     bible_ref_type: study
 - step: '3'
-  category: Godliness & Godly Living
+  category: The Word and Will of God & Messiah
   title_en: Follow Me
   bible_refs:
   - bible_ref: ''
@@ -753,7 +753,7 @@
     bible_ref_author: Moses
     bible_ref_type: otlaw
 - step: '4'
-  category: Days & Seasons
+  category: Spiritual Gifts
   title_en: Therefore bear fruits worthy of repentance
   title_negative_en: He cuts off every branch in me that bears no fruit
   bible_refs:
@@ -961,7 +961,7 @@
     bible_ref_author: HEERE
     bible_ref_type: otlaw
 - step: '5'
-  category: Relating to God & Yeshua
+  category: Prayer & Worship
   title_en: You shall worship the LORD your God, and Him only you shall serve
   title_negative_en: No servant can serve two masters
   bible_refs:
@@ -1225,7 +1225,7 @@
     bible_ref_author: Moses
     bible_ref_type: otlaw
 - step: '6'
-  category: Relating to God & Yeshua
+  category: Evangelizing & Preaching
   title_en: Pray the Lord of the harvest to send out laborers into His harvest
   bible_refs:
   - bible_ref: ''
@@ -1444,7 +1444,7 @@
     bible_ref_author: HEERE
     bible_ref_type: otlaw
 - step: '8'
-  category: Relating to God & Yeshua
+  category: Evangelizing & Preaching
   title_en: Go into all the world and preach the gospel to every creature
   bible_refs:
   - bible_ref: ''
@@ -1756,7 +1756,7 @@
     bible_ref_author: David
     bible_ref_type: study
 - step: '9'
-  category: Relating to God & Yeshua
+  category: Humility & Pride
   title_en: Blessed are the poor in spirit, for theirs is the kingdom of heaven
   title_negative_en: Don’t rely on your own strenght
   bible_refs:
@@ -1866,7 +1866,7 @@
     bible_ref_author: Stephen
     bible_ref_type: example
 - step: '10'
-  category: Relating to Brothers & Neighbors
+  category: Morality & Compassion
   title_en: 'Blessed are they that mourn: for they shall be comforted'
   bible_refs:
   - bible_ref: ''
@@ -2024,7 +2024,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '11'
-  category: Relating to Brothers & Neighbors
+  category: Instructing, Correcting, Rebuking & Judging
   title_en: 'Blessed are the meek: for they shall inherit the earth'
   bible_refs:
   - bible_ref: ''
@@ -2133,7 +2133,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '12'
-  category: Relating to God & Yeshua
+  category: Godliness, Holiness & Righteousness
   title_en: 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled'
   bible_refs:
   - bible_ref: ''
@@ -2438,7 +2438,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '13'
-  category: Relating to God & Yeshua
+  category: Charity, Provision, & Generosity
   title_en: 'Blessed are the merciful: for they shall obtain mercy'
   bible_refs:
   - bible_ref: ''
@@ -2575,7 +2575,7 @@
     bible_ref_author: Jesus
     bible_ref_type: study
 - step: '14'
-  category: Relating to God & Yeshua
+  category: Godliness, Holiness & Righteousness
   title_en: 'Blessed are the pure in heart: for they shall see God'
   title_negative_en: Go, and sin no more
   bible_refs:
@@ -2916,7 +2916,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '15'
-  category: Relating to God & Yeshua
+  category: Engaging Our Enemies
   title_en: 'Blessed are the peacemakers: for they shall be called the children of God'
   bible_refs:
   - bible_ref: ''
@@ -3032,7 +3032,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '16'
-  category: Relating to God & Yeshua
+  category: Tribulation & Adversity
   title_en: 'Blessed are they which are persecuted for righteousness'' sake: for theirs is the kingdom of heaven.'
   bible_refs:
   - bible_ref: ''
@@ -3267,7 +3267,7 @@
     bible_ref_author: Job
     bible_ref_type: wisdom
 - step: '17'
-  category: Relating to God & Yeshua
+  category: Prioritization & Acquisition of Wealth & Possessions
   title_en: 'Rejoice, and be exceeding glad: for great is your reward in heaven'
   bible_refs:
   - bible_ref: ''
@@ -3467,7 +3467,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '18'
-  category: Relating to God & Yeshua
+  category: Godliness, Holiness & Righteousness
   title_en: Have salt in yourselves, and have peace one with another
   bible_refs:
   - bible_ref: ''
@@ -3562,7 +3562,7 @@
     bible_ref_author: Abijah
     bible_ref_type: study
 - step: '19'
-  category: Relating to God & Yeshua
+  category: Godliness, Holiness & Righteousness
   title_en: Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven
   bible_refs:
   - bible_ref: ''
@@ -3727,7 +3727,7 @@
     bible_ref_author: Jesus
     bible_ref_type: study
 - step: '20'
-  category: Justice
+  category: Ministering, Discipling & Teaching
   title_en: Whoever practices and teaches these commands will be called great in the kingdom of heaven
   title_negative_en: Do not set aside one of the least of these commands
   bible_refs:
@@ -4166,7 +4166,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '21'
-  category: Godliness & Godly Living
+  category: Justice
   title_en: Don’t be angry at your brother without a cause. If you will be, reconcile as quickly as possible
   title_negative_en: Let not the sun go down upon your wrath
   bible_refs:
@@ -4290,7 +4290,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '22'
-  category: Days & Seasons
+  category: Godliness, Holiness & Righteousness
   title_en: Eliminate any cause of temptation
   bible_refs:
   - bible_ref: ''
@@ -4525,7 +4525,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '23'
-  category: Family
+  category: Marriage & Family
   title_en: Honor marriage
   title_negative_en: Do not look lustfully to a woman
   bible_refs:
@@ -4997,7 +4997,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '25'
-  category: Relating to Brothers & Neighbors
+  category: Tribulation & Adversity
   title_en: Whosoever shall smite thee on thy right cheek, turn to him the other also
   title_negative_en: Do not resist evil
   bible_refs:
@@ -5128,7 +5128,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '26'
-  category: Neighbours & Brothers
+  category: Charity, Provision, & Generosity
   title_en: Share goods with the needy
   title_negative_en: If anyone takes what belongs to you, do not demand it back
   bible_refs:
@@ -5413,7 +5413,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '27'
-  category: Holiness & God's Order
+  category: Engaging Our Enemies
   title_en: Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you
   title_negative_en: Do not say, I’ll do to them as they have done to me
   bible_refs:
@@ -5709,7 +5709,7 @@
     bible_ref_author: Job
     bible_ref_type: wisdom
 - step: '29'
-  category: Godliness & Godly Living
+  category: Charity, Provision, & Generosity
   title_en: Be generous (and fasten and pray) in secret
   bible_refs:
   - bible_ref: ''
@@ -5811,7 +5811,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '30'
-  category: Relating to God
+  category: Prayer & Worship
   title_en: Pray in faith according to the will of the Father
   bible_refs:
   - bible_ref: ''
@@ -6253,7 +6253,7 @@
     bible_ref_author: Jesus
     bible_ref_type: example
 - step: '32'
-  category: Godliness & Godly Living
+  category: Prayer & Worship
   title_en: Fast regularly
   bible_refs:
   - bible_ref: ''
@@ -6432,7 +6432,7 @@
     bible_ref_author: Moses
     bible_ref_type: otlaw
 - step: '33'
-  category: Relating to God & Yeshua
+  category: Prioritization & Acquisition of Wealth & Possessions
   title_en: Lay up for yourselves treasures in heaven
   title_negative_en: Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on
   bible_refs:
@@ -6717,7 +6717,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '34'
-  category: Relating to God & Yeshua
+  category: Godliness, Holiness & Righteousness
   title_en: Seek first the kingdom of God and His righteousness, and all these things shall be added to you
   title_negative_en: Do not worry about your life
   bible_refs:
@@ -6820,7 +6820,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '35'
-  category: Neighbours & Brothers
+  category: Instructing, Correcting, Rebuking & Judging
   title_en: First cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye
   title_negative_en: Do not judge, or you too will be judged
   bible_refs:
@@ -7000,7 +7000,7 @@
     bible_ref_author: Unknown
     bible_ref_type: wisdom
 - step: '36'
-  category: Relating to God & Yeshua
+  category: The Word and Will of God & Messiah
   title_en: Seek, and you will find
   bible_refs:
   - bible_ref: ''
@@ -7165,7 +7165,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '37'
-  category: Relating to God & Yeshua
+  category: Repenting & Seeking Forgiveness of Sin
   title_en: Knock, and it shall be opened unto you
   bible_refs:
   - bible_ref: ''
@@ -7246,7 +7246,7 @@
     bible_ref_author: Jesus
     bible_ref_type: study
 - step: '38'
-  category: Godliness, Holiness & Righteousness
+  category: Neighbours & Brothers
   title_en: Treat others as you would like to be treated yourself
   title_negative_en: Don't treat others as they treat you
   bible_refs:
@@ -7405,7 +7405,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '39'
-  category: Relating to God & Yeshua
+  category: The Word and Will of God & Messiah
   title_en: Strive to enter in at the strait gate
   bible_refs:
   - bible_ref: ''
@@ -7521,7 +7521,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '40'
-  category: End-Times
+  category: Tribulation & Adversity
   title_en: Beware of false prophets
   title_negative_en: Dear friends, do not believe every spirit
   bible_refs:
@@ -7778,7 +7778,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '41'
-  category: Relating to God & Yeshua
+  category: The Word and Will of God & Messiah
   title_en: Listen to Jesus, understand and obey
   bible_refs:
   - bible_ref: ''
@@ -8251,7 +8251,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '42'
-  category: Relating to God & Yeshua
+  category: Spiritual Warfare
   title_en: Be of good cheer
   title_negative_en: Be not afraid
   bible_refs:
@@ -8431,7 +8431,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '43'
-  category: Relating to Brothers & Neighbors
+  category: Morality & Compassion
   title_en: Be moved with inner compassion with the people around you
   bible_refs:
   - bible_ref: ''
@@ -8652,7 +8652,7 @@
     bible_ref_author: Job
     bible_ref_type: wisdom
 - step: '44'
-  category: Relating to God & Yeshua
+  category: Godliness, Holiness & Righteousness
   title_en: Be wise as serpents and harmless as doves
   title_negative_en: Do not throw your pearls to pigs
   bible_refs:
@@ -8811,7 +8811,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '45'
-  category: Relating to God & Yeshua
+  category: God & Yeshua
   title_en: Fear God
   title_negative_en: Be not afraid of them that kill the body, and after that have no more that they can do
   bible_refs:
@@ -9194,7 +9194,7 @@
     bible_ref_author: Unknown
     bible_ref_type: wisdom
 - step: '46'
-  category: Godliness, Holiness & Righteousness
+  category: Evangelizing & Preaching
   title_en: Tell to people boldly, what Jesus says to you
   title_negative_en: Do not be afraid of them
   bible_refs:
@@ -9360,7 +9360,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '47'
-  category: Relating to God & Yeshua
+  category: God & Yeshua
   title_en: Love God above all
   bible_refs:
   - bible_ref: ''
@@ -9455,7 +9455,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '48'
-  category: Relating to God & Yeshua
+  category: The Word and Will of God & Messiah
   title_en: Deny yourself, take up a cross, and follow Jesus
   bible_refs:
   - bible_ref: ''
@@ -9585,7 +9585,7 @@
     bible_ref_author: Job
     bible_ref_type: wisdom
 - step: '49'
-  category: Relating to God
+  category: Charity, Provision, & Generosity
   title_en: Receive him whom I will send
   title_negative_en: It is a sin to despise one’s neighbor
   bible_refs:
@@ -9709,7 +9709,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '50'
-  category: Relating to Brothers & Neighbors
+  category: Evengelizing & Preaching
   title_en: Blessed is he who does not offend Me
   bible_refs:
   - bible_ref: ''
@@ -9825,7 +9825,7 @@
     bible_ref_author: Micah
     bible_ref_type: example
 - step: '51'
-  category: Relating to God & Yeshua
+  category: The Word and Will of God & Messiah
   title_en: Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls
   bible_refs:
   - bible_ref: ''
@@ -9997,7 +9997,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '52'
-  category: Holiness & God's Order
+  category: Godliness, Holiness & Righteousness
   title_en: Calm words are a tree of life
   bible_refs:
   - bible_ref: ''
@@ -10155,7 +10155,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '53'
-  category: Days & Seasons
+  category: The Word and Will of God & Messiah
   title_en: Do the will of the Father
   bible_refs:
   - bible_ref: ''
@@ -10404,7 +10404,7 @@
     bible_ref_author: James and Peter
     bible_ref_type: study
 - step: '54'
-  category: Relating to God & Yeshua
+  category: Governing & Governing Authorities
   title_en: Give to the emperor what is from the emperor, and to God what is from God
   bible_refs:
   - bible_ref: ''
@@ -10499,7 +10499,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '55'
-  category: Relating to God & Yeshua
+  category: Marriage & Family
   title_en: Unless you are converted and become as little children, you will by no means enter the kingdom of heaven
   bible_refs:
   - bible_ref: ''
@@ -10594,7 +10594,7 @@
     bible_ref_author: Jesus
     bible_ref_type: duplicate
 - step: '56'
-  category: Relating to Brothers & Neighbors
+  category: Marriage & Family
   title_en: Whoso shall receive one such little child in my name receiveth me
   bible_refs:
   - bible_ref: ''
@@ -10661,7 +10661,7 @@
     bible_ref_author: Josiah
     bible_ref_type: example
 - step: '57'
-  category: Outreach, Ministry & Spiritual Authority
+  category: Prayer & Worship
   title_en: Desire something in union on the earth, and it will fall to you from My Father who is in heaven
   bible_refs:
   - bible_ref: ''
@@ -10770,7 +10770,7 @@
     bible_ref_author: Many disciples (men and woman)
     bible_ref_type: example
 - step: '58'
-  category: Godliness, Holiness & Righteousness
+  category: The Word and Will of God & Messiah
   title_en: Blessed are they that hear the word of God, and keep it
   bible_refs:
   - bible_ref: ''
@@ -11086,7 +11086,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '60'
-  category: Relating to God & Yeshua
+  category: Days & Seasons
   title_en: Look forward to the wedding of the Lamb
   bible_refs:
   - bible_ref: ''
@@ -11167,7 +11167,7 @@
     bible_ref_author: Unknown
     bible_ref_type: study
 - step: '61'
-  category: Days & Seasons
+  category: Neighbours & Brothers
   title_en: Find the lost sheep
   bible_refs:
   - bible_ref: ''
@@ -11234,7 +11234,7 @@
     bible_ref_author: David
     bible_ref_type: example
 - step: '62'
-  category: Relating to God & Yeshua
+  category: Way of Life
   title_en: In every thing give thanks
   bible_refs:
   - bible_ref: ''
@@ -11364,7 +11364,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '63'
-  category: Relating to God & Yeshua
+  category: Family & Marriage
   title_en: Honor your father and your mother
   bible_refs:
   - bible_ref: ''
@@ -11480,7 +11480,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '64'
-  category: Relating to Brothers & Neighbors
+  category: Neighbours & Brothers
   title_en: Many that are first shall be last; and the last shall be first
   title_negative_en: For whosoever exalteth himself shall be abased
   bible_refs:
@@ -11737,7 +11737,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '65'
-  category: Relating to God & Yeshua
+  category: God & Yeshua
   title_en: Have faith in God
   bible_refs:
   - bible_ref: ''
@@ -11888,7 +11888,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '66'
-  category: Holiness & God's Order
+  category: God & Yeshua
   title_en: You shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength
   bible_refs:
   - bible_ref: ''
@@ -12242,7 +12242,7 @@
     bible_ref_author: Moses
     bible_ref_type: otlaw
 - step: '67'
-  category: Relating to Brothers & Neighbors
+  category: Neighbours & Brothers
   title_en: You shall love your neighbor as yourself
   bible_refs:
   - bible_ref: ''
@@ -12386,7 +12386,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '68'
-  category: Relating to God & Yeshua
+  category: Tribulation & Adversity
   title_en: Watch therefore for the coming of Jesus
   bible_refs:
   - bible_ref: ''
@@ -12579,7 +12579,7 @@
     bible_ref_author: Moses
     bible_ref_type: otlaw
 - step: '69'
-  category: Godliness & Godly Living
+  category: Spiritual Gifts
   title_en: Use your talents to honor the Father
   bible_refs:
   - bible_ref: ''
@@ -12681,7 +12681,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '70'
-  category: Relating to Brothers & Neighbors
+  category: Holy Spirit
   title_en: Trust that the Spirit will guide you
   title_negative_en: Do not worry about what to say
   bible_refs:
@@ -12847,7 +12847,7 @@
     bible_ref_author: Jehoshaphat
     bible_ref_type: study
 - step: '71'
-  category: Relating to God & Yeshua
+  category: God & Yeshua
   title_en: Celebrate the Lord’s supper in remembrance of Me
   bible_refs:
   - bible_ref: ''
@@ -12928,7 +12928,7 @@
     bible_ref_author: Moses
     bible_ref_type: otlaw
 - step: '72'
-  category: Relating to Brothers & Neighbors
+  category: Instructing, Correcting, Rebuking & Judging
   title_en: Strengthen your brethren
   bible_refs:
   - bible_ref: ''
@@ -13163,7 +13163,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '73'
-  category: Relating to God & Yeshua
+  category: Godliness, Holiness & Righteousness
   title_en: He that abideth in me, and I in him, the same bringeth forth much fruit
   title_negative_en: For without me ye can do nothing
   bible_refs:
@@ -13231,7 +13231,7 @@
     bible_ref_author: Paul
     bible_ref_type: study
 - step: '74'
-  category: Relating to God & Yeshua
+  category: Priesthood
   title_en: We are called to glorify the Name of God in Christ Jesus!
   bible_refs:
   - bible_ref: ''
@@ -13494,7 +13494,7 @@
     bible_ref_author: Paul
     bible_ref_type: study
 - step: '75'
-  category: Outreach, Ministry & Spiritual Authority
+  category: Ministering, Discipling & Teaching
   title_en: Feed My sheep
   bible_refs:
   - bible_ref: ''
@@ -13659,7 +13659,7 @@
     bible_ref_author: Jesus
     bible_ref_type: study
 - step: '76'
-  category: Relating to God & Yeshua
+  category: Ministering, Discipling & Teaching
   title_en: 'Go therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you'
   bible_refs:
   - bible_ref: ''
@@ -13810,7 +13810,7 @@
     bible_ref_author: Solomon
     bible_ref_type: wisdom
 - step: '77'
-  category: Relating to God & Yeshua
+  category: God & Yeshua
   title_en: And, behold, I am with you always, even unto the end of the world
   bible_refs:
   - bible_ref: ''
