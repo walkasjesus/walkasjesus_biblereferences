@@ -1,6 +1,23 @@
 # walkasjesus_biblereferences
 Repository for the Walk as Jesus Framework where all the commandments with all their related Bible References are stored in a CSV. This CSV can be imported/exported with the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework) and the [Walk as Jesus Server](https://github.com/walkasjesus/walkasjesus_server)
 
+## Files
+
+- **commandments.csv** — Contains all 77 Steps commandments with their related Bible references.
+- **lessons.csv** — Contains lesson data related to the commandments.
+
+## Usage
+
+Import commandments into the database:
+```bash
+python manage.py import_commandments
+```
+
+Export commandments from the database:
+```bash
+python manage.py export_commandments
+```
+
 # Related projects and repositories
 The following projects are related to this repository.
 
